@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>欧莱雅 Brandstorm | 陈璐</title>
+<link rel="stylesheet" href="style.css">
+<style>
+    .poster-frame { width: 100%; border-radius: 4px; border: 1px solid var(--border-color); overflow: hidden; margin: 24px 0; }
+    .poster-frame img { width: 100%; display: block; }
+    .poster-caption { text-align: center; font-size: 13px; color: var(--text-muted); padding: 12px; background: var(--bg-card); border-top: 1px solid var(--border-color); }
+    .insight-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin-top: 20px; }
+    .insight-card { padding: 20px; background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 4px; }
+    .insight-card h5 { font-size: 14px; font-weight: 700; color: var(--gold); margin-bottom: 8px; letter-spacing: 1px; }
+    .insight-card p { font-size: 13px; color: var(--text-secondary); line-height: 1.7; margin: 0; }
+    .persona-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin-top: 16px; }
+    .persona-card { padding: 16px; background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 4px; position: relative; overflow: hidden; }
+    .persona-card::before { content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 2px; background: linear-gradient(90deg, var(--gold), var(--cinnabar)); opacity: 0.5; }
+    .persona-card h5 { font-size: 14px; font-weight: 700; color: var(--text-primary); margin-bottom: 6px; }
+    .persona-card p { font-size: 12px; color: var(--text-secondary); line-height: 1.6; margin: 0; }
+    .tech-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin-top: 16px; }
+    .tech-card { padding: 20px; background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 4px; }
+    .tech-card h5 { font-size: 14px; font-weight: 700; color: var(--gold); margin-bottom: 8px; }
+    .tech-card p { font-size: 13px; color: var(--text-secondary); line-height: 1.7; margin: 0; }
+    .pricing-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-top: 16px; }
+    .pricing-card { padding: 20px; background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 4px; text-align: center; transition: all 0.4s ease; }
+    .pricing-card:hover { border-color: var(--gold-dim); }
+    .pricing-card .price { font-family: 'Ma Shan Zheng', cursive; font-size: 28px; color: var(--gold); margin-bottom: 8px; }
+    .pricing-card .label { font-size: 13px; font-weight: 600; color: var(--text-primary); margin-bottom: 8px; }
+    .pricing-card .desc { font-size: 12px; color: var(--text-muted); line-height: 1.6; }
+    .phase-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px; margin-top: 16px; }
+    .phase-card { padding: 20px; background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 4px; position: relative; }
+    .phase-card .badge { display: inline-block; font-size: 11px; padding: 3px 10px; border-radius: 2px; font-weight: 600; margin-bottom: 10px; letter-spacing: 1px; }
+    .phase-card .badge-tease { background: rgba(100,160,100,0.1); color: #6aaa6a; border: 1px solid rgba(100,160,100,0.2); }
+    .phase-card .badge-burst { background: rgba(201,169,110,0.1); color: var(--gold); border: 1px solid rgba(201,169,110,0.2); }
+    .phase-card .badge-sustain { background: rgba(181,74,58,0.1); color: var(--cinnabar); border: 1px solid rgba(181,74,58,0.2); }
+    .phase-card h5 { font-size: 15px; font-weight: 700; color: var(--text-primary); margin-bottom: 8px; }
+    .phase-card p { font-size: 13px; color: var(--text-secondary); line-height: 1.7; margin: 0; }
+    .roi-highlight { font-family: 'Ma Shan Zheng', cursive; font-size: 36px; color: var(--gold); text-align: center; margin: 24px 0; }
+</style>
+</head>
+<body>
+<nav class="nav">
+    <div class="nav-container">
+        <a href="index.html" class="nav-logo">陈璐</a>
+        <ul class="nav-links" id="navLinks">
+            <li><a href="index.html#profile">个人简介</a></li>
+            <li><a href="index.html#education">教育背景</a></li>
+            <li><a href="index.html#portfolio">项目作品</a></li>
+            <li><a href="index.html#contact">联系我</a></li>
+        </ul>
+        <div class="nav-hamburger" id="navHamburger"><span></span><span></span><span></span></div>
+    </div>
+</nav>
+
+<div style="position: fixed; top: 80px; left: 24px; z-index: 100;">
+    <a href="index.html" class="btn btn-outline" style="font-size: 13px; padding: 8px 16px;">← 返回</a>
+</div>
+
+<!-- Detail Hero -->
+<section class="detail-hero">
+    <div class="detail-hero-bg"></div>
+    <div class="detail-hero-content">
+        <div class="hero-seal">赛</div>
+        <h1 class="section-title">欧莱雅 Brandstorm 商赛</h1>
+        <div class="hero-divider"></div>
+        <div class="detail-meta">
+            <span>📅 2025.12 - 2026.03</span>
+            <span>👑 团队队长</span>
+            <span>💄 战略核心成员</span>
+        </div>
+    </div>
+</section>
+
+<!-- 项目概述 -->
+<section class="detail-section detail-section-alt">
+    <div class="detail-content reveal">
+        <h3>项目概述</h3>
+        <p>
+            欧莱雅 Brandstorm 是全球知名的品牌商业挑战赛。我作为团队队长和战略核心成员，
+            围绕<strong style="color: var(--gold);">YSL高端香氛</strong>消费场景，带领团队完成了从市场洞察、创意构思到完整提案的全流程。
+            我们提出了<strong>"The Moment — Define Your Moment"</strong>的产品创意方向，
+            将香氛从"身份符号"升级为"时刻表达工具"，并设计了一套完整的线上线下融合体验链路。
+        </p>
+    </div>
+</section>
+
+<!-- 我的角色 -->
+<section class="detail-section">
+    <div class="detail-content reveal">
+        <h3>我的角色与贡献</h3>
+        <p>
+            作为团队<strong>队长兼战略核心成员</strong>，我负责从市场洞察到终版提案的全链路统筹。
+            在团队缺乏3D建模能力的情况下，我通过AI工具补齐视觉呈现短板，
+            将抽象策略转化为可感知的产品概念，最终推动方案完整落地。
+        </p>
+
+        <h4>◈ 策略锚定：从市场缝隙中找到核心洞察</h4>
+        <p>
+            我主导了前期的市场洞察与用户研究工作。通过社交媒体关键词挖掘、用户访谈和竞品观察，
+            我发现中国香氛市场正在经历从"所有权驱动"到<strong>"场景驱动的身份表达"</strong>的结构性转变。
+            消费者不再单纯追求"拥有一瓶名牌香水"，而是将香氛使用场景扩展到约会、职场、社交等多元生活时刻。
+            这一洞察成为我们整个方案的<strong>战略锚点</strong>。
+        </p>
+
+        <h4>◈ 创意发散：提出"The Moment"产品概念</h4>
+        <p>
+            基于市场洞察，我提出<strong>"The Moment — Define Your Moment"</strong>的核心创意方向：
+            将香氛从"身份符号"升级为"时刻表达工具"。
+            我设计了6种"Moment Persona"（The Icon / Strategist / Curator / Muse / Intimate / Dreamer），
+            作为香氛匹配的情感框架，让抽象的情绪需求转化为可体验、可传播的产品理念。
+        </p>
+
+        <h4>◈ 体验设计：主导搭建完整用户链路</h4>
+        <p>
+            我主导设计了从<strong>线上预约 → VR场景模拟 → 状态捕捉与香氛匹配 → 放松选择 → 定制交付</strong>的完整体验链路。
+            每个环节都围绕"时刻"这一核心概念展开，考虑了用户的互动感、仪式感与分享价值，
+            让购买香氛变成一次值得分享的"时刻探索之旅"。
+        </p>
+
+        <h4>◈ AI工具运用：补齐团队视觉短板</h4>
+        <p>
+            在团队缺乏3D建模能力的情况下，我主动使用AI工具辅助生成产品视觉、场景参考和创意表达素材，
+            提高方案呈现效率与视觉想象力。这体现了我在资源受限情况下的<strong>问题解决能力和工具运用能力</strong>，
+            也让我们的方案在视觉呈现上不输于有专业设计支持的团队。
+        </p>
+
+        <h4>◈ 团队统筹：策略、设计、商业化三模块推进</h4>
+        <p>
+            作为队长，我负责策略、设计、商业化三个模块之间的进度管理与内容整合。
+            在有限时间内协调多方资源，确保每个模块的质量和进度，
+            推动项目从市场洞察、产品脑洞到营销路径和终版提案完整落地。
+        </p>
+    </div>
+</section>
+
+<!-- 思考与收获 -->
+<section class="detail-section detail-section-alt">
+    <div class="detail-content reveal">
+        <h3>思考与收获</h3>
+        <p>
+            这次商赛让我深刻理解了<strong>"策略、创意、执行"三者如何统一</strong>。
+            一个好的营销方案不仅要有洞察支撑的策略，还要有让人眼前一亮的创意，
+            更需要清晰可落地的执行路径。
+        </p>
+        <p>
+            在游戏品牌营销中，同样需要这种"从洞察到落地"的全链路思维——
+            理解玩家情绪、设计传播内容、选择合适平台和达人，每一步都需要策略驱动。
+            "The Moment"的核心理念——将产品从功能属性转化为情感载体——
+            同样适用于游戏中的英雄认同、皮肤设计、社交关系等营销场景。
+        </p>
+    </div>
+</section>
+
+<!-- 成品海报 -->
+<section class="detail-section">
+    <div class="detail-content reveal">
+        <h3>完整方案海报</h3>
+        <div class="poster-frame">
+            <img src="assets/loreal-poster.jpg" alt="欧莱雅 Brandstorm 完整方案海报">
+            <div class="poster-caption">YSL The Moment — 市场洞察 · 产品设计 · 上市策略 完整方案</div>
+        </div>
+        <p style="text-align: center; font-size: 13px; color: var(--text-muted); margin-top: 16px;">以下为方案的完整解析 ↓</p>
+    </div>
+</section>
+
+<!-- 市场洞察 -->
+<section class="detail-section detail-section-alt">
+    <div class="detail-content reveal">
+        <h3>市场洞察</h3>
+        <h4>◈ 中国香氛市场的结构性转变</h4>
+        <p>
+            中国香氛市场正在经历从<strong>"所有权驱动"</strong>到<strong>"场景驱动的身份表达"</strong>的深刻转变。
+            消费者不再单纯追求"拥有一瓶名牌香水"，而是将香氛使用场景扩展到约会、职场、社交、独处等多元生活时刻。
+            这揭示了<strong>碎片化、场景驱动的需求</strong>正在重塑行业格局。
+        </p>
+
+        <div class="insight-grid">
+            <div class="insight-card">
+                <h5>🎯 用户痛点</h5>
+                <p>消费者知道气味塑造感知，但缺乏结构化的使用方式；难以将内在意图转化为明确的香氛选择。</p>
+            </div>
+            <div class="insight-card">
+                <h5>⚠️ 决策阻力</h5>
+                <p>气味可以提升存在感或削弱它，错位风险造成犹豫；太多相似选项导致决策过载。</p>
+            </div>
+            <div class="insight-card">
+                <h5>🔍 搜索行为变化</h5>
+                <p>消费者 increasingly search fragrance by occasion，而非传统的香调分类。</p>
+            </div>
+            <div class="insight-card">
+                <h5>💭 身份焦虑</h5>
+                <p>消费者犹豫的不仅是气味本身，还有"这瓶香水是否真正反映了我想成为的人"。</p>
+            </div>
+        </div>
+
+        <h4 style="margin-top: 28px;">◈ 竞争格局分析</h4>
+        <p>
+            我们识别了三大竞争阵营及其结构性空白：
+        </p>
+        <ul>
+            <li><strong>故事驱动型奢华品牌（如Dior）：</strong>聚焦品牌叙事与渴望感，但缺乏个性化场景指导</li>
+            <li><strong>个性化品牌（如Le Labo）：</strong>强调个体性与共创，但缺乏技术驱动的精准匹配</li>
+            <li><strong>算法匹配型（如在线问卷）：</strong>追求速度与便利，但体验碎片化，线上线下脱节</li>
+        </ul>
+        <p>
+            <strong style="color: var(--gold);">结构性空白：</strong>缺乏情境化指导（基于时刻的决策）、用户意图与香氛结果之间的连接薄弱、线上猜测与线下试用之间的体验碎片化。
+        </p>
+    </div>
+</section>
+
+<!-- 核心创意 -->
+<section class="detail-section">
+    <div class="detail-content reveal">
+        <h3>核心创意</h3>
+        <h4 style="color: var(--gold); font-family: 'Ma Shan Zheng', cursive; font-size: 28px; font-weight: 400; letter-spacing: 2px;">The Moment — Define Your Moment</h4>
+        <p>
+            我们的核心洞察是：<strong>身份在承载情感、社会或象征重量的时刻最为清晰可见</strong>。
+            因此，香氛选择不应由品牌定义，也不应由香调分类定义，而应由<strong>"那个时刻"</strong>定义。
+        </p>
+        <p>
+            "The Moment" 将YSL从<strong>标志性身份</strong>延伸到<strong>特定时刻的表达</strong>。
+            它重新定义了香氛的底层逻辑：从"我拥有什么香水"转变为"这一刻，我需要什么样的气味来表达自己"。
+        </p>
+        <h4 style="margin-top: 28px;">◈ 为什么选YSL？</h4>
+        <div class="insight-grid">
+            <div class="insight-card">
+                <h5>Symbolic</h5>
+                <p>YSL 早已将香氛视为大胆自我定义的宣言。品牌基因天然契合"身份表达"这一核心命题。</p>
+            </div>
+            <div class="insight-card">
+                <h5>Emotional</h5>
+                <p>品牌建立在 intensity、感官性和令人难忘的存在感之上，为"时刻化"体验提供了情感基础。</p>
+            </div>
+            <div class="insight-card">
+                <h5>Experiential</h5>
+                <p>YSL 已有美妆科技探索基础，可以支撑更具沉浸感的香氛旅程，从线上到线下无缝衔接。</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- 6种Moment Persona -->
+<section class="detail-section detail-section-alt">
+    <div class="detail-content reveal">
+        <h3>6种 Moment Persona</h3>
+        <p>我们基于用户在不同场景中的核心需求，设计了6种"时刻人格"，作为香氛匹配的情感框架：</p>
+        <div class="persona-grid">
+            <div class="persona-card">
+                <h5>The Icon</h5>
+                <p>站在时刻中心，通过可见性、存在感和即时影响力定义自我。需要一闻即知的标志性气场。</p>
+            </div>
+            <div class="persona-card">
+                <h5>The Strategist</h5>
+                <p>以控制、清晰和从容自信驾驭重要时刻。需要理性与感性平衡的中性香调。</p>
+            </div>
+            <div class="persona-card">
+                <h5>The Curator</h5>
+                <p>通过精致品味、微妙选择和打磨的个人细节表达自我。偏好小众、层次丰富的香氛。</p>
+            </div>
+            <div class="persona-card">
+                <h5>The Muse</h5>
+                <p>激发氛围，创造情感火花，在化学反应与共享活力中蓬勃。需要充满感染力的香气。</p>
+            </div>
+            <div class="persona-card">
+                <h5>The Intimate</h5>
+                <p>优先考虑亲密、柔软和情感安全。偏好温暖、贴肤、不留攻击性的柔和香调。</p>
+            </div>
+            <div class="persona-card">
+                <h5>The Dreamer</h5>
+                <p>寻求创造沉浸、富有想象力和值得记住的时刻。需要具有叙事感和画面感的香气。</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- 产品设计链路 -->
+<section class="detail-section">
+    <div class="detail-content reveal">
+        <h3>产品设计 — 完整体验链路</h3>
+        <p>
+            我们设计了一套从<strong>线上预约</strong>到<strong>线下沉浸</strong>再到<strong>定制交付</strong>的完整体验链路，
+            每个环节都围绕"时刻"这一核心概念展开，将抽象的情绪需求转化为可体验、可传播的产品旅程。
+        </p>
+
+        <h4>◈ Step 1 · 线上预约与预画像</h4>
+        <p>
+            用户通过YSL品牌小程序完成简短问卷，指定目标场合、个人偏好和想要避免的气味类型。
+            系统将模糊的意图（如"这个时刻"）转化为初步香氛画像，在到店前就完成个性化准备，
+            减少店内随机试闻的不确定性，将旅程从"随机尝试"转变为"精准引导"。
+        </p>
+
+        <h4>◈ Step 2 · 场景模拟（VR 沉浸式体验）</h4>
+        <p>
+            基于选定的时刻和人物画像，系统分配一个<strong>沉浸式场景</strong>，反映用户正在准备进入的情感氛围。
+            这允许用户提前体验这个时刻，同时揭示自然的行为反应。我们设计了两种体验空间：
+        </p>
+        <ul>
+            <li><strong>Identity Space：</strong>针对需要控制、清晰和强烈个人气场的时刻（如重要演讲、商务谈判）</li>
+            <li><strong>Connection Space：</strong>针对由亲密、情感连接和柔软互动驱动的时刻（如约会、纪念日）</li>
+        </ul>
+
+        <h4>◈ Step 3 · 状态捕捉与香氛匹配</h4>
+        <p>
+            在沉浸式体验期间，系统通过<strong>多模态传感技术</strong>捕捉用户的行为和生理信号：
+        </p>
+        <ul>
+            <li><strong>Sense（感知）：</strong>注视追踪、移动节奏、暂停与回避行为、可选HRV/GSR生理信号</li>
+            <li><strong>Interpret（解读）：</strong>多源输入通过加权评分、信号融合和人物校准转化为可解读的状态变量</li>
+            <li><strong>State → Structure：</strong>识别出的状态画像首先被转化为香氛行为规则，而非直接匹配成品香</li>
+            <li><strong>Structure → Scent Blueprint：</strong>规则被翻译为定义香氛结构要素的"香气蓝图"</li>
+            <li><strong>Blueprint → Formula Candidates：</strong>蓝图与受控香氛数据库匹配，生成2-3个候选方向</li>
+        </ul>
+        <p>
+            我们不从零创造一种香，而是让系统在品牌安全范围内重新组合现有嗅觉结构，
+            既保证了创新，又确保了品牌一致性和生产可行性。
+        </p>
+
+        <h4>◈ Step 4 · 放松与样本选择</h4>
+        <p>
+            在候选样本准备期间，用户停留在专门设计的平静沉浸式环境中，以保持情绪连续性。
+            随后在同一氛围中测试2-3个建议香氛，在情绪一致的状态下做出最终选择。
+        </p>
+
+        <h4>◈ Step 5 · 最终选择与定制交付</h4>
+        <p>
+            最终选择后，品牌准备一套<strong>定制交付套装</strong>：
+        </p>
+        <ul>
+            <li><strong>定制香氛：</strong>50ml 全尺寸瓶，瓶身铭刻用户的"时刻人格"</li>
+            <li><strong>香氛胸针（Brooch）：</strong>可佩戴的香氛配饰，将气味延伸为身体装饰，在重要时刻作为个人气场的延伸</li>
+            <li><strong>数字档案：</strong>用户的香氛画像、时刻记录和后续推荐存储在CRM中，支持复购和迭代</li>
+        </ul>
+    </div>
+</section>
+
+<!-- 核心技术 -->
+<section class="detail-section detail-section-alt">
+    <div class="detail-content reveal">
+        <h3>核心技术支撑</h3>
+        <div class="tech-grid">
+            <div class="tech-card">
+                <h5>Parametric VR Scene Generation</h5>
+                <p>模块化场景引擎构建参数化空间，通过算法根据用户选择的时刻和人物类型生成个性化沉浸式环境。</p>
+            </div>
+            <div class="tech-card">
+                <h5>Behavioral Tracking & Multimodal Sensing</h5>
+                <p>注视追踪、移动检测、手势识别，以及可选HRV/GSR生理信号，通过多模态融合实现深度状态感知。</p>
+            </div>
+            <div class="tech-card">
+                <h5>State Recognition Engine</h5>
+                <p>加权评分与人物校准，将多源输入转化为可解读的情绪状态变量（唤起/控制/亲密/平静/情感负荷）。</p>
+            </div>
+            <div class="tech-card">
+                <h5>AI Intent-to-Scent Translation</h5>
+                <p>双层次模型结合规则映射与个性化校准，将用户意图转化为结构化香气蓝图。</p>
+            </div>
+            <div class="tech-card">
+                <h5>Fragrance Structure Matching</h5>
+                <p>算法策展将香气蓝图与受控数据库匹配，输出2-3个可行候选方向，而非从零创造。</p>
+            </div>
+            <div class="tech-card">
+                <h5>Memory Loop & CRM Personalization</h5>
+                <p>最终选择通过反馈循环持续存储，结合里程碑时刻与节日推荐，实现长期个性化服务。</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- 上市策略 -->
+<section class="detail-section">
+    <div class="detail-content reveal">
+        <h3>上市策略（GTM Strategy）</h3>
+        <h4>◈ 三阶段推广计划</h4>
+        <div class="phase-grid">
+            <div class="phase-card">
+                <span class="badge badge-tease">TEASE · Month 1</span>
+                <h5>建立认知，驱动早期预订意向</h5>
+                <p>发布未来感先导预告，建立核心概念认知；与香氛创作者、生活方式KOL和奢侈品博主合作，通过work、dating、celebration等场景切入，唤起用户对"Define Your Moment"的好奇。</p>
+            </div>
+            <div class="phase-card">
+                <span class="badge badge-burst">BURST · Month 0-1</span>
+                <h5>将认知转化为预约、体验与购买</h5>
+                <p>发布完整品牌影片与旗舰店开业；开放Mini Moment测试和小程序预约入口；通过付费推广和搜索覆盖核心平台，将好奇心转化为高意向用户池；引导用户从线上内容到线下体验。</p>
+            </div>
+            <div class="phase-card">
+                <span class="badge badge-sustain">SUSTAIN · Month 2-6</span>
+                <h5>维持参与，转化为长期忠诚</h5>
+                <p>建立Moment CRM与会员社群计划，通过里程碑提醒和推荐深化情感连接与品牌记忆；发展用户生成内容，鼓励分享个人香氛故事；利用城市级快闪活动测试永久旗舰店部署。</p>
+            </div>
+        </div>
+
+        <h4 style="margin-top: 28px;">◈ CRM 与长期忠诚度</h4>
+        <p>
+            将一次性体验转化为长期复购：为每位用户建立个人香氛档案，发送里程碑提醒和再购买邀请；
+            为顶级YSL会员提供样本补充体验；通过专属内容和私密社群激活会员社区，
+            让"The Moment"从单次购买变成持续的身份表达旅程。
+        </p>
+
+        <h4 style="margin-top: 28px;">◈ 定价逻辑</h4>
+        <p>
+            我们定位为<strong>奢侈品服务套装</strong>而非单一香水，中国高端消费者愿意为仪式感、个性化和礼品价值付费，而非仅仅为一瓶香水：
+        </p>
+        <div class="pricing-grid">
+            <div class="pricing-card">
+                <div class="price">¥2,080</div>
+                <div class="label">核心套装</div>
+                <div class="desc">沉浸式咨询 + 定制样本 + 50ml全尺寸瓶 + 香氛胸针套装</div>
+            </div>
+            <div class="pricing-card">
+                <div class="price">¥1,080</div>
+                <div class="label">升级套装</div>
+                <div class="desc">额外50ml全尺寸瓶 + 替代样本选择</div>
+            </div>
+            <div class="pricing-card">
+                <div class="price">¥520 / ¥780</div>
+                <div class="label">补充装</div>
+                <div class="desc">30ml / 50ml refill + 存档定制香氛</div>
+            </div>
+            <div class="pricing-card">
+                <div class="price">¥8,800</div>
+                <div class="label">VIP门槛</div>
+                <div class="desc">年度消费达到后解锁样本补充权益</div>
+            </div>
+        </div>
+
+        <h4 style="margin-top: 28px;">◈ 试点与规模化</h4>
+        <p>
+            <strong>试点城市：</strong>上海、北京、成都（奢侈品就绪度高、社交氛围强的城市）
+        </p>
+        <p>
+            <strong>扩张路径：</strong>从快闪店试点 → 基于booking、转化和本地需求表现评估 → 转向永久YSL旗舰店。
+            系统采用模块化VR和可扩展AI架构，可根据城市质量与成本逐步扩展，同时保持核心模式的一致性。
+        </p>
+        <p>
+            <strong>可持续增长：</strong>减少盲目购买和情感不匹配浪费；支持refill和可重复使用的胸针插件以减少包装浪费；
+            使用可回收迷你样本瓶并鼓励店内归还和重复使用。包容不同文化、年龄和社会背景，
+            通过本地化的场景语言保持核心模式的一致性。
+        </p>
+
+        <div class="roi-highlight">预估试点 ROI：18% - 22%</div>
+    </div>
+</section>
+
+<!-- Back -->
+<section class="detail-section detail-section-alt" style="text-align: center; padding: 48px 24px;">
+    <a href="index.html" class="btn btn-primary">← 返回主页</a>
+</section>
+
+<footer class="footer">
+    <div class="footer-brand">陈璐 Connie</div>
+    <p>© 2025 游戏品牌营销方向 | 本简历持续更新中</p>
+</footer>
+
+<script>
+const navHamburger = document.getElementById('navHamburger');
+const navLinks = document.getElementById('navLinks');
+if(navHamburger) navHamburger.addEventListener('click', () => navLinks.classList.toggle('active'));
+document.querySelectorAll('a[href^="#"]').forEach(a => a.addEventListener('click', function(e) { const t = document.querySelector(this.getAttribute('href')); if(t) { e.preventDefault(); t.scrollIntoView({behavior:'smooth',block:'start'}); navLinks.classList.remove('active'); } }));
+const revealElements = document.querySelectorAll('.reveal');
+const revealObserver = new IntersectionObserver((entries) => { entries.forEach(entry => { if(entry.isIntersecting) entry.target.classList.add('visible'); }); }, { threshold: 0.1, rootMargin: '0px 0px -60px 0px' });
+revealElements.forEach(el => revealObserver.observe(el));
+</script>
+</body>
+</html>

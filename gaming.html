@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>游戏经历 · 陈璐</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .detail-hero { min-height: 50vh; display: flex; align-items: center; justify-content: center; position: relative; padding: 80px 24px 40px; }
+        .detail-hero-bg { position: absolute; inset: 0; background: linear-gradient(180deg, var(--bg-secondary), var(--bg-deep)); z-index: 0; }
+        .detail-hero-bg::before { content: ''; position: absolute; bottom: 0; left: 0; right: 0; height: 50%; background: radial-gradient(ellipse 80% 40% at 50% 100%, rgba(42,37,32,0.5) 0%, transparent 70%); }
+        .detail-hero-content { position: relative; z-index: 1; text-align: center; max-width: 800px; }
+        .detail-hero .hero-seal { margin-bottom: 20px; }
+        .detail-hero .section-title { margin-bottom: 16px; }
+        .detail-meta { display: flex; justify-content: center; gap: 24px; flex-wrap: wrap; color: var(--text-muted); font-size: 14px; margin-bottom: 24px; }
+        .detail-meta span { display: flex; align-items: center; gap: 6px; }
+        .detail-section { padding: 48px 24px; }
+        .detail-section-alt { background: var(--bg-secondary); }
+        .detail-content { max-width: 800px; margin: 0 auto; }
+        .detail-content h3 { font-family: 'Ma Shan Zheng', cursive; font-size: 24px; font-weight: 400; color: var(--gold); margin-bottom: 20px; letter-spacing: 2px; }
+        .detail-content h4 { font-size: 17px; font-weight: 700; color: var(--text-primary); margin: 28px 0 12px; letter-spacing: 1px; }
+        .detail-content p { font-size: 15px; color: var(--text-secondary); line-height: 2; margin-bottom: 16px; }
+        .detail-content ul { list-style: none; padding: 0; margin-bottom: 20px; }
+        .detail-content li { position: relative; padding-left: 20px; margin-bottom: 10px; font-size: 14px; line-height: 1.8; color: var(--text-secondary); }
+        .detail-content li::before { content: ''; position: absolute; left: 0; top: 10px; width: 5px; height: 5px; border-radius: 50%; background: var(--gold-dim); }
+        .detail-content strong { color: var(--text-primary); font-weight: 600; }
+        .back-link { display: inline-flex; align-items: center; gap: 8px; color: var(--gold-dim); text-decoration: none; font-size: 14px; transition: all 0.3s ease; margin-bottom: 40px; }
+        .back-link:hover { color: var(--gold); }
+    </style>
+</head>
+<body>
+
+    <nav class="nav">
+        <div class="nav-container">
+            <a href="index.html" class="nav-logo">陈璐</a>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="index.html">首页</a></li>
+                <li><a href="index.html#profile">关于我</a></li>
+                <li><a href="index.html#education">教育</a></li>
+                <li><a href="index.html#portfolio">作品集</a></li>
+                <li><a href="index.html#contact">联系</a></li>
+            </ul>
+            <div class="nav-hamburger" id="navToggle" onclick="toggleNav()">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+    </nav>
+
+    <section class="detail-hero">
+        <div class="detail-hero-bg"></div>
+        <div class="detail-hero-content">
+            <div class="hero-seal">游</div>
+            <h1 class="section-title">游戏经历</h1>
+            <div class="detail-meta">
+                <span>👑 国际服王者 20 星 / 国服星耀</span>
+                <span>🗡️ 逆水寒营销复盘作者</span>
+                <span>🏆 金铲铲超凡大师</span>
+            </div>
+        </div>
+    </section>
+
+    <section class="detail-section">
+        <div class="detail-content">
+            <a href="index.html" class="back-link">← 返回首页</a>
+            <div class="gaming-grid">
+                <div class="card game-card reveal">
+                    <div class="game-card-head">
+                        <div class="game-icon game-icon-gold">🗡️</div>
+                        <div class="game-info">
+                            <h4>逆水寒手游 <span class="game-rank game-rank-gold">深度体验</span></h4>
+                        </div>
+                    </div>
+                    <p class="game-desc">沉浸式参与古风MMO圈层，充值约5000元，对MMO付费设计与商业化节奏有第一手玩家体感；撰写新世界版本营销复盘长文，从玩家视角分析版本内容承接、社区反馈与玩家情绪。</p>
+                    <div class="game-card-foot">
+                        <span class="game-foot-label">营销策略拆解</span>
+                        <a href="gaming-nishui.html" class="game-link">查看营销思路 →</a>
+                    </div>
+                </div>
+                <div class="card game-card reveal">
+                    <div class="game-card-head">
+                        <div class="game-icon game-icon-red">⚔️</div>
+                        <div class="game-info">
+                            <h4>王者荣耀 · 国内服 <span class="game-rank game-rank-red">星耀 · V9</span></h4>
+                        </div>
+                    </div>
+                    <p class="game-desc">国服最高星耀段位，本命英雄区标，擅长打野与辅助，贵族V9；长期关注KPL赛事并参与玩家社群讨论，熟悉版本更新节奏、英雄平衡调整与皮肤商业化逻辑。</p>
+                    <div class="game-card-foot">
+                        <span class="game-foot-label">营销策略拆解</span>
+                        <a href="gaming-wzry-cn.html" class="game-link">查看营销思路 →</a>
+                    </div>
+                </div>
+                <div class="card game-card reveal">
+                    <div class="game-card-head">
+                        <div class="game-icon game-icon-blue">🌍</div>
+                        <div class="game-info">
+                            <h4>王者荣耀 · 国际服 <span class="game-rank game-rank-gold">王者 20 星</span></h4>
+                        </div>
+                    </div>
+                    <p class="game-desc">国际服王者20星，本命英雄区标；留学期间真实体验海外发行与本地化运营，能从双服内容与运营差异中对比营销策略，理解游戏出海的用户获取与社区建设。</p>
+                    <div class="game-card-foot">
+                        <span class="game-foot-label">营销策略拆解</span>
+                        <a href="gaming-wzry-intl.html" class="game-link">查看营销思路 →</a>
+                    </div>
+                </div>
+                <div class="card game-card reveal">
+                    <div class="game-card-head">
+                        <div class="game-icon game-icon-purple">♟️</div>
+                        <div class="game-info">
+                            <h4>金铲铲之战 <span class="game-rank game-rank-gold">超凡大师</span></h4>
+                        </div>
+                    </div>
+                    <p class="game-desc">多个赛季达到超凡大师段位，深度理解自走棋策略体系与版本运营节奏，关注版本更新后玩家社区的阵容讨论、攻略内容与强势套路变化。</p>
+                </div>
+                <div class="card game-card reveal">
+                    <div class="game-card-head">
+                        <div class="game-icon game-icon-green">💬</div>
+                        <div class="game-info">
+                            <h4>Steam 多品类 + 游戏社区重度用户 <span class="game-rank game-rank-gold">多圈层</span></h4>
+                        </div>
+                    </div>
+                    <p class="game-desc">覆盖Steam单机、联机协作等品类，理解不同游戏类型的用户圈层文化；日常活跃于小红书、抖音、B站、TapTap，跟踪版本舆情、玩家讨论与营销事件，习惯用玩家语言检验营销动作是否真正被理解。</p>
+                </div>
+            </div>
+            <div class="btn-center">
+                <a href="gaming-insight.html" class="btn btn-primary">综合营销洞察 →</a>
+            </div>
+            <div class="btn-center" style="margin-top: 20px;">
+                <a href="index.html" class="btn btn-outline">← 返回首页</a>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="footer-brand">陈璐</div>
+        <p>以营销为笔，以数据为墨，书写品牌与用户的连接</p>
+        <p style="margin-top: 8px; font-size: 12px; color: var(--text-muted);">© 2025 陈璐 · 个人作品集</p>
+    </footer>
+
+    <script>
+        function toggleNav() {
+            const navLinks = document.getElementById('navLinks');
+            navLinks.classList.toggle('active');
+        }
+        document.querySelectorAll('.nav-links a').forEach(link => {
+            link.addEventListener('click', () => {
+                document.getElementById('navLinks').classList.remove('active');
+            });
+        });
+        const reveals = document.querySelectorAll('.reveal');
+        function checkReveal() {
+            const trigger = window.innerHeight * 0.85;
+            reveals.forEach(el => {
+                const top = el.getBoundingClientRect().top;
+                if (top < trigger) { el.classList.add('visible'); }
+            });
+        }
+        window.addEventListener('scroll', checkReveal);
+        checkReveal();
+    </script>
+</body>
+</html>

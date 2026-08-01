@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>实习经历 · 陈璐</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .detail-hero { min-height: 50vh; display: flex; align-items: center; justify-content: center; position: relative; padding: 80px 24px 40px; }
+        .detail-hero-bg { position: absolute; inset: 0; background: linear-gradient(180deg, var(--bg-secondary), var(--bg-deep)); z-index: 0; }
+        .detail-hero-bg::before { content: ''; position: absolute; bottom: 0; left: 0; right: 0; height: 50%; background: radial-gradient(ellipse 80% 40% at 50% 100%, rgba(42,37,32,0.5) 0%, transparent 70%); }
+        .detail-hero-content { position: relative; z-index: 1; text-align: center; max-width: 800px; }
+        .detail-hero .hero-seal { margin-bottom: 20px; }
+        .detail-hero .section-title { margin-bottom: 16px; }
+        .detail-meta { display: flex; justify-content: center; gap: 24px; flex-wrap: wrap; color: var(--text-muted); font-size: 14px; margin-bottom: 24px; }
+        .detail-meta span { display: flex; align-items: center; gap: 6px; }
+        .detail-section { padding: 48px 24px; }
+        .detail-section-alt { background: var(--bg-secondary); }
+        .detail-content { max-width: 800px; margin: 0 auto; }
+        .detail-content h3 { font-family: 'Ma Shan Zheng', cursive; font-size: 24px; font-weight: 400; color: var(--gold); margin-bottom: 20px; letter-spacing: 2px; }
+        .detail-content h4 { font-size: 17px; font-weight: 700; color: var(--text-primary); margin: 28px 0 12px; letter-spacing: 1px; }
+        .detail-content p { font-size: 15px; color: var(--text-secondary); line-height: 2; margin-bottom: 16px; }
+        .detail-content ul { list-style: none; padding: 0; margin-bottom: 20px; }
+        .detail-content li { position: relative; padding-left: 20px; margin-bottom: 10px; font-size: 14px; line-height: 1.8; color: var(--text-secondary); }
+        .detail-content li::before { content: ''; position: absolute; left: 0; top: 10px; width: 5px; height: 5px; border-radius: 50%; background: var(--gold-dim); }
+        .detail-content strong { color: var(--text-primary); font-weight: 600; }
+        .back-link { display: inline-flex; align-items: center; gap: 8px; color: var(--gold-dim); text-decoration: none; font-size: 14px; transition: all 0.3s ease; margin-bottom: 40px; }
+        .back-link:hover { color: var(--gold); }
+    </style>
+</head>
+<body>
+
+    <!-- Navigation -->
+    <nav class="nav">
+        <div class="nav-container">
+            <a href="index.html" class="nav-logo">陈璐</a>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="index.html">首页</a></li>
+                <li><a href="index.html#profile">关于我</a></li>
+                <li><a href="index.html#education">教育</a></li>
+                <li><a href="index.html#portfolio">作品集</a></li>
+                <li><a href="index.html#contact">联系</a></li>
+            </ul>
+            <div class="nav-hamburger" id="navToggle" onclick="toggleNav()">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Detail Hero -->
+    <section class="detail-hero">
+        <div class="detail-hero-bg"></div>
+        <div class="detail-hero-content">
+            <div class="hero-seal">历</div>
+            <h1 class="section-title">实习经历</h1>
+            <div class="detail-meta">
+                <span>📅 2023 - 至今</span>
+                <span>💼 媒介策略 / KOL营销 / 直播策划 / 广告策略</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- 实习战绩一览 -->
+    <section class="detail-section" style="padding-bottom: 0;">
+        <div class="detail-content reveal">
+            <h3>实习战绩一览</h3>
+            <div class="metric-row">
+                <div class="metric-card">
+                    <div class="metric-num">-43<span class="metric-unit">%</span></div>
+                    <div class="metric-label">换电疑问搜索量降幅</div>
+                    <div class="metric-note">蔚来 · 1.4万 → 8000</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-num">+60<span class="metric-unit">%</span></div>
+                    <div class="metric-label">抖音广告 CTR 提升</div>
+                    <div class="metric-note">IPG · A/B Test 验证</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-num">500w+</div>
+                    <div class="metric-label">小红书话题浏览量</div>
+                    <div class="metric-note">APEA · 内容共创扩散</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-num">80<span class="metric-unit">%</span></div>
+                    <div class="metric-label">KOL 合作达成率</div>
+                    <div class="metric-note">APEA · 建联近 60 位达人</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-num">2.6w</div>
+                    <div class="metric-label">直播峰值在线人数</div>
+                    <div class="metric-note">岛屿少年 · 场均约 5000</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Experience Timeline -->
+    <section class="detail-section">
+        <div class="detail-content">
+            <a href="index.html" class="back-link">← 返回首页</a>
+            <div class="exp-timeline">
+                <div class="exp-item reveal">
+                    <div class="card exp-card">
+                        <div class="card-header">
+                            <div>
+                                <h3 class="card-title">蔚来汽车</h3>
+                                <p class="card-subtitle">企业传播 · 媒介策略</p>
+                            </div>
+                            <div class="card-meta">
+                                <span class="card-date">2026.05 - 至今</span>
+                                <span class="card-badge card-badge-green">进行中</span>
+                            </div>
+                        </div>
+                        <div class="card-content">
+                            <ul>
+                                <li><strong>用户洞察与认知缺口识别：</strong>面向潜在购车用户，协同乙方调取搜索词、联想词及品牌美誉度数据，从"换电是什么""换一次电多少钱"等高频搜索中识别用户在认知阶段的核心疑问，明确该阶段传播要解决的是<strong>"认知"而非"种草"</strong></li>
+                                <li><strong>内容策略与效果验证：</strong>基于搜索洞察推动连续 3 次传播项目，针对性强化换电概念、使用方式及性价比表达；一个月后回检验证认知类内容策略有效</li>
+                                <li><strong>AI 达人筛选工作流：</strong>针对星图数据滞后、人工跨平台找号效率低的问题，建立"目标人群-内容场景-媒体类型"筛选逻辑，利用 Codex 搭建媒体筛选 Agent，自动完成博主检索、数据提取和基础分类，沉淀为策划团队可直接调用的<strong>达人资源库</strong></li>
+                                <li><strong>媒介结构优化：</strong>依据受众匹配度、内容解释力和单位传播效率复盘历史媒体表现，识别部分汽车垂媒高成本低回报问题；增加财经及泛商业达人储备，以更具可信度的内容场景承接技术心智传播</li>
+                            </ul>
+                            <div class="metric-row">
+                                <div class="metric-card">
+                                    <div class="metric-num">-43<span class="metric-unit">%</span></div>
+                                    <div class="metric-label">换电费用疑问类月度搜索量</div>
+                                    <div class="metric-note">由 1.4 万下降至 8000，认知策略被数据验证</div>
+                                </div>
+                                <div class="metric-card">
+                                    <div class="metric-num">3<span class="metric-unit">次</span></div>
+                                    <div class="metric-label">连续传播项目</div>
+                                    <div class="metric-note">基于搜索洞察，一个月回检闭环</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="exp-item reveal">
+                    <div class="card exp-card">
+                        <div class="card-header">
+                            <div>
+                                <h3 class="card-title">APEA 亚太青年企业家论坛</h3>
+                                <p class="card-subtitle">品牌营销（商务方向）</p>
+                            </div>
+                            <div class="card-meta">
+                                <span class="card-date">2024.11 - 2025.11</span>
+                                <span class="card-badge card-badge-gold">1年</span>
+                            </div>
+                        </div>
+                        <div class="card-content">
+                            <ul>
+                                <li><strong>KOL 筛选与全链路合作：</strong>以"触达创业者与商业人群"为目标，按受众重合度独立筛选并拓展近 <strong>60 位</strong>商经及创业类 KOL，通过邮件、社交媒体和人脉转介绍定向建联，将个人建联成功率由约 10% 提升至 <strong>50%</strong>，合作达成率接近 <strong>80%</strong></li>
+                                <li><strong>增长漏斗与 SOP 建设：</strong>担任 KOL 负责人，拆解"建联—沟通—达成"合作漏斗各环节损耗点，沉淀选人标准、沟通话术与多平台触达 SOP，推动团队人均每周合作量由 1-2 位提升至 <strong>4-5 位</strong></li>
+                                <li><strong>内容共创与认知扩散：</strong>根据小红书、抖音、微信视频号等平台调性规划传播素材，协同嘉宾与 KOL 二次创作及社交扩散，小红书相关标签浏览量达 <strong>500w+</strong></li>
+                                <li><strong>活动策划执行：</strong>制定活动议程及执行节点，跨时区协调宣传、执行、供应商和志愿者团队，处理突发问题，确保项目按计划交付</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="exp-item reveal">
+                    <div class="card exp-card">
+                        <div class="card-header">
+                            <div>
+                                <h3 class="card-title">《岛屿少年》网络综艺</h3>
+                                <p class="card-subtitle">直播策划</p>
+                            </div>
+                            <div class="card-meta">
+                                <span class="card-date">2024.06 - 2024.10</span>
+                                <span class="card-badge card-badge-red">5个月</span>
+                            </div>
+                        </div>
+                        <div class="card-content">
+                            <ul>
+                                <li><strong>内容延展与热度承接：</strong>面向正片观众与艺人粉丝，将节目争议点、嗑点/笑点和高情绪片段转化为衍生直播脚本、成员互动与幕后内容，推动用户由内容兴趣进入直播互动，周末场均观看约 <strong>5,000 人次</strong></li>
+                                <li><strong>艺人资源与热点协同：</strong>根据观众对"现场感、幕后感和真实互动"的需求设计直播重点，对接艺人工作室协调物料与出镜，结合实时热点引流，单场直播峰值在线突破 <strong>2.6 万</strong></li>
+                                <li><strong>实时数据驱动运营：</strong>监测在线人数、互动规模及成员出镜后的热度变化，根据数据反馈动态调整内容顺序、推流节奏和互动话术</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="exp-item reveal">
+                    <div class="card exp-card">
+                        <div class="card-header">
+                            <div>
+                                <h3 class="card-title">IPG 盟博广告（上海）</h3>
+                                <p class="card-subtitle">策略策划</p>
+                            </div>
+                            <div class="card-meta">
+                                <span class="card-date">2023.06 - 2023.09</span>
+                                <span class="card-badge card-badge-gold">3个月</span>
+                            </div>
+                        </div>
+                        <div class="card-content">
+                            <ul>
+                                <li><strong>整合营销策略：</strong>深度参与香格里拉酒店<strong>千万级</strong>夏季 IMC 项目，围绕品牌由传统商务场景向年轻家庭市场转型的需求，拆解暑期出行人群、消费场景和核心利益点，协同制定信息流、搜索及多平台组合传播策略</li>
+                                <li><strong>投放优化与测试：</strong>实时监控抖音及百度渠道数据，针对信息流场景中前 5 秒注意力流失问题，引入 5 秒动态互动创意卡片并优化文案结构，通过 A/B Test 使抖音竞价广告 <strong>CTR 较预期提升近 60%</strong></li>
+                                <li><strong>竞品与市场研究：</strong>利用 iResearch 及 CODC 平台复盘千万级广告日志，从竞品素材、平台流量和用户反馈中提炼有效卖点与创意形式，输出分析报告并支持媒介预算分配</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="btn-center">
+                <a href="index.html" class="btn btn-outline">← 返回首页</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-brand">陈璐</div>
+        <p>以营销为笔，以数据为墨，书写品牌与用户的连接</p>
+        <p style="margin-top: 8px; font-size: 12px; color: var(--text-muted);">© 2025 陈璐 · 个人作品集</p>
+    </footer>
+
+    <script>
+        function toggleNav() {
+            const navLinks = document.getElementById('navLinks');
+            navLinks.classList.toggle('active');
+        }
+        document.querySelectorAll('.nav-links a').forEach(link => {
+            link.addEventListener('click', () => {
+                document.getElementById('navLinks').classList.remove('active');
+            });
+        });
+        const reveals = document.querySelectorAll('.reveal');
+        function checkReveal() {
+            const trigger = window.innerHeight * 0.85;
+            reveals.forEach(el => {
+                const top = el.getBoundingClientRect().top;
+                if (top < trigger) { el.classList.add('visible'); }
+            });
+        }
+        window.addEventListener('scroll', checkReveal);
+        checkReveal();
+    </script>
+</body>
+</html>

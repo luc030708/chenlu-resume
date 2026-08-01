@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>公众号运营 · 陈璐</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .detail-hero { min-height: 50vh; display: flex; align-items: center; justify-content: center; position: relative; padding: 80px 24px 40px; }
+        .detail-hero-bg { position: absolute; inset: 0; background: linear-gradient(180deg, var(--bg-secondary), var(--bg-deep)); z-index: 0; }
+        .detail-hero-bg::before { content: ''; position: absolute; bottom: 0; left: 0; right: 0; height: 50%; background: radial-gradient(ellipse 80% 40% at 50% 100%, rgba(42,37,32,0.5) 0%, transparent 70%); }
+        .detail-hero-content { position: relative; z-index: 1; text-align: center; max-width: 800px; }
+        .detail-hero .hero-seal { margin-bottom: 20px; }
+        .detail-hero .section-title { margin-bottom: 16px; }
+        .detail-meta { display: flex; justify-content: center; gap: 24px; flex-wrap: wrap; color: var(--text-muted); font-size: 14px; margin-bottom: 24px; }
+        .detail-meta span { display: flex; align-items: center; gap: 6px; }
+        .detail-section { padding: 48px 24px; }
+        .detail-section-alt { background: var(--bg-secondary); }
+        .detail-content { max-width: 800px; margin: 0 auto; }
+        .detail-content h3 { font-family: 'Ma Shan Zheng', cursive; font-size: 24px; font-weight: 400; color: var(--gold); margin-bottom: 20px; letter-spacing: 2px; }
+        .detail-content h4 { font-size: 17px; font-weight: 700; color: var(--text-primary); margin: 28px 0 12px; letter-spacing: 1px; }
+        .detail-content p { font-size: 15px; color: var(--text-secondary); line-height: 2; margin-bottom: 16px; }
+        .detail-content ul { list-style: none; padding: 0; margin-bottom: 20px; }
+        .detail-content li { position: relative; padding-left: 20px; margin-bottom: 10px; font-size: 14px; line-height: 1.8; color: var(--text-secondary); }
+        .detail-content li::before { content: ''; position: absolute; left: 0; top: 10px; width: 5px; height: 5px; border-radius: 50%; background: var(--gold-dim); }
+        .detail-content strong { color: var(--text-primary); font-weight: 600; }
+        .back-link { display: inline-flex; align-items: center; gap: 8px; color: var(--gold-dim); text-decoration: none; font-size: 14px; transition: all 0.3s ease; margin-bottom: 40px; }
+        .back-link:hover { color: var(--gold); }
+    </style>
+</head>
+<body>
+
+    <nav class="nav">
+        <div class="nav-container">
+            <a href="index.html" class="nav-logo">陈璐</a>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="index.html">首页</a></li>
+                <li><a href="index.html#profile">关于我</a></li>
+                <li><a href="index.html#education">教育</a></li>
+                <li><a href="index.html#portfolio">作品集</a></li>
+                <li><a href="index.html#contact">联系</a></li>
+            </ul>
+            <div class="nav-hamburger" id="navToggle" onclick="toggleNav()">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+    </nav>
+
+    <section class="detail-hero">
+        <div class="detail-hero-bg"></div>
+        <div class="detail-hero-content">
+            <div class="hero-seal">公</div>
+            <h1 class="section-title">公众号运营</h1>
+            <div class="detail-meta">
+                <span>⚡「CC氪点信号」主理人</span>
+                <span>🎙️「创业者」访谈主创</span>
+                <span>📈 首期 2500+ 阅读</span>
+            </div>
+        </div>
+    </section>
+
+    <section class="detail-section">
+        <div class="detail-content">
+            <a href="index.html" class="back-link">← 返回首页</a>
+            <div class="portfolio-grid" style="margin-bottom: 40px;">
+                <div class="card portfolio-card reveal">
+                    <div class="portfolio-cover">⚡</div>
+                    <div class="portfolio-body">
+                        <h3 class="card-title">CC 氪点信号</h3>
+                        <p class="card-subtitle">游戏营销观察 · 账号主理人 · 2026.07 至今</p>
+                        <p class="card-desc">面向游戏玩家与营销从业者的营销观察号，从玩家体验、社区反馈和传播感知拆解游戏营销事件，设有深度观察、轻量分析、创意策划、玩家拉新四类栏目。</p>
+                        <div class="portfolio-tags">
+                            <span class="portfolio-tag">游戏营销</span>
+                            <span class="portfolio-tag">玩家洞察</span>
+                            <span class="portfolio-tag">AI监测工作流</span>
+                        </div>
+                        <a href="wechat-1.html" class="btn btn-outline">查看详情 →</a>
+                    </div>
+                </div>
+                <div class="card portfolio-card reveal">
+                    <div class="portfolio-cover">🎙️</div>
+                    <div class="portfolio-body">
+                        <h3 class="card-title">创业者 Entrepreneurs</h3>
+                        <p class="card-subtitle">商业访谈 · 主创团队成员 · 2026.06 至今</p>
+                        <p class="card-desc">面向企业家与商业人群的深度访谈号，已完成潘多拉中国区负责人、前WPP中国区CEO访谈，首期内容2500+阅读；AI工作流将单篇制作周期从4天压缩至8小时。</p>
+                        <div class="portfolio-tags">
+                            <span class="portfolio-tag">商业访谈</span>
+                            <span class="portfolio-tag">嘉宾运营</span>
+                            <span class="portfolio-tag">AI内容生产</span>
+                        </div>
+                        <a href="wechat-2.html" class="btn btn-outline">查看详情 →</a>
+                    </div>
+                </div>
+            </div>
+            <div class="btn-center">
+                <a href="index.html" class="btn btn-outline">← 返回首页</a>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="footer-brand">陈璐</div>
+        <p>以营销为笔，以数据为墨，书写品牌与用户的连接</p>
+        <p style="margin-top: 8px; font-size: 12px; color: var(--text-muted);">© 2025 陈璐 · 个人作品集</p>
+    </footer>
+
+    <script>
+        function toggleNav() {
+            const navLinks = document.getElementById('navLinks');
+            navLinks.classList.toggle('active');
+        }
+        document.querySelectorAll('.nav-links a').forEach(link => {
+            link.addEventListener('click', () => {
+                document.getElementById('navLinks').classList.remove('active');
+            });
+        });
+        const reveals = document.querySelectorAll('.reveal');
+        function checkReveal() {
+            const trigger = window.innerHeight * 0.85;
+            reveals.forEach(el => {
+                const top = el.getBoundingClientRect().top;
+                if (top < trigger) { el.classList.add('visible'); }
+            });
+        }
+        window.addEventListener('scroll', checkReveal);
+        checkReveal();
+    </script>
+</body>
+</html>
