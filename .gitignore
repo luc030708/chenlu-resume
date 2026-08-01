@@ -1,0 +1,17 @@
+.DS_Store
+assets/.DS_Store
+*.zip
+*.pdf
+resume_text.txt
+resume_text_new.txt
+交接文档.md
+腾讯云部署指南.md
+DEPLOY.md
+deploy-cos.sh
+node_modules/
+resume-site*/
+create_*.js
+package.json
+package-lock.json
+*.docx
+逆水寒*.md
