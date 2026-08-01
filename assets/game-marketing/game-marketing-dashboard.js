@@ -1,7 +1,10 @@
 const template = document.createElement('template');
 
+// 相对模块自身 URL 解析样式表，避免受引用页面路径影响（GitHub Pages 子路径下 404 的修复）
+const dashboardCssUrl = new URL('game-marketing-dashboard.css', import.meta.url).href;
+
 template.innerHTML = `
-  <link rel="stylesheet" href="./game-marketing-dashboard.css">
+  <link rel="stylesheet" href="${dashboardCssUrl}">
   <section class="dashboard" aria-live="polite">
     <header class="header">
       <div><h2 class="headline">每日游戏营销事件看板</h2><p class="updated">正在读取数据…</p></div>
