@@ -73,7 +73,7 @@ body {
     content: ''; width: 10px; height: 10px; background: var(--gold-light);
     box-shadow: 2px 2px 0 0 var(--hud-cyan); flex-shrink: 0;
 }
-.nav-logo:hover { color: var(--gold); }
+.nav-logo:hover { color: var(--text-primary); }
 .nav-links { display: flex; gap: 4px; list-style: none; }
 .nav-links a {
     color: var(--text-secondary); text-decoration: none; font-size: 13px;
@@ -148,7 +148,7 @@ body {
     font-size: clamp(44px, 9vw, 80px); letter-spacing: 4px; line-height: 1.1;
     margin-bottom: 20px; animation: fadeInUp 0.8s ease-out 0.4s both; color: var(--text-primary);
 }
-.hero-title .name-highlight { color: var(--gold); }
+.hero-title .name-highlight { color: var(--text-primary); }
 .hero-divider { width: 80px; height: 2px; background: var(--gold-light); margin: 0 auto 24px; animation: fadeInUp 0.8s ease-out 0.5s both; box-shadow: 2px 2px 0 0 rgba(26, 28, 28, 0.35); }
 .hero-subtitle {
     font-family: var(--font-mono); font-size: clamp(14px, 2.2vw, 17px);
@@ -401,7 +401,7 @@ a.article-card:hover .article-jump { color: var(--gold); }
 /* ========== FOOTER ========== */
 .footer { padding: 48px 24px; text-align: center; border-top: 1px solid var(--border-color); position: relative; background: var(--bg-secondary); }
 .footer p { font-family: var(--font-mono); font-size: 12px; color: var(--text-muted); letter-spacing: 0.1em; }
-.footer-brand { font-family: var(--font-display); font-weight: 800; font-size: 18px; color: var(--gold); margin-bottom: 12px; letter-spacing: 3px; }
+.footer-brand { font-family: var(--font-display); font-weight: 800; font-size: 18px; color: var(--text-primary); margin-bottom: 12px; letter-spacing: 3px; }
 
 /* ========== STATS BAR ========== */
 .stats-bar { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0; border-top: 1px solid var(--border-color); border-bottom: 1px solid var(--border-color); position: relative; background: var(--bg-card); backdrop-filter: blur(20px); }
@@ -508,3 +508,23 @@ a.article-card:hover .article-jump { color: var(--gold); }
     border-left-color: var(--gold-light); background: rgba(230, 57, 70, 0.06);
 }
 @media (max-width: 1280px) { .page-toc { display: none; } }
+
+/* ========== ICONPARK 图标（替代 emoji） ========== */
+.ip-icon { width: 1.15em; height: 1.15em; vertical-align: -0.2em; object-fit: contain; display: inline-block; flex-shrink: 0; }
+.portfolio-cover .ip-icon { font-size: 48px; }
+.detail-meta .ip-icon { margin-right: 2px; }
+
+/* ========== 品牌素材（CC 氪点信号 / 创业者） ========== */
+.portfolio-cover-img { width: 100%; height: 100%; object-fit: cover; object-position: center 20%; display: block; }
+.brand-strip {
+    margin: 4px auto 0; display: inline-flex; align-items: center; gap: 16px;
+    background: #111315; border: 1px solid rgba(26, 28, 28, 0.25);
+    padding: 10px 20px; border-radius: 4px;
+    box-shadow: 3px 3px 0 0 rgba(230, 57, 70, 0.55);
+}
+.brand-strip img.brand-logo { height: 42px; width: auto; display: block; }
+.brand-strip .brand-slogan { color: #F2F1EC; font-family: var(--font-mono); font-size: 12px; letter-spacing: 0.14em; text-align: left; line-height: 1.7; }
+.brand-strip .brand-slogan b { color: #B7F94A; font-weight: 700; }
+.article-cover { display: block; width: calc(100% + 44px); max-width: none; height: 165px; object-fit: cover; margin: -20px -22px 14px; border-bottom: 1px solid var(--border-color); }
+.mascot-inline { height: 54px; width: auto; vertical-align: middle; }
+.article-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
