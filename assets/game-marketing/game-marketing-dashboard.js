@@ -12,7 +12,7 @@ template.innerHTML = `
     </header>
     <div class="events"></div>
     <div class="insights"></div>
-    <footer>自动读取 JSON · 点击营销事件展开热搜详情</footer>
+    <footer>每分钟刷新 · 点击营销事件展开热搜详情</footer>
   </section>
 `;
 
