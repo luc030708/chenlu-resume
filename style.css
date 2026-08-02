@@ -353,6 +353,10 @@ body {
 
 /* ========== METRIC HIGHLIGHT 数据亮点 ========== */
 .metric-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 14px; margin: 20px 0 8px; }
+/* 六卡战绩墙：桌面端 3×2 对称排列 */
+.metric-row-six { grid-template-columns: repeat(3, 1fr); }
+@media (max-width: 768px) { .metric-row-six { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 480px) { .metric-row-six { grid-template-columns: 1fr; } }
 .metric-card {
     background: var(--bg-card); backdrop-filter: blur(20px);
     border: 1px solid var(--border-color); border-radius: 4px;
@@ -413,13 +417,12 @@ a.article-card:hover .article-jump { color: var(--gold); }
 
 /* ========== DETAIL PAGE ========== */
 .detail-hero {
-    min-height: 50vh; display: flex; align-items: center; justify-content: center;
-    position: relative; padding: 80px 24px 40px;
+    min-height: 36vh; display: flex; align-items: center; justify-content: center;
+    position: relative; padding: 96px 24px 36px; overflow: hidden;
 }
 .detail-hero-bg {
     position: absolute; inset: 0; z-index: 0;
-    background: linear-gradient(180deg, rgba(230, 57, 70, 0.055) 0%, var(--bg-secondary) 42%, var(--bg-primary) 100%);
-    border-bottom: 1px solid rgba(230, 57, 70, 0.14);
+    background: linear-gradient(180deg, rgba(230, 57, 70, 0.045) 0%, var(--bg-secondary) 38%, var(--bg-primary) 96%);
 }
 /* 柔光光斑缓慢漂移（大团模糊红光，呼吸感） */
 .detail-hero-bg::before {
@@ -438,20 +441,21 @@ a.article-card:hover .article-jump { color: var(--gold); }
     50%  { transform: translate3d(2.5%, -3%, 0) scale(1.05); opacity: 1; }
     100% { transform: translate3d(-2.5%, 2%, 0) scale(0.97); opacity: 0.9; }
 }
-/* 稀疏微尘缓缓上升（低透明、大间距、速度慢 = 高级感的关键） */
+/* 光子流：一道柔和对角光带缓慢扫过 + 稀疏微尘缓缓上升 */
 .detail-hero-bg::after {
-    content: ''; position: absolute; inset: 0; opacity: 0.5;
+    content: ''; position: absolute; inset: 0; opacity: 0.6;
     background-image:
+        linear-gradient(115deg, transparent 42%, rgba(230, 57, 70, 0.045) 47%, rgba(230, 57, 70, 0.10) 50%, rgba(230, 57, 70, 0.045) 53%, transparent 58%),
         radial-gradient(circle, rgba(230, 57, 70, 0.30) 1px, transparent 1.4px),
         radial-gradient(circle, rgba(185, 43, 56, 0.22) 1.4px, transparent 1.8px);
-    background-size: 240px 240px, 360px 360px;
-    background-position: 0 0, 120px 180px;
-    animation: hero-dust-rise 60s linear infinite;
+    background-size: 280% 100%, 240px 240px, 360px 360px;
+    background-position: 135% 0, 0 0, 120px 180px;
+    animation: hero-stream-flow 40s linear infinite;
     pointer-events: none;
 }
-@keyframes hero-dust-rise {
-    from { background-position: 0 0, 120px 180px; }
-    to   { background-position: 240px -480px, 480px -540px; }
+@keyframes hero-stream-flow {
+    from { background-position: 135% 0, 0 0, 120px 180px; }
+    to   { background-position: -135% 0, 240px -480px, 480px -540px; }
 }
 @media (prefers-reduced-motion: reduce) {
     .detail-hero-bg::before, .detail-hero-bg::after { animation: none; }
@@ -592,9 +596,15 @@ a.article-card:hover .article-jump { color: var(--gold); }
 .hero-avatar {
     height: min(64vh, 580px); width: auto; display: block;
     transform-origin: 50% 100%;
-    filter: drop-shadow(0 20px 30px rgba(26, 28, 28, 0.14));
     animation: avatar-in 1.1s cubic-bezier(0.22, 1, 0.36, 1) 0.7s both,
                avatar-float 5.5s ease-in-out 2s infinite;
+}
+/* 贴地椭圆浅影（替代 drop-shadow，避免悬空黑团） */
+.hero-avatar-wrap::after {
+    content: ''; position: absolute; left: 50%; bottom: -6px;
+    width: 62%; height: 20px; transform: translateX(-50%);
+    background: radial-gradient(ellipse 50% 50% at 50% 50%, rgba(26, 28, 28, 0.10) 0%, transparent 70%);
+    pointer-events: none;
 }
 @keyframes avatar-in {
     from { opacity: 0; transform: translateY(60px) scale(0.96); }
