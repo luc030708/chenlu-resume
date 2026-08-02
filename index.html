@@ -64,7 +64,6 @@
         <div class="hero-glow hero-glow-1"></div>
         <div class="hero-glow hero-glow-2"></div>
         <div class="hero-content">
-            <div class="hero-seal">陈</div>
             <h1 class="hero-title"><span class="name-highlight">陈璐</span></h1>
             <div class="hero-divider"></div>
             <p class="hero-subtitle">游戏市场营销 / 游戏运营 · 深度玩家 × 营销实战</p>
@@ -80,6 +79,9 @@
                 <a href="#portfolio" class="secondary">查看作品</a>
             </div>
         </div>
+        <div class="hero-avatar-wrap" id="heroAvatarWrap" aria-hidden="true">
+            <img src="assets/avatar/avatar-wave.png" class="hero-avatar" alt="">
+        </div>
         <div class="scroll-indicator"></div>
     </section>
 
@@ -90,16 +92,16 @@
             <div class="stats-bar-label">段实习经历</div>
         </div>
         <div class="stats-bar-item reveal">
-            <div class="stats-bar-value">60+</div>
-            <div class="stats-bar-label">建联合作 KOL</div>
-        </div>
-        <div class="stats-bar-item reveal">
-            <div class="stats-bar-value">500w+</div>
-            <div class="stats-bar-label">小红书话题浏览</div>
+            <div class="stats-bar-value">2</div>
+            <div class="stats-bar-label">个项目</div>
         </div>
         <div class="stats-bar-item reveal">
             <div class="stats-bar-value">2</div>
-            <div class="stats-bar-label">个自营公众号</div>
+            <div class="stats-bar-label">个公众号运营</div>
+        </div>
+        <div class="stats-bar-item reveal">
+            <div class="stats-bar-value">3+</div>
+            <div class="stats-bar-label">款游戏深度玩家</div>
         </div>
     </section>
 
@@ -138,20 +140,6 @@
                         <span class="hero-tag">公众号主理人</span>
                         <span class="hero-tag">内容策划</span>
                         <span class="hero-tag">网感好</span>
-                    </div>
-                    <div class="profile-stats">
-                        <div class="profile-stat">
-                            <div class="profile-stat-value">4</div>
-                            <div class="profile-stat-label">4段实习</div>
-                        </div>
-                        <div class="profile-stat">
-                            <div class="profile-stat-value">2</div>
-                            <div class="profile-stat-label">个项目</div>
-                        </div>
-                        <div class="profile-stat">
-                            <div class="profile-stat-value">60+</div>
-                            <div class="profile-stat-label">合作达人</div>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -238,7 +226,7 @@
                     <a href="gaming.html" class="btn btn-outline entry-btn">查看详情 →</a>
                 </div>
                 <div class="card portfolio-entry-card reveal">
-                    <div class="entry-icon"><img src="assets/cc-signal/cc-signal-mark.png" alt="CC SIGNAL 氪点信号标志" style="height: 60px; width: auto; display: inline-block; border-radius: 4px;"></div>
+                    <div class="entry-icon"><img class="ip-icon" src="assets/icons/wechat.svg" alt=""></div>
                     <h3 class="entry-title">公众号运营</h3>
                     <p class="entry-desc">游戏营销观察号「CC氪点信号」主理人 + 商业访谈号「创业者」主创，首期访谈2500+阅读，AI工作流将单篇制作从4天压至8小时。</p>
                     <div class="entry-tags">
@@ -285,10 +273,15 @@
     </section>
 
     <!-- Footer -->
-    <footer class="footer">
-        <div class="footer-brand">陈璐</div>
-        <p>以营销为笔，以数据为墨，书写品牌与用户的连接</p>
-        <p style="margin-top: 8px; font-size: 12px; color: var(--text-muted);">© 2025 陈璐 · 个人作品集</p>
+    <footer class="footer" id="siteFooter">
+        <div class="footer-peek" id="footerPeek" aria-hidden="true">
+            <img src="assets/avatar/avatar-peek.png" alt="">
+        </div>
+        <div class="footer-inner">
+            <div class="footer-brand">陈璐</div>
+            <p>以营销为笔，以数据为墨，书写品牌与用户的连接</p>
+            <p style="margin-top: 8px; font-size: 12px; color: var(--text-muted);">© 2025 陈璐 · 个人作品集</p>
+        </div>
     </footer>
 
     <script>
@@ -337,6 +330,28 @@
         }
         window.addEventListener('scroll', checkReveal);
         checkReveal();
+
+        // Hero 动漫形象：鼠标视差
+        const heroSec = document.querySelector('.hero');
+        const avatarWrap = document.getElementById('heroAvatarWrap');
+        if (heroSec && avatarWrap) {
+            heroSec.addEventListener('mousemove', e => {
+                const r = heroSec.getBoundingClientRect();
+                const dx = (e.clientX - r.left) / r.width - 0.5;
+                const dy = (e.clientY - r.top) / r.height - 0.5;
+                avatarWrap.style.transform = `translate(${dx * -18}px, ${dy * -10}px)`;
+            });
+            heroSec.addEventListener('mouseleave', () => { avatarWrap.style.transform = ''; });
+        }
+
+        // 页脚 peek 形象：进入视口滑出
+        const footerPeek = document.getElementById('footerPeek');
+        if (footerPeek) {
+            const peekObserver = new IntersectionObserver(entries => {
+                entries.forEach(en => { if (en.isIntersecting) footerPeek.classList.add('show'); });
+            }, { threshold: 0.2 });
+            peekObserver.observe(document.getElementById('siteFooter'));
+        }
     </script>
     <a href="#home" style="position: fixed; bottom: 24px; right: 24px; width: 48px; height: 48px; border-radius: 50%; background: var(--gold); color: var(--bg-deep); display: flex; align-items: center; justify-content: center; text-decoration: none; font-size: 20px; z-index: 100; box-shadow: 0 4px 12px rgba(0,0,0,0.3); transition: all 0.3s ease;">↑</a>
     <script src="page-toc.js" defer></script>
