@@ -9,9 +9,9 @@
         seen[text] = true;
         items.push({ el: el, text: text });
     }
-    // 详情页：分块标题
+    // 详情页：分块标题（含「已发布文章」等 article-head 内嵌标题）
     Array.prototype.forEach.call(
-        document.querySelectorAll('.detail-content > h3, .exp-item .card-title'),
+        document.querySelectorAll('.detail-content > h3, .detail-content > .article-head h3, .exp-item .card-title'),
         function (h) { add(h, h.textContent); }
     );
     // 首页：板块锚点（关于我 / 教育 / 作品集 / 联系）
@@ -53,6 +53,22 @@
     });
 
     document.body.appendChild(toc);
+
+    // 收起/展开开关（默认收起，只露出「目录」小把手）
+    var toggle = document.createElement('button');
+    toggle.className = 'page-toc-toggle';
+    toggle.type = 'button';
+    toggle.setAttribute('aria-label', '展开或收起页面目录');
+    toggle.setAttribute('aria-expanded', 'false');
+    var toggleText = document.createElement('span');
+    toggleText.textContent = '目录';
+    toggle.appendChild(toggleText);
+    toc.appendChild(toggle);
+    toggle.addEventListener('click', function () {
+        var open = toc.classList.toggle('toc-open');
+        toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+    });
+
     setTimeout(function () { toc.classList.add('toc-ready'); }, 80);
 
     var ticking = false;
