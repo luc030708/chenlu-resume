@@ -127,6 +127,18 @@
                     <p class="game-desc">覆盖Steam单机、联机协作等品类，理解不同游戏类型的用户圈层文化；日常活跃于小红书、抖音、B站、TapTap，跟踪版本舆情、玩家讨论与营销事件，习惯用玩家语言检验营销动作是否真正被理解。</p>
                 </div>
             </div>
+            <!-- 彩蛋小组件：点击爆炸进入新游戏灵感来源区 -->
+            <div class="egg-card reveal" id="eggCard" role="button" tabindex="0" aria-label="隐藏企划，点击进入新游戏灵感来源区">
+                <div class="egg-scan"></div>
+                <div class="egg-inner">
+                    <span class="egg-dot"></span>
+                    <div>
+                        <div class="egg-title">？？？</div>
+                        <div class="egg-sub">检测到一份未解密的游戏企划 · CLASSIFIED</div>
+                    </div>
+                    <div class="egg-cta">点击引爆 →</div>
+                </div>
+            </div>
             <div class="btn-center">
                 <a href="gaming-insight.html" class="btn btn-primary">综合营销洞察 →</a>
             </div>
@@ -162,6 +174,65 @@
         }
         window.addEventListener('scroll', checkReveal);
         checkReveal();
+
+        /* 彩蛋爆炸：粒子 + 冲击波环 + 白场闪 → 进入新游戏灵感来源区 */
+        (function () {
+            var egg = document.getElementById('eggCard');
+            if (!egg) return;
+            var exploded = false;
+            function boom() {
+                if (exploded) return;
+                exploded = true;
+                var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+                var r = egg.getBoundingClientRect();
+                var cx = r.left + r.width / 2, cy = r.top + r.height / 2;
+                var colors = ['#E63946', '#B92B38', '#1A1C1C', '#E58A93'];
+                if (!reduce) {
+                    for (var i = 0; i < 36; i++) {
+                        var p = document.createElement('span');
+                        p.className = 'egg-particle';
+                        var angle = Math.random() * Math.PI * 2;
+                        var dist = 90 + Math.random() * 260;
+                        var size = 3 + Math.random() * 6;
+                        p.style.left = cx + 'px'; p.style.top = cy + 'px';
+                        p.style.width = p.style.height = size + 'px';
+                        p.style.background = colors[i % 4];
+                        document.body.appendChild(p);
+                        p.animate([
+                            { transform: 'translate(-50%,-50%) rotate(0deg)', opacity: 1 },
+                            { transform: 'translate(' + (Math.cos(angle) * dist - size / 2) + 'px,' + (Math.sin(angle) * dist - size / 2) + 'px) rotate(' + (Math.random() * 540 - 270) + 'deg)', opacity: 0 }
+                        ], { duration: 650 + Math.random() * 450, easing: 'cubic-bezier(.16,.8,.3,1)' })
+                            .onfinish = function () { this.effect.target.remove(); };
+                    }
+                    for (var k = 0; k < 3; k++) {
+                        var ring = document.createElement('div');
+                        ring.className = 'egg-ring';
+                        ring.style.left = cx + 'px'; ring.style.top = cy + 'px';
+                        document.body.appendChild(ring);
+                        ring.animate([
+                            { transform: 'translate(-50%,-50%) scale(0)', opacity: 0.9 },
+                            { transform: 'translate(-50%,-50%) scale(' + (6 + k * 3) + ')', opacity: 0 }
+                        ], { duration: 700 + k * 180, delay: k * 90, easing: 'cubic-bezier(.16,.8,.3,1)' })
+                            .onfinish = function () { this.effect.target.remove(); };
+                    }
+                }
+                var f = document.createElement('div');
+                f.className = 'egg-flash';
+                document.body.appendChild(f);
+                requestAnimationFrame(function () { f.classList.add('on'); });
+                egg.animate(
+                    [{ transform: 'scale(1)', opacity: 1 }, { transform: 'scale(1.05)', opacity: 1 }, { transform: 'scale(0.94)', opacity: 0 }],
+                    { duration: reduce ? 150 : 480, easing: 'ease-in' }
+                );
+                egg.style.pointerEvents = 'none';
+                try { sessionStorage.setItem('eggArrive', '1'); } catch (e) {}
+                setTimeout(function () { location.href = 'gaming-ideas.html'; }, reduce ? 200 : 780);
+            }
+            egg.addEventListener('click', boom);
+            egg.addEventListener('keydown', function (e) {
+                if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); boom(); }
+            });
+        })();
     </script>
     <script src="page-toc.js" defer></script>
     <script src="cursor.js" defer></script>
