@@ -689,3 +689,76 @@ body.cursor-live .cursor-dot, body.cursor-live .cursor-ring { opacity: 1; }
 @media (pointer: coarse) {
     .cursor-dot, .cursor-ring { display: none; }
 }
+
+/* ========== EASTER EGG 彩蛋小组件（gaming.html → gaming-ideas.html） ========== */
+.egg-card {
+    position: relative; margin-top: 20px; padding: 22px 28px;
+    background: #1A1C1C; border: 1px dashed rgba(230, 57, 70, 0.55);
+    cursor: pointer; overflow: hidden; transition: border-color 0.3s ease, transform 0.3s ease;
+}
+.egg-card:hover { border-color: var(--gold-light); transform: translateY(-2px); }
+.egg-scan {
+    position: absolute; top: 0; bottom: 0; width: 120px; left: -140px;
+    background: linear-gradient(90deg, transparent, rgba(230, 57, 70, 0.16), transparent);
+    animation: egg-scan 3.2s linear infinite; pointer-events: none;
+}
+@keyframes egg-scan { from { left: -140px; } to { left: 110%; } }
+.egg-inner { position: relative; z-index: 1; display: flex; align-items: center; gap: 18px; }
+.egg-dot {
+    width: 10px; height: 10px; border-radius: 50%; background: var(--gold-light); flex-shrink: 0;
+    animation: egg-blink 1.6s ease-in-out infinite;
+}
+@keyframes egg-blink {
+    0%, 100% { opacity: 1; box-shadow: 0 0 0 0 rgba(230, 57, 70, 0.5); }
+    50% { opacity: 0.35; box-shadow: 0 0 0 8px rgba(230, 57, 70, 0); }
+}
+.egg-title { font-family: var(--font-mono); color: #F8FAFA; font-size: 18px; font-weight: 700; letter-spacing: 0.3em; }
+.egg-sub { font-family: var(--font-mono); color: rgba(248, 250, 250, 0.45); font-size: 11px; letter-spacing: 0.14em; margin-top: 5px; }
+.egg-cta { margin-left: auto; font-family: var(--font-mono); color: var(--gold-light); font-size: 12px; font-weight: 700; letter-spacing: 0.12em; white-space: nowrap; }
+.egg-particle { position: fixed; z-index: 9999; pointer-events: none; }
+.egg-ring {
+    position: fixed; z-index: 9998; width: 60px; height: 60px;
+    border: 2px solid rgba(230, 57, 70, 0.8); border-radius: 50%; pointer-events: none;
+}
+.egg-flash {
+    position: fixed; inset: 0; background: #FFFFFF; opacity: 0;
+    pointer-events: none; z-index: 9997; transition: opacity 0.18s ease-out 0.25s;
+}
+.egg-flash.on { opacity: 0.92; }
+/* 抵达灵感页的白场渐隐 */
+.egg-veil { position: fixed; inset: 0; background: #FFFFFF; z-index: 10000; pointer-events: none; opacity: 0; }
+body.egg-arrive .egg-veil { animation: egg-veil-out 0.9s ease-out forwards; }
+@keyframes egg-veil-out { from { opacity: 0.95; } to { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) {
+    .egg-scan, .egg-dot { animation: none; }
+    body.egg-arrive .egg-veil { animation: none; }
+}
+
+/* ========== 灵感页内容组件（gaming-ideas.html） ========== */
+.idea-quote {
+    border-left: 3px solid var(--gold-light); background: rgba(230, 57, 70, 0.05);
+    padding: 18px 22px; font-size: 16px; line-height: 1.9; color: var(--text-primary); margin: 16px 0 24px;
+}
+.idea-quote .idea-quote-src { display: block; margin-top: 8px; font-family: var(--font-mono); font-size: 11px; color: var(--text-muted); letter-spacing: 0.1em; }
+.idea-table { width: 100%; border-collapse: collapse; margin: 16px 0 28px; font-size: 13.5px; }
+.idea-table th {
+    font-family: var(--font-mono); font-size: 11px; letter-spacing: 0.1em; text-align: left;
+    color: var(--gold); padding: 10px 12px; border-bottom: 2px solid var(--gold-light);
+    background: rgba(230, 57, 70, 0.05); white-space: nowrap;
+}
+.idea-table td { padding: 10px 12px; border-bottom: 1px solid var(--border-color); color: var(--text-secondary); line-height: 1.7; vertical-align: top; }
+.idea-table tr:hover td { background: rgba(230, 57, 70, 0.03); }
+.idea-table td:first-child { color: var(--text-primary); font-weight: 600; }
+.idea-hook-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 14px; margin: 16px 0 28px; }
+.idea-hook {
+    border: 1px solid var(--border-color); border-top: 3px solid var(--gold-light);
+    padding: 16px 18px; font-size: 14px; line-height: 1.8; color: var(--text-primary);
+    background: var(--bg-card); transition: all 0.3s ease;
+}
+.idea-hook:hover { border-color: var(--gold-dim); box-shadow: 3px 3px 0 0 rgba(230, 57, 70, 0.25); }
+.idea-hook .idea-hook-tag { display: block; font-family: var(--font-mono); font-size: 10px; color: var(--gold); letter-spacing: 0.14em; margin-bottom: 8px; }
+@media (max-width: 640px) {
+    .idea-table { font-size: 12.5px; }
+    .idea-table th, .idea-table td { padding: 8px 8px; }
+    .egg-cta { display: none; }
+}
