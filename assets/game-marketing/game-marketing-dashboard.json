@@ -1,15 +1,41 @@
 {
-  "date": "2026-08-01",
-  "updatedAt": "2026-08-01 10:30 北京时间",
-  "headline": "每日游戏营销事件看板",
+  "date": "2026-08-03",
+  "updatedAt": "2026-08-03 10:58 北京时间",
+  "headline": "ChinaJoy 收官日：暑期档预热全面蓄水，三大产品大节点压向 8 月上中旬",
   "items": [
-    {"game":"逆水寒","heat":"低","event":"过去24小时暂无经核验的新营销事件；官方微博、抖音、小红书及公众号动态访问受限，未以旧闻补位","source":"https://www.sina.cn/media/5769940593","hotSearchCheckedAt":"2026-08-01 10:30 北京时间","hotSearches":[]},
-    {"game":"王者荣耀","heat":"低","event":"过去24小时暂无经核验的新营销事件；青岛城市派对8月5日至9日节点仍在未来7天观察清单","source":"https://weibo.com/heromoba","hotSearchCheckedAt":"2026-08-01 10:30 北京时间","hotSearches":[]},
-    {"game":"金铲铲之战","heat":"低","event":"过去24小时暂无经核验的新营销事件；斗鱼挑战活动仍在执行期，但未发现今日新增官宣","source":"https://www.douyu.com/g_JGAME","hotSearchCheckedAt":"2026-08-01 10:30 北京时间","hotSearches":[]},
-    {"game":"ChinaJoy × 抖音直播","heat":"高","event":"展会第二日继续以官方主题展区、主播及嘉宾Live演出和现场互动承接线上流量，形成直播平台与线下展会联动","source":"https://btb.chinajoy.net/news/63876","hotSearchCheckedAt":"2026-08-01 10:30 北京时间","hotSearches":[]},
-    {"game":"ChinaJoy Game Show","heat":"高","event":"蒸汽平台与Steam双平台首页线上展馆持续至8月3日，用新品展示、直播、折扣和愿望单承接线下展会外溢流量","source":"https://btb.chinajoy.net/news/63876","hotSearchCheckedAt":"2026-08-01 10:30 北京时间","hotSearches":[]},
-    {"game":"ChinaJoy × 支付宝","heat":"中","event":"现场以“碰一下组队”“积分膨胀”和内置NFC芯片实物票根，把近场交互、任务激励与可收藏周边串成转化链路","source":"https://btb.chinajoy.net/news/63876","hotSearchCheckedAt":"2026-08-01 10:30 北京时间","hotSearches":[]}
+    {
+      "game": "王者荣耀",
+      "heat": "中",
+      "event": "「夏日农友节」预热进行中：登录领蔷薇之心、部分皮肤限免、宝箱抽取；8月7日正式开启并伴随版本更新，当晚19:00「萌新之夜」明星农友赛直播。同期 CJ 荣耀WIN城水友赛（含王者荣耀）今日收官（7/31–8/3）。",
+      "source": "https://www.18183.com/gonglue/202607/trt739hr.html",
+      "hotSearchCheckedAt": "2026-08-03 10:40 北京时间",
+      "hotSearches": []
+    },
+    {
+      "game": "逆水寒手游",
+      "heat": "高",
+      "event": "三丽鸥家族联动（凯蒂猫&酷洛米）进入倒计时，8月6日开启，拼团送抽奖道具进行中；4.1.2 版本已于 7/31 更新，8/2 起签到领 300 纹玉代金券 + 3 个星烁序镜；七夕「星河共影」定档 8/19 预告释出。",
+      "source": "https://h.163.com/news/update/20260730/37232_1309666.html",
+      "hotSearchCheckedAt": "2026-08-03 10:40 北京时间",
+      "hotSearches": []
+    },
+    {
+      "game": "金铲铲之战",
+      "heat": "中",
+      "event": "S18「自然之力」赛季官宣 8月12日正式服更新，系上线以来最大技术改版：新引擎、画面重做、低配机型优化，手游与云顶之弈同步；当前 S17 后半段，限时模式「怪兽入侵·恭喜发财」持续开放。",
+      "source": "https://game.ccynice.com/zixun/13031.html",
+      "hotSearchCheckedAt": "2026-08-03 10:40 北京时间",
+      "hotSearches": []
+    },
+    {
+      "game": "ChinaJoy 2026",
+      "heat": "高",
+      "event": "第23届 ChinaJoy 今日收官（7/31–8/3，主题「与AI同游」，近 900 家展商）；抖音为官方内容+直播合作平台，蒸汽平台/Steam「第二展馆」线上专题同步至今日结束，是暑期档新游集中曝光的最大窗口。",
+      "source": "https://m.hdavchina.com/show.php?contentid=49629",
+      "hotSearchCheckedAt": "2026-08-03 10:40 北京时间",
+      "hotSearches": []
+    }
   ],
-  "trend": "ChinaJoy第二日的共同打法是把线下试玩与舞台互动延伸到直播、Steam愿望单和近场支付任务，营销从单次曝光转向可追踪转化。",
-  "action": "今天重点采集重点游戏展台的任务路径、直播切片、排队人流与UGC话题，午后再次复查微博、抖音和小红书公开热榜。"
+  "trend": "CJ 收官日撞上暑期档预热高峰：王者农友节、逆水寒三丽鸥联动、金铲铲 S18 技术改版都把大节点压在 8 月上中旬，厂商集体用倒计时预热 + 登录福利蓄水，为版本日集中引爆攒流量。",
+  "action": "明日重点盯逆水寒三丽鸥联动（8/6）倒计时物料与金铲铲 S18（8/12）爆料节奏；复查微博/抖音/小红书热榜及 B 站高播放二创，留意 CJ 收官后的厂商战报与社媒复盘内容。"
 }
