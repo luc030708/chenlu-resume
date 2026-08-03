@@ -770,3 +770,63 @@ body.egg-arrive .egg-veil { animation: egg-veil-out 0.9s ease-out forwards; }
 .idea-figure-row { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin: 20px 0 28px; }
 .idea-figure-row .idea-figure { margin: 0; }
 @media (max-width: 640px) { .idea-figure-row { grid-template-columns: 1fr; } }
+
+/* ========== 营销思路折叠分析模块（gaming-nishui.html 等） ========== */
+.triad-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin: 20px 0 8px; }
+.triad {
+    border: 1px solid var(--border-color); border-top: 3px solid var(--gold-light);
+    padding: 20px 22px; background: var(--bg-card); transition: all 0.3s ease;
+}
+.triad:hover { border-color: var(--gold-dim); box-shadow: 3px 3px 0 0 rgba(230, 57, 70, 0.22); }
+.triad-num { font-family: var(--font-mono); font-size: 22px; font-weight: 700; color: var(--gold-light); letter-spacing: 0.06em; }
+.triad-title { font-family: var(--font-display); font-size: 16px; font-weight: 700; color: var(--text-primary); margin: 10px 0 10px; }
+.triad p { font-size: 13.5px; color: var(--text-secondary); line-height: 1.8; margin: 0; }
+.triad-note { margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--border-color); font-size: 12.5px; line-height: 1.7; color: var(--gold); font-weight: 600; }
+@media (max-width: 768px) { .triad-row { grid-template-columns: 1fr; } }
+
+.acc { border: 1px solid var(--border-color); background: var(--bg-card); margin-bottom: 14px; transition: border-color 0.3s ease, box-shadow 0.3s ease; }
+.acc:hover { border-color: var(--gold-dim); }
+.acc[open] { border-color: var(--gold-light); box-shadow: 4px 4px 0 0 rgba(230, 57, 70, 0.16); }
+.acc-head { display: flex; align-items: center; gap: 16px; padding: 18px 22px; cursor: pointer; list-style: none; user-select: none; }
+.acc-head::-webkit-details-marker { display: none; }
+.acc-num {
+    font-family: var(--font-mono); font-size: 11px; font-weight: 700; letter-spacing: 0.1em;
+    color: #FFFFFF; background: var(--gold-light); padding: 5px 10px; white-space: nowrap; flex-shrink: 0;
+}
+.acc-titles { flex: 1; min-width: 0; }
+.acc-title { display: block; font-family: var(--font-display); font-size: 17px; font-weight: 700; color: var(--text-primary); }
+.acc-sub { display: block; font-size: 12.5px; color: var(--text-muted); margin-top: 3px; line-height: 1.6; }
+.acc-toggle {
+    font-family: var(--font-mono); font-size: 11px; color: var(--gold); letter-spacing: 0.1em;
+    white-space: nowrap; display: flex; align-items: center; gap: 6px; flex-shrink: 0;
+}
+.acc-toggle::before { content: '+'; font-size: 15px; font-weight: 700; transition: transform 0.3s ease; }
+.acc[open] .acc-toggle::before { transform: rotate(45deg); }
+.acc-body { display: grid; grid-template-rows: 0fr; transition: grid-template-rows 0.45s cubic-bezier(0.22, 1, 0.36, 1); }
+.acc[open] .acc-body { grid-template-rows: 1fr; }
+.acc-body-in { overflow: hidden; }
+.acc-inner { margin: 0 22px; padding: 18px 0 22px; border-top: 1px dashed var(--border-color); }
+.abd-row { display: flex; gap: 14px; padding: 9px 0; border-bottom: 1px solid var(--border-color); }
+.abd-row:last-of-type { border-bottom: none; }
+.abd-label {
+    font-family: var(--font-mono); font-size: 11px; font-weight: 700; color: var(--gold);
+    letter-spacing: 0.12em; width: 64px; flex-shrink: 0; padding-top: 3px;
+}
+.abd-text { font-size: 14px; color: var(--text-secondary); line-height: 1.8; }
+.abd-text strong { color: var(--text-primary); }
+.acc-judge {
+    margin-top: 14px; border-left: 3px solid var(--gold-light); background: rgba(230, 57, 70, 0.05);
+    padding: 14px 18px; font-size: 14px; line-height: 1.8; color: var(--text-primary);
+}
+.acc-judge .acc-judge-tag { display: block; font-family: var(--font-mono); font-size: 10px; font-weight: 700; color: var(--gold); letter-spacing: 0.14em; margin-bottom: 6px; }
+.chain-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin: 14px 0 4px; }
+.chain-step { background: var(--bg-secondary); padding: 12px 14px; font-size: 13px; line-height: 1.7; color: var(--text-secondary); }
+.chain-step .chain-tag { display: block; font-family: var(--font-mono); font-size: 10px; font-weight: 700; color: var(--gold); letter-spacing: 0.14em; margin-bottom: 6px; }
+@media (max-width: 768px) { .chain-row { grid-template-columns: 1fr; } }
+@media (max-width: 640px) {
+    .acc-head { gap: 12px; padding: 16px 16px; }
+    .acc-inner { margin: 0 16px; }
+    .acc-toggle span { display: none; }
+    .abd-row { flex-direction: column; gap: 4px; }
+    .abd-label { width: auto; }
+}
