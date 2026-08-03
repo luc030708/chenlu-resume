@@ -762,3 +762,11 @@ body.egg-arrive .egg-veil { animation: egg-veil-out 0.9s ease-out forwards; }
     .idea-table th, .idea-table td { padding: 8px 8px; }
     .egg-cta { display: none; }
 }
+
+/* ========== 灵感页概念氛围图 ========== */
+.idea-figure { margin: 20px 0 28px; }
+.idea-figure img { display: block; width: 100%; border: 1px solid var(--border-color); }
+.idea-figure figcaption { font-family: var(--font-mono); font-size: 11px; color: var(--text-muted); letter-spacing: 0.1em; margin-top: 8px; }
+.idea-figure-row { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin: 20px 0 28px; }
+.idea-figure-row .idea-figure { margin: 0; }
+@media (max-width: 640px) { .idea-figure-row { grid-template-columns: 1fr; } }
