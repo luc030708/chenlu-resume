@@ -830,3 +830,7 @@ body.egg-arrive .egg-veil { animation: egg-veil-out 0.9s ease-out forwards; }
     .abd-row { flex-direction: column; gap: 4px; }
     .abd-label { width: auto; }
 }
+
+/* 四卡 2×2 变体（国际服页「四个入口」） */
+.triad-row.triad-four { grid-template-columns: repeat(2, 1fr); }
+@media (max-width: 640px) { .triad-row.triad-four { grid-template-columns: 1fr; } }
