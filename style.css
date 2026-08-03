@@ -847,3 +847,17 @@ body.egg-arrive .egg-veil { animation: egg-veil-out 0.9s ease-out forwards; }
 .nine-q-item p { margin: 0; font-size: 13px; line-height: 1.75; color: var(--text-secondary); }
 @media (max-width: 900px) { .nine-q { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 640px) { .nine-q { grid-template-columns: 1fr; } }
+
+/* ===== 全站互动组件（interactions.js） ===== */
+/* 卡片倾斜与按钮磁吸的平滑回弹 */
+.tiltable { transition: transform 0.28s cubic-bezier(0.22, 1, 0.36, 1), border-color 0.3s ease, box-shadow 0.3s ease; transform-style: preserve-3d; }
+.magnetic { transition: transform 0.22s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.3s ease, border-color 0.3s ease, color 0.3s ease, background 0.3s ease; }
+
+/* 详情页阅读进度条 */
+.read-progress {
+    position: fixed; top: 0; left: 0; height: 3px; width: 0;
+    background: linear-gradient(90deg, var(--gold-light), var(--gold) 60%, #ffb3ba);
+    box-shadow: 0 0 8px 1px rgba(230, 57, 70, 0.45);
+    z-index: 10000; pointer-events: none;
+    transition: width 0.08s linear;
+}
