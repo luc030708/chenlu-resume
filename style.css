@@ -834,3 +834,16 @@ body.egg-arrive .egg-veil { animation: egg-veil-out 0.9s ease-out forwards; }
 /* 四卡 2×2 变体（国际服页「四个入口」） */
 .triad-row.triad-four { grid-template-columns: repeat(2, 1fr); }
 @media (max-width: 640px) { .triad-row.triad-four { grid-template-columns: 1fr; } }
+
+/* 九个问题 · 方法论自检清单（洞察页） */
+.nine-q { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin: 18px 0 6px; counter-reset: nineq; }
+.nine-q-item { border: 1px solid var(--border-color); background: var(--bg-card); padding: 16px 18px; transition: border-color 0.3s ease, box-shadow 0.3s ease; }
+.nine-q-item:hover { border-color: var(--gold-dim); box-shadow: 3px 3px 0 0 rgba(230, 57, 70, 0.22); }
+.nine-q-item::before {
+    counter-increment: nineq; content: "Q" counter(nineq, decimal-leading-zero);
+    display: block; font-family: var(--font-mono); font-size: 15px; font-weight: 700;
+    color: var(--gold-light); letter-spacing: 0.08em; margin-bottom: 8px;
+}
+.nine-q-item p { margin: 0; font-size: 13px; line-height: 1.75; color: var(--text-secondary); }
+@media (max-width: 900px) { .nine-q { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 640px) { .nine-q { grid-template-columns: 1fr; } }
