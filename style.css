@@ -282,7 +282,7 @@ body {
 
 /* ========== 爱好高亮框 · SIDE QUESTS ========== */
 .hobby-box {
-    margin-top: 4px; padding: 22px 24px 20px; position: relative;
+    margin-top: 48px; padding: 22px 24px 20px; position: relative;
     background: linear-gradient(135deg, rgba(230, 57, 70, 0.05), rgba(230, 57, 70, 0.015));
     border: 1px solid rgba(230, 57, 70, 0.22); border-radius: 4px;
 }
@@ -300,13 +300,14 @@ body {
     color: var(--gold); letter-spacing: 0.12em;
 }
 .hobby-box-label::before { content: ''; width: 8px; height: 8px; background: var(--gold-light); flex-shrink: 0; }
-.hobby-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px 20px; }
+.hobby-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px 28px; }
 .hobby-item { display: flex; gap: 10px; align-items: flex-start; }
 .hobby-item .ip-icon { font-size: 15px; margin-top: 2px; }
 .hobby-item-title { font-size: 13.5px; font-weight: 700; color: var(--text-primary); line-height: 1.5; }
 .hobby-item-desc { font-size: 12px; color: var(--text-muted); line-height: 1.65; margin-top: 2px; }
 .hobby-item-desc a { color: var(--gold); text-decoration: none; border-bottom: 1px dashed var(--gold-dim); }
 .hobby-item-desc a:hover { color: var(--gold-light); border-bottom-style: solid; }
+@media (max-width: 1024px) { .hobby-grid { grid-template-columns: 1fr 1fr; } }
 @media (max-width: 640px) { .hobby-grid { grid-template-columns: 1fr; } }
 
 /* ========== EDUCATION ========== */
