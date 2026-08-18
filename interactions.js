@@ -94,3 +94,32 @@
         update();
     }
 })();
+
+/* ========== 备案号悬挂（工信部要求） ========== */
+(function () {
+    var ICP = '\u82cfICP\u59072026055538\u53f7-1';      // 苏ICP备2026055538号-1
+    var PSB = '';  // 公安备案号：拿到后填入，如 '苏公网安备 3205xxxxxx号'
+    var PSB_CODE = '';  // 公安备案数字编号（用于链接参数）
+    function mount() {
+        var host = document.querySelector('.footer-inner') || document.body;
+        var style = document.createElement('style');
+        style.textContent =
+            '.beian-line{margin-top:10px;font-size:12px;line-height:1.8;color:var(--text-muted,#8a8a8a);display:flex;flex-wrap:wrap;justify-content:center;gap:6px 16px}' +
+            '.beian-line a{color:inherit;text-decoration:none;display:inline-flex;align-items:center;gap:4px}' +
+            '.beian-line a:hover{color:var(--gold,#c9a063)}' +
+            '.beian-line img{width:14px;height:14px;display:inline-block}';
+        document.head.appendChild(style);
+        var div = document.createElement('div');
+        div.className = 'beian-line';
+        var html = '<a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener">' + ICP + '</a>';
+        if (PSB && PSB_CODE) {
+            html += '<a href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=' + PSB_CODE + '" target="_blank" rel="noopener">' +
+                '<img src="assets/icons/beian-badge.png" alt="">' + PSB + '</a>';
+        }
+        div.innerHTML = html;
+        host.appendChild(div);
+    }
+    if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', mount);
+    else mount();
+})();
+
