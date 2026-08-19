@@ -98,8 +98,8 @@
 /* ========== 备案号悬挂（工信部要求） ========== */
 (function () {
     var ICP = '\u82cfICP\u59072026055538\u53f7-1';      // 苏ICP备2026055538号-1
-    var PSB = '';  // 公安备案号：拿到后填入，如 '苏公网安备 3205xxxxxx号'
-    var PSB_CODE = '';  // 公安备案数字编号（用于链接参数）
+    var PSB = '\u82cf\u516c\u7f51\u5b89\u590732058302006849\u53f7';  // 苏公网安备32058302006849号
+    var PSB_CODE = '32058302006849';  // 公安备案数字编号（用于链接参数）
     function mount() {
         var host = document.querySelector('.footer-inner') || document.body;
         var style = document.createElement('style');
