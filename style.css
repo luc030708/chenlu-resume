@@ -605,7 +605,7 @@ a.article-card:hover .article-jump { color: var(--gold); }
 .detail-meta .ip-icon { margin-right: 2px; }
 
 /* ========== 品牌素材（CC 氪点信号 / 创业者） ========== */
-.portfolio-cover-img { width: 100%; height: 100%; object-fit: cover; object-position: center 20%; display: block; }
+.portfolio-cover-img { width: 100%; height: 100%; object-fit: contain; object-position: center; display: block; }
 .brand-strip {
     margin: 4px auto 0; display: inline-flex; align-items: center; gap: 16px;
     background: #111315; border: 1px solid rgba(26, 28, 28, 0.25);
