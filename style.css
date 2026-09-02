@@ -894,21 +894,26 @@ body.egg-arrive .egg-veil { animation: egg-veil-out 0.9s ease-out forwards; }
     transition: width 0.08s linear;
 }
 
-/* ========== WECHAT FLIP CARDS 公众号翻页卡 ========== */
+/* ========== WECHAT FLIP CARDS 公众号翻页卡（logo 左滑揭示介绍） ========== */
 .wx-card { padding: 0; }
-.wx-flip { display: block; perspective: 1400px; aspect-ratio: 3 / 2; text-decoration: none; }
-.wx-flip-inner { position: relative; width: 100%; height: 100%; transform-style: preserve-3d; transition: transform 0.7s cubic-bezier(0.35, 0.15, 0.2, 1); }
-.wx-card:hover .wx-flip-inner, .wx-flip:focus-visible .wx-flip-inner { transform: rotateY(180deg); }
-.wx-flip-face { position: absolute; inset: 0; backface-visibility: hidden; -webkit-backface-visibility: hidden; overflow: hidden; }
+.wx-flip { display: block; position: relative; aspect-ratio: 3 / 2; overflow: hidden; text-decoration: none; }
+.wx-flip-inner { position: absolute; inset: 0; }
+.wx-flip-face { position: absolute; inset: 0; overflow: hidden; }
+.wx-flip-front { z-index: 2; transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1); box-shadow: 6px 0 18px rgba(26, 28, 28, 0.18); }
 .wx-flip-front img { width: 100%; height: 100%; object-fit: cover; object-position: center; display: block; }
-.wx-flip-back { transform: rotateY(180deg); background: var(--text-primary); padding: 30px; display: flex; flex-direction: column; justify-content: center; gap: 14px; }
-.wx-flip-title { font-family: var(--font-mono); font-size: 12px; letter-spacing: 0.12em; color: var(--gold-dim); margin: 0; font-weight: 700; }
-.wx-flip-desc { font-size: 13.5px; line-height: 1.8; color: rgba(248, 250, 250, 0.88); margin: 0; }
+.wx-flip-back {
+    z-index: 1; background: #FBFAF8; border-left: 4px solid var(--gold);
+    padding: 28px 30px; display: flex; flex-direction: column; justify-content: center; gap: 13px;
+    transform: translateX(36px); opacity: 0.4;
+    transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.6s ease;
+}
+.wx-card:hover .wx-flip-front, .wx-flip:focus-visible .wx-flip-front { transform: translateX(-102%); }
+.wx-card:hover .wx-flip-back, .wx-flip:focus-visible .wx-flip-back { transform: translateX(0); opacity: 1; }
+.wx-flip-title { font-family: var(--font-mono); font-size: 12px; letter-spacing: 0.12em; color: var(--gold); margin: 0; font-weight: 700; }
+.wx-flip-desc { font-size: 13.5px; line-height: 1.8; color: var(--text-primary); margin: 0; }
 .wx-flip-tags { display: flex; flex-wrap: wrap; gap: 6px; }
-.wx-flip-tags span { font-family: var(--font-mono); font-size: 10.5px; padding: 3px 9px; font-weight: 700; letter-spacing: 0.08em; color: var(--gold-dim); border: 1px solid rgba(230, 57, 70, 0.55); background: rgba(230, 57, 70, 0.12); }
-.wx-card-foot { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 22px 26px; }
+.wx-flip-tags span { font-family: var(--font-mono); font-size: 10.5px; padding: 3px 9px; font-weight: 700; letter-spacing: 0.08em; color: var(--gold); border: 1px solid rgba(230, 57, 70, 0.45); background: rgba(230, 57, 70, 0.07); }
+.wx-card-foot { display: flex; flex-direction: column; align-items: center; text-align: center; gap: 12px; padding: 22px 26px 26px; }
 .wx-card-foot .card-title { margin: 0 0 4px; }
 .wx-card-foot .card-subtitle { margin: 0; }
-.wx-card-foot .btn { white-space: nowrap; }
-@media (max-width: 640px) { .wx-card-foot { flex-direction: column; align-items: stretch; text-align: center; } }
-@media (prefers-reduced-motion: reduce) { .wx-flip-inner { transition: none; } }
+@media (prefers-reduced-motion: reduce) { .wx-flip-front, .wx-flip-back { transition: none; } }
