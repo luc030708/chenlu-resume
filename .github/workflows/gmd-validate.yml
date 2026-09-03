@@ -1,0 +1,14 @@
+name: Validate GMD data
+
+on:
+  push:
+    paths:
+      - 'data/game-marketing-dashboard.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate dashboard JSON against component schema rules
+        run: python3 scripts/validate_gmd.py data/game-marketing-dashboard.json
