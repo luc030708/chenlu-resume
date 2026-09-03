@@ -917,3 +917,26 @@ body.egg-arrive .egg-veil { animation: egg-veil-out 0.9s ease-out forwards; }
 .wx-card-foot .card-title { margin: 0 0 4px; }
 .wx-card-foot .card-subtitle { margin: 0; }
 @media (prefers-reduced-motion: reduce) { .wx-flip-front, .wx-flip-back { transition: none; } }
+
+/* ========== GMD 看板主题适配（--gmd-* → 雷火红白 v2.1） ========== */
+game-marketing-dashboard {
+    --gmd-font: var(--font-body);
+    --gmd-text: var(--text-primary);
+    --gmd-muted: var(--text-secondary);
+    --gmd-subtle: var(--text-muted);
+    --gmd-accent: var(--gold-light);
+    --gmd-action: var(--gold);
+    --gmd-link: var(--gold);
+    --gmd-bg-start: #FFFFFF;
+    --gmd-bg-end: var(--bg-primary);
+    --gmd-card: rgba(26, 28, 28, 0.035);
+    --gmd-card-open: rgba(230, 57, 70, 0.07);
+    --gmd-border: var(--border-color);
+    --gmd-radius: 6px;
+    --gmd-card-radius: 4px;
+    --gmd-max-width: 100%;
+    --gmd-padding: 24px;
+    --gmd-shadow: var(--shadow-gold);
+    display: block;
+    max-width: 100%;
+}
