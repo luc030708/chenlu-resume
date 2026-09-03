@@ -1,10 +1,7 @@
 const template = document.createElement('template');
-
-// 相对模块自身 URL 解析样式表，避免受引用页面路径影响（GitHub Pages 子路径下 404 的修复）
-const dashboardCssUrl = new URL('game-marketing-dashboard.css', import.meta.url).href;
+const stylesheetUrl = new URL('./game-marketing-dashboard.css', import.meta.url).href;
 
 template.innerHTML = `
-  <link rel="stylesheet" href="${dashboardCssUrl}">
   <section class="dashboard" aria-live="polite">
     <header class="header">
       <div><h2 class="headline">每日游戏营销事件看板</h2><p class="updated">正在读取数据…</p></div>
@@ -12,7 +9,7 @@ template.innerHTML = `
     </header>
     <div class="events"></div>
     <div class="insights"></div>
-    <footer>每分钟刷新 · 点击营销事件展开热搜详情</footer>
+    <footer>自动读取 JSON · 点击营销事件展开热搜详情</footer>
   </section>
 `;
 
@@ -21,6 +18,7 @@ const escapeHtml = (value = '') => String(value).replace(/[&<>'"]/g, (char) => (
 }[char]));
 
 const safeUrl = (value = '') => {
+  if (!value) return ''; // bugfix: 空值会被 new URL 解析成本页地址，导致渲染破图
   try {
     const url = new URL(value, window.location.href);
     return ['http:', 'https:'].includes(url.protocol) ? url.href : '';
@@ -32,7 +30,11 @@ class GameMarketingDashboard extends HTMLElement {
 
   constructor() {
     super();
-    this.attachShadow({ mode: 'open' }).appendChild(template.content.cloneNode(true));
+    const root = this.attachShadow({ mode: 'open' });
+    const stylesheet = document.createElement('link');
+    stylesheet.rel = 'stylesheet';
+    stylesheet.href = stylesheetUrl;
+    root.append(stylesheet, template.content.cloneNode(true));
   }
 
   connectedCallback() { this.load(); }
@@ -43,7 +45,11 @@ class GameMarketingDashboard extends HTMLElement {
     clearTimeout(this.timer);
     const dataUrl = this.getAttribute('data-url') || './game-marketing-dashboard.json';
     try {
-      const response = await fetch(dataUrl, { cache: 'no-store' });
+      const separator = dataUrl.includes('?') ? '&' : '?';
+      const response = await fetch(`${dataUrl}${separator}_dashboard_ts=${Date.now()}`, {
+        cache: 'no-store',
+        headers: { Accept: 'application/json' }
+      });
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       this.render(await response.json());
       this.dispatchEvent(new CustomEvent('dashboard-loaded', { bubbles: true }));
@@ -97,4 +103,3 @@ class GameMarketingDashboard extends HTMLElement {
 if (!customElements.get('game-marketing-dashboard')) {
   customElements.define('game-marketing-dashboard', GameMarketingDashboard);
 }
-
