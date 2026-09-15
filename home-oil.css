@@ -1,0 +1,312 @@
+/* Homepage-only oil-painting direction: editorial calm with a game-red pulse. */
+.game-home {
+    --home-ivory: #fff7e9;
+    --home-ink: #34231f;
+    --home-muted: #735c54;
+    --home-red: #bd2432;
+    --home-red-dark: #7e1722;
+    --home-line: rgba(111, 51, 42, 0.22);
+}
+
+.game-home .nav {
+    inset: 18px auto auto 50%;
+    width: min(92%, 1320px);
+    height: 72px;
+    transform: translateX(-50%);
+    border: 1px solid rgba(255, 255, 255, 0.74);
+    border-radius: 20px;
+    background: rgba(255, 249, 237, 0.9);
+    color: var(--home-ink);
+    box-shadow: 0 10px 38px rgba(78, 25, 21, 0.1);
+    -webkit-backdrop-filter: blur(18px);
+    backdrop-filter: blur(18px);
+}
+
+.game-home .nav-container {
+    max-width: none;
+    height: 100%;
+    padding: 0 26px;
+}
+
+.game-home .nav-logo {
+    gap: 12px;
+    color: var(--home-ink);
+    letter-spacing: 0;
+}
+
+.game-home .nav-logo::before { display: none; }
+.game-home .nav-logo strong { font-size: 20px; letter-spacing: -0.04em; }
+.game-home .nav-logo span { font-size: 11px; font-weight: 500; color: #80665c; letter-spacing: 0.1em; }
+.game-home .nav-links a { color: #715c54; font-size: 12px; }
+.game-home .nav-links a:hover,
+.game-home .nav-links a.active { color: var(--home-red-dark); }
+.game-home .nav-links a::after { background: var(--home-red); height: 1px; }
+
+.game-home .hero {
+    min-height: 780px;
+    height: 100svh;
+    max-height: 1100px;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background: #c85a43;
+    isolation: isolate;
+}
+
+.game-home .hero::before,
+.game-home .hero::after,
+.game-home .hero-bg,
+.game-home .hero-mist,
+.game-home .hero-glow,
+.game-home .scroll-indicator { display: none; }
+
+.game-home .hero-painting {
+    position: absolute;
+    inset: 0;
+    z-index: -3;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 65% center;
+    animation: home-painting-in 1.5s ease-out both;
+}
+
+.game-home .hero-vignette {
+    position: absolute;
+    inset: 0;
+    z-index: -2;
+    background:
+        linear-gradient(90deg, rgba(255, 247, 232, 0.94) 0%, rgba(255, 244, 225, 0.83) 32%, rgba(255, 239, 216, 0.28) 52%, transparent 70%),
+        linear-gradient(0deg, rgba(248, 250, 250, 0.98) 0%, rgba(248, 250, 250, 0.18) 22%, transparent 42%);
+}
+
+.game-home .hero-inner {
+    z-index: 1;
+    width: min(1360px, 100%);
+    margin: 0 auto;
+    padding: 112px 7.5vw 110px;
+}
+
+.game-home .hero-content {
+    max-width: 650px;
+    text-align: left;
+    color: var(--home-ink);
+}
+
+.game-home .hero-kicker {
+    margin: 0 0 26px;
+    color: var(--home-red-dark);
+    font-family: var(--font-mono);
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.32em;
+    animation: fadeInUp 0.8s ease-out 0.05s both;
+}
+
+.game-home .hero-title {
+    margin: 0 0 24px;
+    font-family: 'Noto Serif SC', 'Songti SC', serif;
+    font-weight: 400;
+    color: var(--home-ink);
+    letter-spacing: -0.04em;
+    line-height: 1.22;
+    animation: fadeInUp 0.9s ease-out 0.12s both;
+}
+
+.game-home .hero-title-cn {
+    display: block;
+    font-size: clamp(31px, 3.1vw, 44px);
+    letter-spacing: -0.05em;
+}
+
+.game-home .hero-name-en {
+    display: block;
+    margin: 4px 0 0;
+    color: #2d201d;
+    font-family: 'Noto Serif SC', Georgia, serif;
+    font-size: clamp(58px, 6.8vw, 96px);
+    font-weight: 400;
+    line-height: 1.1;
+    letter-spacing: -0.06em;
+    animation: none;
+}
+
+.game-home .hero-statement {
+    margin: 0 0 12px;
+    color: #503831;
+    font-family: 'Noto Serif SC', 'Songti SC', serif;
+    font-size: clamp(19px, 2vw, 25px);
+    line-height: 1.6;
+    animation: fadeInUp 0.9s ease-out 0.24s both;
+}
+
+.game-home .hero-subtitle {
+    margin: 0;
+    color: var(--home-muted);
+    font-family: var(--font-body);
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.09em;
+    animation: fadeInUp 0.9s ease-out 0.34s both;
+}
+
+.game-home .hero-contact {
+    justify-content: flex-start;
+    margin-top: 28px;
+    animation: fadeInUp 0.9s ease-out 0.44s both;
+}
+
+.game-home .hero-contact a {
+    padding: 12px 24px;
+    border: 1px solid var(--home-red-dark);
+    border-radius: 999px;
+    background: var(--home-red);
+    color: #fff9ef;
+    box-shadow: none;
+    font-size: 13px;
+    letter-spacing: 0.04em;
+}
+
+.game-home .hero-contact a:hover {
+    transform: translateY(-2px);
+    background: var(--home-red-dark);
+    box-shadow: 0 10px 24px rgba(126, 23, 34, 0.2);
+}
+
+.game-home .hero-contact a.secondary {
+    border-color: var(--home-line);
+    background: rgba(255, 248, 234, 0.56);
+    color: var(--home-ink);
+}
+
+.game-home .hero-contact a.secondary:hover {
+    border-color: var(--home-red);
+    background: rgba(255, 248, 234, 0.82);
+    color: var(--home-red-dark);
+    box-shadow: none;
+}
+
+.game-home .hero-education {
+    margin: 28px 0 0;
+    color: #71584e;
+    font-size: 12px;
+    line-height: 1.9;
+    animation: fadeInUp 0.9s ease-out 0.54s both;
+}
+
+.game-home .hero-bottom {
+    position: absolute;
+    right: 4.5%;
+    bottom: 24px;
+    left: 4.5%;
+    z-index: 2;
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    color: rgba(77, 50, 43, 0.72);
+    font-family: var(--font-mono);
+    font-size: 9px;
+    letter-spacing: 0.21em;
+}
+
+.game-home .hero-bottom a { color: inherit; text-decoration: none; }
+.game-home .hero-bottom a b { margin-left: 8px; color: var(--home-red); }
+.game-home .hero-bottom > span:last-child { text-align: right; }
+
+.game-home .stats-bar {
+    border-color: rgba(135, 72, 61, 0.18);
+    background: #fbf7f0;
+}
+
+.game-home .stats-bar-item { border-color: rgba(135, 72, 61, 0.18); }
+.game-home .stats-bar-value { color: var(--home-red-dark); }
+
+.game-home .home-back-top {
+    position: fixed;
+    bottom: 22px;
+    left: 22px;
+    z-index: 100;
+    display: grid;
+    place-items: center;
+    width: 44px;
+    height: 44px;
+    border: 1px solid rgba(126, 23, 34, 0.24);
+    border-radius: 50%;
+    background: rgba(255, 248, 235, 0.88);
+    color: var(--home-red-dark);
+    text-decoration: none;
+    font-size: 18px;
+    box-shadow: 0 8px 26px rgba(78, 25, 21, 0.1);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+    transition: transform 0.25s ease, background 0.25s ease;
+}
+
+.game-home .home-back-top:hover {
+    transform: translateY(-3px);
+    background: #fff8eb;
+}
+
+@keyframes home-painting-in {
+    from { opacity: 0; transform: scale(1.025); }
+    to { opacity: 1; transform: scale(1); }
+}
+
+@media (max-width: 900px) {
+    .game-home .nav { top: 13px; height: 60px; border-radius: 16px; }
+    .game-home .nav-container { padding: 0 17px; }
+    .game-home .nav-logo span { display: none; }
+    .game-home .nav-links {
+        top: 68px;
+        right: 0;
+        left: auto;
+        width: min(280px, calc(100vw - 32px));
+        border: 1px solid rgba(125, 69, 58, 0.16);
+        border-radius: 14px;
+        background: rgba(255, 249, 238, 0.97);
+        box-shadow: 0 18px 46px rgba(78, 25, 21, 0.12);
+    }
+    .game-home .nav-hamburger span { background: var(--home-ink); }
+    .game-home .hero {
+        min-height: 820px;
+        height: 100svh;
+        max-height: 960px;
+        align-items: flex-end;
+        background: #f9eee3;
+    }
+    .game-home .hero-painting {
+        height: 58%;
+        object-position: 71% top;
+    }
+    .game-home .hero-vignette {
+        background:
+            linear-gradient(0deg, #faf7f0 35%, rgba(250, 247, 240, 0.96) 44%, rgba(250, 247, 240, 0.12) 65%, transparent 78%),
+            linear-gradient(90deg, rgba(255, 244, 225, 0.2), transparent 50%);
+    }
+    .game-home .hero-inner {
+        padding: 350px 25px 88px;
+    }
+    .game-home .hero-content { max-width: 100%; }
+    .game-home .hero-kicker { margin-bottom: 18px; font-size: 8px; letter-spacing: 0.25em; }
+    .game-home .hero-title { margin-bottom: 17px; }
+    .game-home .hero-title-cn { font-size: 29px; }
+    .game-home .hero-name-en { font-size: clamp(48px, 15vw, 66px); }
+    .game-home .hero-statement { font-size: 18px; }
+    .game-home .hero-subtitle { font-size: 12px; line-height: 1.8; }
+    .game-home .hero-contact { margin-top: 22px; gap: 10px; }
+    .game-home .hero-contact a { padding: 10px 18px; font-size: 12px; }
+    .game-home .hero-education { margin-top: 20px; font-size: 10px; }
+    .game-home .hero-bottom { bottom: 16px; grid-template-columns: 1fr auto; font-size: 7px; }
+    .game-home .hero-bottom > span:last-child { display: none; }
+    .game-home .home-back-top { right: 18px; bottom: 18px; left: auto; width: 40px; height: 40px; }
+}
+
+@media (max-width: 430px) {
+    .game-home .hero-inner { padding-right: 20px; padding-left: 20px; }
+    .game-home .hero-contact a.secondary { display: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .game-home .hero-painting { animation: none; }
+}

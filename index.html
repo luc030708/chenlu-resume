@@ -3,8 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>陈璐 · 个人作品集</title>
+    <title>陈璐 · 游戏营销作品集</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="assets/editorial-serif.css">
+    <link rel="stylesheet" href="home-oil.css">
     <style>
         /* ========== SKILLS SECTION ========== */
         .skills-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px; }
@@ -39,12 +41,12 @@
         }
     </style>
 </head>
-<body>
+<body class="game-home">
 
     <!-- Navigation -->
     <nav class="nav">
         <div class="nav-container">
-            <a href="#" class="nav-logo">陈璐</a>
+            <a href="#home" class="nav-logo"><strong>Connie.</strong><span>陈璐 · 游戏营销</span></a>
             <ul class="nav-links" id="navLinks">
                 <li><a href="#profile" class="active">关于我</a></li>
                 <li><a href="#education">教育</a></li>
@@ -59,33 +61,29 @@
 
     <!-- Hero Section -->
     <section class="hero" id="home">
-        <div class="hero-bg"></div>
-        <div class="hero-mist"></div>
-        <div class="hero-glow hero-glow-1"></div>
-        <div class="hero-glow hero-glow-2"></div>
+        <img src="assets/hero-game-oil.png" class="hero-painting" alt="陈璐置身绯红落日山野中的油画肖像">
+        <div class="hero-vignette"></div>
         <div class="hero-inner">
-        <div class="hero-content">
-            <h1 class="hero-title"><span class="name-highlight">陈璐</span></h1>
-            <div class="hero-name-en">CONNIE CHEN</div>
-            <div class="hero-divider"></div>
-            <p class="hero-subtitle">游戏市场营销 / 游戏运营 · 深度玩家 × 营销实战</p>
-            <div class="hero-tags">
-                <span class="hero-tag">KOL营销</span>
-                <span class="hero-tag">内容策略</span>
-                <span class="hero-tag">效果投放</span>
-                <span class="hero-tag">媒介优化</span>
-                <span class="hero-tag">AI工作流</span>
-            </div>
-            <div class="hero-contact">
-                <a href="mailto:connie.chen0708@outlook.com">发送邮件</a>
-                <a href="#portfolio" class="secondary">查看作品</a>
+            <div class="hero-content">
+                <p class="hero-kicker">PLAY THE GAME · READ THE MARKET</p>
+                <h1 class="hero-title">
+                    <span class="hero-title-cn">你好，我是陈璐</span>
+                    <span class="hero-name-en">Connie Chen.</span>
+                </h1>
+                <p class="hero-statement">从玩家情绪，走向可验证的营销判断。</p>
+                <p class="hero-subtitle">游戏市场营销 · 玩家洞察 · 内容策略 · AI 实践</p>
+                <div class="hero-contact">
+                    <a href="#portfolio">探索游戏作品 <span>↗</span></a>
+                    <a href="mailto:connie.chen0708@outlook.com" class="secondary">联系我</a>
+                </div>
+                <p class="hero-education">约翰霍普金斯大学 · 传播学硕士 · 2027 届<br>深度玩家 / 游戏营销观察公众号「CC 氪点信号」主理人</p>
             </div>
         </div>
-        <div class="hero-avatar-wrap" id="heroAvatarWrap" aria-hidden="true">
-            <img src="assets/avatar/avatar-wave.png" class="hero-avatar" alt="">
+        <div class="hero-bottom" aria-hidden="true">
+            <span>PLAYER INSIGHT INTO MARKET IMPACT</span>
+            <a href="#profile">向下探索 <b>↓</b></a>
+            <span>GAME MARKETING / 2026</span>
         </div>
-        </div>
-        <div class="scroll-indicator"></div>
     </section>
 
     <!-- Stats Bar -->
@@ -311,9 +309,6 @@
 
     <!-- Footer -->
     <footer class="footer" id="siteFooter">
-        <div class="footer-peek" id="footerPeek" aria-hidden="true">
-            <img src="assets/avatar/avatar-peek.png" alt="">
-        </div>
         <div class="footer-inner">
             <div class="footer-brand">陈璐</div>
             <p>以营销为笔，以数据为墨，书写品牌与用户的连接</p>
@@ -368,30 +363,8 @@
         window.addEventListener('scroll', checkReveal);
         checkReveal();
 
-        // Hero 动漫形象：鼠标视差
-        const heroSec = document.querySelector('.hero');
-        const avatarWrap = document.getElementById('heroAvatarWrap');
-        if (heroSec && avatarWrap) {
-            heroSec.addEventListener('mousemove', e => {
-                const r = heroSec.getBoundingClientRect();
-                const dx = (e.clientX - r.left) / r.width - 0.5;
-                const dy = (e.clientY - r.top) / r.height - 0.5;
-                avatarWrap.style.transform = `translate(${dx * -18}px, ${dy * -10}px)`;
-            });
-            heroSec.addEventListener('mouseleave', () => { avatarWrap.style.transform = ''; });
-        }
-
-        // 页脚 peek 形象：进入视口滑出
-        const footerPeek = document.getElementById('footerPeek');
-        if (footerPeek) {
-            const peekObserver = new IntersectionObserver(entries => {
-                entries.forEach(en => { if (en.isIntersecting) footerPeek.classList.add('show'); });
-            }, { threshold: 0.2 });
-            peekObserver.observe(document.getElementById('siteFooter'));
-        }
     </script>
-    <a href="#home" style="position: fixed; bottom: 24px; right: 24px; width: 48px; height: 48px; border-radius: 50%; background: var(--gold); color: var(--bg-deep); display: flex; align-items: center; justify-content: center; text-decoration: none; font-size: 20px; z-index: 100; box-shadow: 0 4px 12px rgba(0,0,0,0.3); transition: all 0.3s ease;">↑</a>
-    <script src="page-toc.js" defer></script>
+    <a href="#home" class="home-back-top" aria-label="回到顶部">↑</a>
     <script src="cursor.js" defer></script>
 <script src="interactions.js" defer></script>
 </body>
