@@ -95,6 +95,26 @@
     }
 })();
 
+/* 字体载入后重新对齐锚点，避免 Safari 将目标标题压在悬浮导航下。 */
+(function () {
+    if (!window.location.hash) return;
+    function alignHash() {
+        var id;
+        try { id = decodeURIComponent(window.location.hash.slice(1)); }
+        catch (e) { id = window.location.hash.slice(1); }
+        var target = document.getElementById(id);
+        if (target) requestAnimationFrame(function () {
+            var nav = document.querySelector('.nav');
+            var gap = nav ? nav.getBoundingClientRect().bottom + 18 : 112;
+            var top = window.pageYOffset + target.getBoundingClientRect().top - gap;
+            window.scrollTo(0, Math.max(0, top));
+        });
+    }
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(alignHash);
+    if (document.readyState === 'complete') alignHash();
+    else window.addEventListener('load', alignHash, { once: true });
+})();
+
 /* ========== 备案号悬挂（工信部要求） ========== */
 (function () {
     var ICP = '\u82cfICP\u59072026055538\u53f7-1';      // 苏ICP备2026055538号-1
@@ -122,4 +142,3 @@
     if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', mount);
     else mount();
 })();
-
