@@ -103,13 +103,21 @@
         <p>
             这套工作流把"刷社区找选题"的随机行为变成了<strong>可复用的监测系统</strong>——
             营销事件发生后，我能第一时间看到玩家侧的真实反应，而不是等行业媒体二次转述。
-            下面是这套系统每天自动产出的<strong>「每日游戏营销事件看板」</strong>，已直接嵌入本页（可点击事件展开热搜详情）：
         </p>
-        <div style="max-width: 920px; margin: 24px auto;">
-            <game-marketing-dashboard data-url="data/game-marketing-dashboard.json" refresh-ms="300000"></game-marketing-dashboard>
+
+        <section class="dashboard-work" aria-labelledby="dashboard-work-title">
+            <div class="dashboard-work-head">
+                <span class="dashboard-eyebrow">VIBE CODING · INTERACTIVE WORK</span>
+                <h4 id="dashboard-work-title">把「收集信号」，做成一块可用的看板。</h4>
+                <p>将分散的营销信息整理为事件、热度、来源与趋势，支持展开核验热搜细节；与通用个人网站共用同一实时数据源。</p>
+            </div>
+            <div class="build-flow" aria-label="看板工作流">
+                <span>定义信息需求</span><i>→</i><span>AI 辅助研究</span><i>→</i><span>交叉核验</span><i>→</i><span>组件化展示</span><i>→</i><span>持续更新</span>
+            </div>
+            <game-marketing-dashboard data-url="/data/game-marketing-dashboard.json" refresh-ms="60000"></game-marketing-dashboard>
+            <p class="dashboard-caption">每日 10:30（北京时间）生成新一期研究；网页每 60 秒检查最新数据。点击事件可查看来源与热搜核验详情。</p>
             <script type="module" src="assets/game-marketing/game-marketing-dashboard.js"></script>
-        </div>
-        <p style="text-align: center; font-size: 13px; color: var(--text-muted);">每日 10:30 自动更新 · 数据覆盖小红书 / 抖音 / TapTap / 热搜</p>
+        </section>
 
         <h4>◈ 案例拆解方法论</h4>
         <p>

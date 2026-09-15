@@ -5,7 +5,7 @@ template.innerHTML = `
   <section class="dashboard" aria-live="polite">
     <header class="header">
       <div><h2 class="headline">每日游戏营销事件看板</h2><p class="updated">正在读取数据…</p></div>
-      <time class="date"></time>
+      <div class="sync-meta"><span class="sync-state"><i></i> 数据源连接中</span><time class="date"></time></div>
     </header>
     <div class="events"></div>
     <div class="insights"></div>
@@ -52,8 +52,10 @@ class GameMarketingDashboard extends HTMLElement {
       });
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       this.render(await response.json());
+      this.shadowRoot.querySelector('.sync-state').innerHTML = '<i></i> 在线读取 · 60 秒轮询';
       this.dispatchEvent(new CustomEvent('dashboard-loaded', { bubbles: true }));
     } catch (error) {
+      this.shadowRoot.querySelector('.sync-state').innerHTML = '<i></i> 暂时离线';
       this.shadowRoot.querySelector('.events').innerHTML = `<p class="error">看板暂时无法读取：${escapeHtml(error.message)}</p>`;
       this.dispatchEvent(new CustomEvent('dashboard-error', { detail: error, bubbles: true }));
     }

@@ -919,7 +919,68 @@ body.egg-arrive .egg-veil { animation: egg-veil-out 0.9s ease-out forwards; }
 .wx-card-foot .card-subtitle { margin: 0; }
 @media (prefers-reduced-motion: reduce) { .wx-flip-front, .wx-flip-back { transition: none; } }
 
-/* ========== GMD 看板主题适配（--gmd-* → 雷火红白 v2.1） ========== */
+/* ========== GMD 看板：Vibe Coding 过程 + 实时数据组件 ========== */
+.dashboard-work {
+    scroll-margin-top: 112px;
+    max-width: 920px;
+    margin: 34px auto 46px;
+    padding: 30px;
+    border: 1px solid rgba(128, 91, 76, 0.18);
+    border-radius: 18px;
+    background:
+        radial-gradient(circle at 92% 8%, rgba(185, 43, 56, 0.09), transparent 19rem),
+        rgba(255, 251, 244, 0.72);
+    box-shadow: 0 18px 48px rgba(78, 25, 21, 0.06);
+}
+.dashboard-work-head { max-width: 700px; }
+.dashboard-eyebrow {
+    display: block;
+    margin-bottom: 13px;
+    color: var(--gold);
+    font-family: var(--font-mono);
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.16em;
+}
+.dashboard-work-head h4 {
+    margin: 0 0 12px;
+    color: var(--text-primary);
+    font-family: 'Noto Serif SC', Georgia, serif;
+    font-size: clamp(23px, 3vw, 31px);
+    font-weight: 400;
+    line-height: 1.55;
+}
+.dashboard-work-head p {
+    margin: 0;
+    color: var(--text-secondary);
+    font-size: 14px;
+    line-height: 1.9;
+}
+.build-flow {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 22px 0;
+}
+.build-flow span {
+    padding: 6px 10px;
+    border: 1px solid rgba(185, 43, 56, 0.12);
+    border-radius: 999px;
+    background: rgba(185, 43, 56, 0.055);
+    color: #81564f;
+    font-size: 11px;
+    line-height: 1;
+}
+.build-flow i { color: rgba(128, 91, 76, 0.48); font-size: 11px; font-style: normal; }
+.dashboard-caption {
+    margin: 16px 2px 0;
+    color: var(--text-muted);
+    font-size: 12px;
+    line-height: 1.8;
+    text-align: center;
+}
+
 game-marketing-dashboard {
     --gmd-font: var(--font-body);
     --gmd-text: var(--text-primary);
@@ -940,6 +1001,15 @@ game-marketing-dashboard {
     --gmd-shadow: var(--shadow-gold);
     display: block;
     max-width: 100%;
+}
+
+@media (max-width: 640px) {
+    .dashboard-work { margin: 26px -8px 38px; padding: 19px 14px 21px; border-radius: 15px; }
+    .dashboard-work-head h4 { font-size: 22px; }
+    .build-flow { gap: 6px 5px; }
+    .build-flow span { padding: 5px 8px; font-size: 10px; }
+    .build-flow i { font-size: 9px; }
+    game-marketing-dashboard { --gmd-padding: 15px; }
 }
 
 /* ========== OIL EDITORIAL SYSTEM · 全站统一 ========== */
