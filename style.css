@@ -1111,8 +1111,8 @@ body {
     font-size: 16px;
     line-height: 1.85;
 }
-.collab-section { padding: 66px 24px 90px; }
-.collab-wrap { width: min(1240px, 100%); margin: 0 auto; }
+.collab-section { padding: 72px 40px 96px; }
+.collab-wrap { width: min(1160px, 100%); margin: 0 auto; }
 .collab-toolbar {
     display: flex;
     align-items: end;
@@ -1128,16 +1128,16 @@ body {
     font-weight: 400;
 }
 .collab-toolbar p { color: var(--text-muted); font-family: var(--font-mono); font-size: 11px; letter-spacing: 0.12em; }
-.collab-grid { columns: 4 240px; column-gap: 18px; }
+.collab-grid { columns: 4 240px; column-gap: 24px; }
 .social-case {
     display: inline-block;
     width: 100%;
-    margin: 0 0 18px;
+    margin: 0 0 24px;
     overflow: hidden;
     break-inside: avoid;
     border: 1px solid rgba(128, 91, 76, 0.18);
     border-radius: 16px;
-    background: rgba(255, 252, 246, 0.92);
+    background: rgba(255, 252, 246, 0.96);
     color: inherit;
     text-decoration: none;
     box-shadow: 0 9px 28px rgba(78, 25, 21, 0.045);
@@ -1147,14 +1147,23 @@ body {
 .social-case:focus-visible { transform: translateY(-5px); box-shadow: 0 18px 42px rgba(78, 25, 21, 0.12); outline: none; }
 .social-case img { display: block; width: 100%; height: auto; background: var(--bg-secondary); transition: transform 0.6s cubic-bezier(.22, 1, .36, 1); }
 .social-case:hover img { transform: scale(1.018); }
-.social-case-copy { padding: 17px 17px 16px; }
-.social-case-copy h3 { color: var(--text-primary); font-size: 15px; line-height: 1.55; }
+.social-case-copy { display: block; padding: 20px 21px 18px; }
+.social-case-copy h3 {
+    min-height: 3.45em;
+    margin: 0;
+    color: var(--text-primary);
+    font-family: var(--font-body);
+    font-size: 14.5px;
+    font-weight: 600;
+    line-height: 1.72;
+    letter-spacing: 0;
+}
 .social-case-meta {
     display: flex;
     justify-content: space-between;
     gap: 12px;
-    margin-top: 15px;
-    padding-top: 12px;
+    margin-top: 17px;
+    padding-top: 13px;
     border-top: 1px solid var(--border-color);
     color: var(--text-muted);
     font-size: 11px;
@@ -1214,12 +1223,12 @@ body {
     .apea-history-copy strong { font-size: 20px; }
     .apea-history-copy small { font-size: 12px; }
     .collab-page .detail-hero { min-height: 48vh; }
-    .collab-section { padding: 46px 18px 70px; }
+    .collab-section { padding: 48px 20px 72px; }
     .collab-toolbar { align-items: flex-start; flex-direction: column; gap: 8px; }
-    .collab-grid { columns: 2 150px; column-gap: 12px; }
-    .social-case { margin-bottom: 12px; border-radius: 13px; }
-    .social-case-copy { padding: 13px; }
-    .social-case-copy h3 { font-size: 13px; }
+    .collab-grid { columns: 2 150px; column-gap: 14px; }
+    .social-case { margin-bottom: 14px; border-radius: 13px; }
+    .social-case-copy { padding: 15px 15px 14px; }
+    .social-case-copy h3 { min-height: 0; font-size: 13.5px; line-height: 1.68; }
     .social-case-meta { align-items: flex-start; flex-direction: column; gap: 3px; font-size: 10px; }
     .collab-search-note { margin-top: 32px; padding: 25px 18px; font-size: 12px; }
     .collab-back-top { right: 17px; bottom: 17px; width: 40px; height: 40px; }
