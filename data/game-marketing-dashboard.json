@@ -1,41 +1,88 @@
 {
   "date": "2026-09-30",
-  "updatedAt": "2026-09-30 06:39 北京时间",
-  "headline": "每日游戏营销事件看板",
+  "updatedAt": "2026-09-30 11:20 北京时间",
+  "headline": "国庆假期前夜：王者荣耀一元福利周今日23:59截止、国庆登录福利今日开启；亚运英雄联盟小组赛韩国vs中国台北（Faker首秀）登微博热搜；金铲铲「画之灵」返场赛季昨日上线、逆水寒「星梦之约」今日开启",
   "items": [
     {
-      "game": "逆水寒",
-      "heat": "低",
-      "event": "过去24小时暂无经核验的新营销事件；9月28日开放的史诗挑战阶段不重复计入今日新事件。",
-      "source": "https://www.taptap.cn/app/191385/topic?type=official",
-      "hotSearchCheckedAt": "2026-09-30 06:39 北京时间",
-      "hotSearches": []
+      "game": "王者荣耀",
+      "heat": "高",
+      "event": "国庆档今日（9/30）开启：9/30-10/7登录得步数、万象棋每日对局前3名加步数；孙膑-帕恰狗之风史诗皮肤免费送活动进行中（9/24-10/11，皮肤10/12上架88碎片）；一元福利周今日23:59截止；公孙离-碎光执事明日10/1上架488点券，累计充值活动10/1-10/7",
+      "source": "https://pvp.qq.com/web201605/newsDetail.shtml?G_Biz=18&tid=809860",
+      "hotSearchCheckedAt": "2026-09-30 11:20 北京时间",
+      "hotSearches": [
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#KPL16支战队齐聚iQOO发布会#",
+          "foundAt": "2026-09-30 11:20 北京时间",
+          "source": "https://weibo.zhaoyizhe.com/date/20260930/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#AG运营#",
+          "foundAt": "2026-09-30 11:20 北京时间",
+          "source": "https://weibo.zhaoyizhe.com/date/20260930/",
+          "screenshot": ""
+        }
+      ]
     },
     {
-      "game": "王者荣耀",
-      "heat": "低",
-      "event": "过去24小时暂无经核验的新营销事件；搜索结果中出现的旧版9月29日更新内容不计入今日看板。",
-      "source": "https://www.taptap.cn/app/2301/topic?type=official",
-      "hotSearchCheckedAt": "2026-09-30 06:39 北京时间",
+      "game": "名古屋亚运会 · 电竞项目",
+      "heat": "高",
+      "event": "英雄联盟项目今日（9/30）小组赛第一轮韩国队vs中国台北队，Faker迎来个人第三届亚运会首秀；半决赛10/1、决赛10/2。王者荣耀项目中国队已于9/28决赛4:0胜马来西亚卫冕金牌，一诺成电竞首位双金得主；第五人格（亚运版）等小项进行中",
+      "source": "https://lol.qq.com/news/space-detail.shtml?docid=5431810791672545781",
+      "hotSearchCheckedAt": "2026-09-30 11:20 北京时间",
+      "hotSearches": [
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#Faker亚运会首秀#",
+          "foundAt": "2026-09-30 11:20 北京时间",
+          "source": "https://weibo.zhaoyizhe.com/date/20260930/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#S16主题曲MV核心是Faker#",
+          "foundAt": "2026-09-30 11:20 北京时间",
+          "source": "https://weibo.zhaoyizhe.com/date/20260930/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#第五人格亚运会#",
+          "foundAt": "2026-09-30 11:20 北京时间",
+          "source": "https://weibo.zhaoyizhe.com/date/20260930/",
+          "screenshot": ""
+        }
+      ]
+    },
+    {
+      "game": "逆水寒手游",
+      "heat": "中",
+      "event": "4.1.4版本中秋国庆档期：今日（9/30）「星梦之约」抽奖活动开启、「遂心快意礼」880纹玉上架；军工文创联动进行中（9/24-10/30），10/1国庆当天小镇放飞祈福灯庆典；剑影杯S4总决赛已于9/27举行（总冠军归属暂未检索到官方战报，待核验）",
+      "source": "https://h.163.com/news/update/20260923/37232_1314908.html",
+      "hotSearchCheckedAt": "2026-09-30 11:20 北京时间",
       "hotSearches": []
     },
     {
       "game": "金铲铲之战",
-      "heat": "高",
-      "event": "“画之灵”返场赛季已上线，官方继续以狂风奇遇、绘境机制、羁绊焕新及水墨丹青系列商品承接版本首日传播。",
-      "source": "https://www.taptap.cn/moment/852521787559247892?group_id=213275",
-      "hotSearchCheckedAt": "2026-09-30 06:39 北京时间",
-      "hotSearches": []
-    },
-    {
-      "game": "三国杀手游",
-      "heat": "低",
-      "event": "过去24小时暂无经核验的新营销事件；《三国杀移动版》9月25日中秋活动及更早公告不作为今日新事件。",
-      "source": "https://www.sanguosha.cn/pc/news-list-1004.html",
-      "hotSearchCheckedAt": "2026-09-30 06:39 北京时间",
+      "heat": "中",
+      "event": "「画之灵」返场赛季昨日（9/29）上线：全新「绘境」机制、水墨丹青系列小小英雄与竞技场登场；中秋献礼活动进行中（9/24-10/7，做任务领小小英雄/攻击特效）；2026女子赛总决赛已于9/27落地苏州万象天地",
+      "source": "https://newgame.17173.com/game-newslist-4075117.html",
+      "hotSearchCheckedAt": "2026-09-30 11:20 北京时间",
       "hotSearches": []
     }
   ],
-  "trend": "版本首日传播继续依靠玩法机制讲解与限定商品组合承接转化；本轮未取得微博、抖音、小红书同时包含榜名、关键词和排名的原始证据，因此不登记热榜命中。",
-  "action": "今天优先监测金铲铲画之灵上线后的阵容攻略、直播切片与玩家口碑，其他三款重点游戏保持官方渠道巡检。"
+  "trend": "假期前夜运营主线清晰：腾讯系（王者/万象棋/金铲铲）把福利与返场内容压进9/30-10/7国庆窗口，网易逆水寒以「星梦之约+国庆礼盒」对冲。流量引擎仍在名古屋亚运：王者荣耀9/28夺金后，今日焦点切换到英雄联盟Faker首秀与第五人格亚运版。社媒侧今日检出5条游戏相关微博热搜词条，未检出可核验的抖音/小红书爆款。",
+  "action": "明日（10/1国庆）盯：王者荣耀公孙离-碎光执事上架+累计充值开启舆情；逆水寒小镇国庆庆典与祈福灯活动反馈；亚运英雄联盟半决赛（10/1）及10/2决赛结果；金铲铲画之灵赛季次日口碑与榜单变化；复核逆水寒剑影杯S4总冠军官方战报；继续每日核验微博热搜存档与抖音/小红书爆款。"
 }
