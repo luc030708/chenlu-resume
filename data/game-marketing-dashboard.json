@@ -1,104 +1,41 @@
 {
-  "date": "2026-10-01",
-  "updatedAt": "2026-10-01 10:50 北京时间",
-  "headline": "国庆日电竞霸榜：第五人格中国队亚运摘金、穆欣月成电竞入亚首位女子冠军，微博热搜超10条相关词条；今日12:30英雄联盟半决赛韩国vs沙特（Faker出战）；公孙离-碎光执事上架、逆水寒国庆庆典开启；9月版号206款昨晚发放",
+  "date": "2026-10-02",
+  "updatedAt": "2026-10-02 06:31 北京时间",
+  "headline": "每日游戏营销事件看板",
   "items": [
     {
-      "game": "第五人格 · 名古屋亚运会",
-      "heat": "高",
-      "event": "9/30决赛中国队2:0胜东道主日本队，夺亚运史上首枚非对称电竞金牌（中国代表团第151金）；一日三战零封（八强2:0韩国、半决赛2:0中国台北、决赛2:0日本）；穆欣月（桃晚安）成电竞入亚以来首位女子冠军。今日微博热搜霸榜：#第五人格中国队摘金# 累计上榜509分钟",
-      "source": "http://www.xinhuanet.com/20260930/2bd9ed08a16a4a52b5e4ef9ab571fbf1/c.html",
-      "hotSearchCheckedAt": "2026-10-01 10:50 北京时间",
-      "hotSearches": [
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#第五人格中国队摘金#",
-          "foundAt": "2026-10-01 10:50 北京时间",
-          "source": "https://weibo.zhaoyizhe.com/date/20261001/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#中国首位金牌电竞女选手桃晚安#",
-          "foundAt": "2026-10-01 10:50 北京时间",
-          "source": "https://weibo.zhaoyizhe.com/date/20261001/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#穆欣月首位亚运电竞女子冠军#",
-          "foundAt": "2026-10-01 10:50 北京时间",
-          "source": "https://weibo.zhaoyizhe.com/date/20261001/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#第五人格颁奖#",
-          "foundAt": "2026-10-01 10:50 北京时间",
-          "source": "https://weibo.zhaoyizhe.com/date/20261001/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#桃晚安回应亚运会夺金#",
-          "foundAt": "2026-10-01 10:50 北京时间",
-          "source": "https://weibo.zhaoyizhe.com/date/20261001/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#第五人格回应中国队夺金#",
-          "foundAt": "2026-10-01 10:50 北京时间",
-          "source": "https://weibo.zhaoyizhe.com/date/20261001/",
-          "screenshot": ""
-        }
-      ]
-    },
-    {
-      "game": "名古屋亚运会 · 英雄联盟",
+      "game": "逆水寒",
       "heat": "中",
-      "event": "今日（10/1）英雄联盟半决赛日：08:00 越南 vs 中国台北（BO3），12:30 韩国 vs 沙特阿拉伯（BO3，Faker出战，韩国小组赛三连胜晋级）；决赛10/2。08:00场赛果截至写入时（10:47）未核验",
-      "source": "https://www.sina.cn/news/detail/5348903396049808.html",
-      "hotSearchCheckedAt": "2026-10-01 10:50 北京时间",
+      "event": "国庆假期继续承接4.1.4版本运营：小镇祈福灯庆典、“星梦之约”抽奖与国庆礼盒形成节庆场景、抽奖和付费商品组合；过去24小时未发现新的独立官宣。",
+      "source": "https://h.163.com/news/update/20260923/37232_1314908.html",
+      "hotSearchCheckedAt": "2026-10-02 06:31 北京时间",
       "hotSearches": []
     },
     {
       "game": "王者荣耀",
-      "heat": "中",
-      "event": "公孙离-碎光执事今日（10/1）00:00上架碎片商店，48皮肤碎片或488点券可得（万象棋免费领活动9/30 23:59已截止）；国庆累计充值活动今日开启（10/1-10/7）；孙膑-帕恰狗之风免费送活动进行中（至10/11，万象棋对局可加步数）",
-      "source": "https://pvp.qq.com/v/detail.shtml?tid=951863",
-      "hotSearchCheckedAt": "2026-10-01 10:50 北京时间",
+      "heat": "高",
+      "event": "公孙离“碎光执事”上架与累计充值活动进入第二日，登录步数和万象棋对局加步数持续至10月7日；过去24小时未发现新的独立官宣。",
+      "source": "https://pvp.qq.com/web201605/newsDetail.shtml?G_Biz=18&tid=809860",
+      "hotSearchCheckedAt": "2026-10-02 06:31 北京时间",
       "hotSearches": []
     },
     {
-      "game": "行业 · 9月游戏版号",
+      "game": "金铲铲之战",
       "heat": "中",
-      "event": "9月30日晚间，国家新闻出版署公布2026年9月份国产网络游戏审批信息，共206款获批（批准时间9/29），含《龙之谷：觉醒》（恺英）、《不良人幻想》（谷得）等，延续年内单月高位发放节奏",
-      "source": "https://www.nppa.gov.cn/bsfw/jggs/yxspjg/gcwlyxspxx/202609/t20260930_1011281.html",
-      "hotSearchCheckedAt": "2026-10-01 10:50 北京时间",
+      "event": "官方10月1日集中发布星星糖免费领、累计登录领4016符石精粹及周末双倍获取活动，并以攻略和玩家投稿承接“画之灵”返场热度。",
+      "source": "https://www.sina.cn/media/7504806444",
+      "hotSearchCheckedAt": "2026-10-02 06:31 北京时间",
       "hotSearches": []
     },
     {
-      "game": "逆水寒手游",
-      "heat": "低",
-      "event": "国庆日（10/1）：完成军工文创联动任务的玩家可在小镇参加庆典、放飞祈福灯并与亲友大合照；鬼市今日限时上架绮珍秘宝（660纹玉）与十凿一桶（500纹玉）；中秋充值活动加开60元档持续至10/8",
-      "source": "https://h.163.com/news/update/20260923/37232_1314908.html",
-      "hotSearchCheckedAt": "2026-10-01 10:50 北京时间",
+      "game": "三国杀手游",
+      "heat": "高",
+      "event": "“锦囊妙会”国庆版本持续放量，10月2日12:00开启“超级星期五”：武将限免、掉星保护、经验加成、欢乐豆补贴、免费手气卡和商城半价并行促活。",
+      "source": "https://wwwtest.sanguosha.cn/pc/news-detail-2395.html",
+      "hotSearchCheckedAt": "2026-10-02 06:31 北京时间",
       "hotSearches": []
     }
   ],
-  "trend": "国庆首日流量完全被亚运电竞接管：第五人格首金+首位电竞女冠军的组合叙事在微博形成霸榜（超10条相关词条、多条上榜数百分钟），网易成今日最大赢家；腾讯系进入国庆变现窗口（王者累计充值开启、公孙离皮肤上架、金铲铲画之灵赛季首个假期日）。9月版号昨夜发放206款维持高位，行业供给侧持续宽松。",
-  "action": "明日盯：英雄联盟10/2决赛（韩国若晋级则Faker冲击个人第二金）及赛后舆情；王者荣耀国庆充值活动首日反馈与皮肤销量口碑；万象棋国庆假期流水走势；第五人格夺金后游戏内回流与官方庆祝活动；逆水寒国庆假期活动反馈；继续每日核验微博热搜存档与抖音/小红书爆款。"
+  "trend": "假期第二日从首发上新转向连续促活：免费材料、周末加速、角色限免与商城折扣成为主要抓手；公开热榜受登录墙或服务异常影响，未取得可验证命中。",
+  "action": "今天重点跟踪三国杀手游“超级星期五”开启后的参与反馈，并对比金铲铲免费材料活动在登录、对局和周末回流上的节奏设计。"
 }
