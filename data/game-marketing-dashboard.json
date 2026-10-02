@@ -1,41 +1,106 @@
 {
   "date": "2026-10-02",
-  "updatedAt": "2026-10-02 06:31 北京时间",
-  "headline": "每日游戏营销事件看板",
+  "updatedAt": "2026-10-02 10:45 北京时间",
+  "headline": "KPL年度总决赛今日广州开战（7000万奖金池、十周年收官战）；亚运英雄联盟今日BO5金牌战韩国vs中国台北，Faker冲击个人第二金；王者荣耀国庆全英雄限免+伽罗亚运皮肤免费领；亚奥理事会辟谣词条今日再登热搜",
   "items": [
     {
-      "game": "逆水寒",
-      "heat": "中",
-      "event": "国庆假期继续承接4.1.4版本运营：小镇祈福灯庆典、“星梦之约”抽奖与国庆礼盒形成节庆场景、抽奖和付费商品组合；过去24小时未发现新的独立官宣。",
-      "source": "https://h.163.com/news/update/20260923/37232_1314908.html",
-      "hotSearchCheckedAt": "2026-10-02 06:31 北京时间",
+      "game": "KPL年度总决赛（王者荣耀电竞）",
+      "heat": "高",
+      "event": "2026KPL年度总决赛擂台赛今日（10/2）在广州体育馆打响（10/2-10/18），突围赛10/20-22，淘汰赛10/27-11/8移师长沙七彩盒子，总决赛11/14成都凤凰山；总奖金池7000万元、12支战队，KPL十周年收官之战，相关词条今日霸榜微博热搜（#2026KPL年度总决赛#累计上榜433分钟）",
+      "source": "http://kpl.qq.com/",
+      "hotSearchCheckedAt": "2026-10-02 10:45 北京时间",
+      "hotSearches": [
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#2026KPL年度总决赛#",
+          "foundAt": "2026-10-02 10:45 北京时间",
+          "source": "https://weibo.zhaoyizhe.com/date/20261002/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#KPL十大年度记忆人物#",
+          "foundAt": "2026-10-02 10:45 北京时间",
+          "source": "https://weibo.zhaoyizhe.com/date/20261002/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#KPL#",
+          "foundAt": "2026-10-02 10:45 北京时间",
+          "source": "https://weibo.zhaoyizhe.com/date/20261002/",
+          "screenshot": ""
+        }
+      ]
+    },
+    {
+      "game": "名古屋亚运会 · 英雄联盟决赛日",
+      "heat": "高",
+      "event": "昨日（10/1）半决赛：韩国2:0沙特、中国台北2:0越南；今日（10/2）BO5金牌战韩国vs中国台北——与杭州亚运决赛同阵（上届韩国金/中国台北银），韩国队本届全胜未失一小局，Faker冲击个人第二枚亚运金牌；赛果截至写入时（10:45）未出",
+      "source": "https://news.zhibo8.com/game/2026-10-01/6abdf2081fbd8native.htm",
+      "hotSearchCheckedAt": "2026-10-02 10:45 北京时间",
       "hotSearches": []
     },
     {
       "game": "王者荣耀",
-      "heat": "高",
-      "event": "公孙离“碎光执事”上架与累计充值活动进入第二日，登录步数和万象棋对局加步数持续至10月7日；过去24小时未发现新的独立官宣。",
-      "source": "https://pvp.qq.com/web201605/newsDetail.shtml?G_Biz=18&tid=809860",
-      "hotSearchCheckedAt": "2026-10-02 06:31 北京时间",
-      "hotSearches": []
-    },
-    {
-      "game": "金铲铲之战",
       "heat": "中",
-      "event": "官方10月1日集中发布星星糖免费领、累计登录领4016符石精粹及周末双倍获取活动，并以攻略和玩家投稿承接“画之灵”返场热度。",
-      "source": "https://www.sina.cn/media/7504806444",
-      "hotSearchCheckedAt": "2026-10-02 06:31 北京时间",
+      "event": "9/29版本更新庆亚运夺金：伽罗-月影弦鸣（亚运纪念勇者）许愿镜免费活动进行中（9/29-10/12，10/13起488点券/48碎片）；10/1-10/7全英雄及直售皮肤限免；海诺-星光竞辉史诗10/1上架首周490点券；累计充值活动10/1-10/7；孙膑-帕恰狗之风免费活动至10/11",
+      "source": "https://pvp.qq.com/web201605/newsDetail.shtml?G_Biz=18&tid=809860",
+      "hotSearchCheckedAt": "2026-10-02 10:45 北京时间",
       "hotSearches": []
     },
     {
-      "game": "三国杀手游",
-      "heat": "高",
-      "event": "“锦囊妙会”国庆版本持续放量，10月2日12:00开启“超级星期五”：武将限免、掉星保护、经验加成、欢乐豆补贴、免费手气卡和商城半价并行促活。",
-      "source": "https://wwwtest.sanguosha.cn/pc/news-detail-2395.html",
-      "hotSearchCheckedAt": "2026-10-02 06:31 北京时间",
-      "hotSearches": []
+      "game": "第五人格 · 亚运摘金舆情延续",
+      "heat": "中",
+      "event": "9/30中国队2:0胜日本夺亚运首枚非对称电竞金牌后，今日（10/2）队伍回国，#第五人格中国队回国#、#桃晚安回国plog#（累计114分钟）等词条持续上榜，夺金舆情进入回国与二创长尾",
+      "source": "http://www.xinhuanet.com/20260930/2bd9ed08a16a4a52b5e4ef9ab571fbf1/c.html",
+      "hotSearchCheckedAt": "2026-10-02 10:45 北京时间",
+      "hotSearches": [
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#桃晚安回国plog#",
+          "foundAt": "2026-10-02 10:45 北京时间",
+          "source": "https://weibo.zhaoyizhe.com/date/20261002/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#第五人格中国队回国#",
+          "foundAt": "2026-10-02 10:45 北京时间",
+          "source": "https://weibo.zhaoyizhe.com/date/20261002/",
+          "screenshot": ""
+        }
+      ]
+    },
+    {
+      "game": "行业 · 电竞入亚辟谣",
+      "heat": "中",
+      "event": "亚奥理事会9/28辟谣「电竞将在2026年后退出亚运会」传闻不实，并确认科威特承办2027年首届亚洲电子竞技与智力运动会；今日（10/2）#亚奥理事会说未宣布电竞将退出亚运会#再度登上微博热搜（累计23分钟），政策端悲观预期被打消",
+      "source": "https://www.piyao.org.cn/20260929/6e308820f1834d30aae14b259ac4fe14/c.html",
+      "hotSearchCheckedAt": "2026-10-02 10:45 北京时间",
+      "hotSearches": [
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#亚奥理事会说未宣布电竞将退出亚运会#",
+          "foundAt": "2026-10-02 10:45 北京时间",
+          "source": "https://weibo.zhaoyizhe.com/date/20261002/",
+          "screenshot": ""
+        }
+      ]
     }
   ],
-  "trend": "假期第二日从首发上新转向连续促活：免费材料、周末加速、角色限免与商城折扣成为主要抓手；公开热榜受登录墙或服务异常影响，未取得可验证命中。",
-  "action": "今天重点跟踪三国杀手游“超级星期五”开启后的参与反馈，并对比金铲铲免费材料活动在登录、对局和周末回流上的节奏设计。"
+  "trend": "国庆假期第二天进入「赛事双主线」：KPL年总开战（十周年+7000万池）与亚运LoL金牌战同日引爆，微博热搜被电竞词条承包。王者荣耀把亚运夺金流量直接转为游戏内活跃（伽罗皮肤免费、全英雄限免、充值活动）。第五人格夺金舆情进入回国+二创长尾，而「电竞退出亚运」辟谣词条再登热搜，修复行业政策预期。",
+  "action": "明日盯：亚运LoL金牌战结果（韩国若胜则Faker第二金）与升旗舆情；KPL年总擂台赛首日战报与话题发酵；王者荣耀国庆充值/限免反馈；第五人格回国二创长尾；逆水寒、金铲铲假期中段有无新节点；继续每日核验微博热搜存档与抖音/小红书爆款。"
 }
