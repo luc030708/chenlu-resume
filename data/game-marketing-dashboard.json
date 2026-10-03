@@ -1,53 +1,41 @@
 {
-  "date": "2026-10-03",
-  "updatedAt": "2026-10-03 11:20 北京时间",
-  "headline": "亚运电竞收官：LoL决赛韩国3:0卫冕、Faker双金；KPL十周年年总擂台赛首日爆冷——AG归队首战1:3不敌Hero，三条词条登微博热搜",
+  "date": "2026-10-04",
+  "updatedAt": "2026-10-04 06:32 北京时间",
+  "headline": "每日游戏营销事件看板",
   "items": [
     {
-      "game": "名古屋亚运会 · 英雄联盟收官",
-      "heat": "高",
-      "event": "亚运电竞收官日（10/2）英雄联盟BO5决赛：韩国队3:0横扫中国台北卫冕金牌，本届全胜未失一小局；Faker、Zeus、Keria收获个人第二枚亚运金牌，Faker成为首位连续三届出战亚运LoL项目的选手（决赛未登场），越南与沙特并列季军。中国队本届亚运电竞已核验两金：王者荣耀（9/29）、第五人格（9/30）",
-      "source": "https://cn.yna.co.kr/view/ACK20261002003000881",
-      "hotSearchCheckedAt": "2026-10-03 11:20 北京时间",
+      "game": "逆水寒",
+      "heat": "中",
+      "event": "官方社区发布“玩家在游戏还原、致敬了不起的中国”国庆主题内容，以玩家创作承接节庆情绪与品牌表达；新版本体验评论抽限定盲盒活动同步持续。",
+      "source": "https://community-cn.honor.com/cngm/game/forumplate/forumid-2381/",
+      "hotSearchCheckedAt": "2026-10-04 06:32 北京时间",
       "hotSearches": []
     },
     {
-      "game": "KPL年度总决赛 · 擂台赛首日爆冷",
-      "heat": "高",
-      "event": "2026KPL年度总决赛（KPL十周年收官战，总奖金池7000万元，12支战队）擂台赛首日（10/2，广州体育馆2号馆）：揭幕战广州TTG 3:0 深圳DYG（MVP涵·盾山）；晚场焦点战成都AG超玩会亚运金牌射辅一诺/大帅归队首发，大师组轮换机制下钟意第二局登场以赵云扳回一局，仍1:3爆冷不敌精英组南通Hero久竞（落尘刘备/马超/镜连续carry），Hero拿下精英组首胜。今日（10/3）Day2赛程：14:00 北京WB vs 杭州LGD.NBW、17:00 北京JDG vs 上海EDG.M、20:00 重庆狼队 vs 长沙TES.A",
-      "source": "https://k.sina.cn/article_7857201856_1d45362c001908pmno.html?vt=4",
-      "hotSearchCheckedAt": "2026-10-03 11:20 北京时间",
-      "hotSearches": [
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#一诺尽力了#",
-          "foundAt": "2026-10-03 11:20 北京时间",
-          "source": "https://weibo.zhaoyizhe.com/date/20261003/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#AG超玩会轮换钟意一诺#",
-          "foundAt": "2026-10-03 11:20 北京时间",
-          "source": "https://weibo.zhaoyizhe.com/date/20261003/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#Hero战胜AG#",
-          "foundAt": "2026-10-03 11:20 北京时间",
-          "source": "https://weibo.zhaoyizhe.com/date/20261003/",
-          "screenshot": ""
-        }
-      ]
+      "game": "王者荣耀",
+      "heat": "中",
+      "event": "KPL年度总决赛继续通过斗鱼官方直播的观看、弹幕、关注与赛事点评任务发放抽奖机会；过去24小时未发现新的独立营销官宣。",
+      "source": "https://www.douyu.com/998?dyshid=0-e6325e99671c9630c3a666c400011701",
+      "hotSearchCheckedAt": "2026-10-04 06:32 北京时间",
+      "hotSearches": []
+    },
+    {
+      "game": "金铲铲之战",
+      "heat": "低",
+      "event": "过去24小时暂无经核验的新营销事件；星星糖、累计登录符石精粹及周末双倍获取活动继续运行，但不重复计入新增。",
+      "source": "https://www.sina.cn/media/7504806444",
+      "hotSearchCheckedAt": "2026-10-04 06:32 北京时间",
+      "hotSearches": []
+    },
+    {
+      "game": "三国杀手游",
+      "heat": "中",
+      "event": "“超级星期五”福利持续至10月4日，武将限免、掉星保护、经验加成、欢乐豆补贴、免费手气卡和商城半价并行；过去24小时未发现新的独立官宣。",
+      "source": "https://wwwtest.sanguosha.cn/pc/news-detail-2395.html",
+      "hotSearchCheckedAt": "2026-10-04 06:32 北京时间",
+      "hotSearches": []
     }
   ],
-  "trend": "亚运电竞收官与KPL十周年年总开战无缝衔接，电竞流量完成交接棒：LoL韩国全胜卫冕为亚运画上句号，同日KPL首日即爆出AG负于Hero的冷门。AG金牌射辅归队+大师组强制轮换机制，让「轮换与一诺状态」成为假期舆论主线，首日三条相关词条登上微博热搜。王者荣耀本体、逆水寒手游、金铲铲之战假期进入运营平台期，今日均未核验到新公告节点。",
-  "action": "明日（10/4）盯KPL擂台赛Day3三场：KSG vs 深圳DYG、广州TTG vs 南通Hero（检验爆冷成色）、成都AG vs 济南RW侠（AG假期6、7号还将背靠背作战，关注轮换调整与一诺舆情走向）；继续核验微博热搜存档，并补检抖音/小红书/B站有无KPL或亚运二创爆款；留意王者荣耀国庆限免与充值活动（10/7截止）收官反馈，以及逆水寒、金铲铲收假前的节点预告。"
+  "trend": "假期中段从硬福利逐步转向UGC与品牌情绪放大，赛事任务和限免折扣承担持续留存；微博、抖音、小红书公开页面均未取得可验证热榜命中。",
+  "action": "优先跟踪逆水寒国庆玩家共创内容的二次传播与评论情绪，并观察三国杀手游“超级星期五”收官前的回流反馈。"
 }
