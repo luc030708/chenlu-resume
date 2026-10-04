@@ -1,53 +1,108 @@
 {
-  "date": "2026-10-03",
-  "updatedAt": "2026-10-03 11:20 北京时间",
-  "headline": "亚运电竞收官：LoL决赛韩国3:0卫冕、Faker双金；KPL十周年年总擂台赛首日爆冷——AG归队首战1:3不敌Hero，三条词条登微博热搜",
+  "date": "2026-10-04",
+  "updatedAt": "2026-10-04 10:46 北京时间",
+  "headline": "KPL年总擂台赛Day2再爆冷：狼队轮换Fly（时隔1119天登场）仍2:3负于长沙TES.A，EDG.M 3:2力克JDG；名古屋亚运会今晚闭幕，中国队169金创境外参赛纪录收官",
   "items": [
     {
-      "game": "名古屋亚运会 · 英雄联盟收官",
+      "game": "KPL年度总决赛 · 擂台赛Day2",
       "heat": "高",
-      "event": "亚运电竞收官日（10/2）英雄联盟BO5决赛：韩国队3:0横扫中国台北卫冕金牌，本届全胜未失一小局；Faker、Zeus、Keria收获个人第二枚亚运金牌，Faker成为首位连续三届出战亚运LoL项目的选手（决赛未登场），越南与沙特并列季军。中国队本届亚运电竞已核验两金：王者荣耀（9/29）、第五人格（9/30）",
-      "source": "https://cn.yna.co.kr/view/ACK20261002003000881",
-      "hotSearchCheckedAt": "2026-10-03 11:20 北京时间",
-      "hotSearches": []
-    },
-    {
-      "game": "KPL年度总决赛 · 擂台赛首日爆冷",
-      "heat": "高",
-      "event": "2026KPL年度总决赛（KPL十周年收官战，总奖金池7000万元，12支战队）擂台赛首日（10/2，广州体育馆2号馆）：揭幕战广州TTG 3:0 深圳DYG（MVP涵·盾山）；晚场焦点战成都AG超玩会亚运金牌射辅一诺/大帅归队首发，大师组轮换机制下钟意第二局登场以赵云扳回一局，仍1:3爆冷不敌精英组南通Hero久竞（落尘刘备/马超/镜连续carry），Hero拿下精英组首胜。今日（10/3）Day2赛程：14:00 北京WB vs 杭州LGD.NBW、17:00 北京JDG vs 上海EDG.M、20:00 重庆狼队 vs 长沙TES.A",
-      "source": "https://k.sina.cn/article_7857201856_1d45362c001908pmno.html?vt=4",
-      "hotSearchCheckedAt": "2026-10-03 11:20 北京时间",
+      "event": "擂台赛第二日（10/3，广州体育馆2号馆）三场战罢：北京WB 3:1 杭州LGD.NBW；上海EDG.M 3:2 北京JDG；重庆狼队 2:3 长沙TES.A——狼队执行大师轮换、Fly时隔1119天重新以狼队选手身份登场仍告负，精英组TES.A连续两日掀翻大师组。两日连爆冷门（AG负Hero、狼队负TES.A），「大师轮换」成最大变量。今日（10/4）Day3赛程：14:00 KSG vs 深圳DYG、17:00 广州TTG vs 南通Hero久竞、20:00 成都AG超玩会 vs 济南RW侠",
+      "source": "https://pvp.qq.com/m/matchdata/match.html?league_id=20240003",
+      "hotSearchCheckedAt": "2026-10-04 10:46 北京时间",
       "hotSearches": [
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#一诺尽力了#",
-          "foundAt": "2026-10-03 11:20 北京时间",
-          "source": "https://weibo.zhaoyizhe.com/date/20261003/",
+          "keyword": "#句号 钟意#",
+          "foundAt": "2026-10-04 10:46 北京时间",
+          "source": "https://weibo.zhaoyizhe.com/date/20261004/",
           "screenshot": ""
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#AG超玩会轮换钟意一诺#",
-          "foundAt": "2026-10-03 11:20 北京时间",
-          "source": "https://weibo.zhaoyizhe.com/date/20261003/",
+          "keyword": "#EDGM战胜JDG#",
+          "foundAt": "2026-10-04 10:46 北京时间",
+          "source": "https://weibo.zhaoyizhe.com/date/20261004/",
           "screenshot": ""
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#Hero战胜AG#",
-          "foundAt": "2026-10-03 11:20 北京时间",
-          "source": "https://weibo.zhaoyizhe.com/date/20261003/",
+          "keyword": "#TES战胜狼队#",
+          "foundAt": "2026-10-04 10:46 北京时间",
+          "source": "https://weibo.zhaoyizhe.com/date/20261004/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#KPL#",
+          "foundAt": "2026-10-04 10:46 北京时间",
+          "source": "https://weibo.zhaoyizhe.com/date/20261004/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#狼队大师轮换Fly上场#",
+          "foundAt": "2026-10-04 10:46 北京时间",
+          "source": "https://weibo.zhaoyizhe.com/date/20261004/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#狼队雾行千山宣传片#",
+          "foundAt": "2026-10-04 10:46 北京时间",
+          "source": "https://weibo.zhaoyizhe.com/date/20261004/",
+          "screenshot": ""
+        }
+      ]
+    },
+    {
+      "game": "行业 · 名古屋亚运会闭幕",
+      "heat": "中",
+      "event": "爱知·名古屋亚运会今晚（10/4）举行闭幕式（帆船选手毕焜任中国代表团旗手）。中国队10/3收官锁定169金89银83铜，连续12届金牌榜第一，169金刷新亚运境外参赛金牌纪录（超2006多哈165金）。电竞项目已收官（中国队王者荣耀、第五人格两金），「韩国网友不满亚运夺金免兵役」（针对韩国LoL夺金）今日再登微博热搜",
+      "source": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261003_3247650.shtml",
+      "hotSearchCheckedAt": "2026-10-04 10:46 北京时间",
+      "hotSearches": [
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#2026亚运会闭幕式#",
+          "foundAt": "2026-10-04 10:46 北京时间",
+          "source": "https://weibo.zhaoyizhe.com/date/20261004/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#韩国网友不满亚运夺金免兵役#",
+          "foundAt": "2026-10-04 10:46 北京时间",
+          "source": "https://weibo.zhaoyizhe.com/date/20261004/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#中国队创亚运境外参赛金牌新纪录#",
+          "foundAt": "2026-10-04 10:46 北京时间",
+          "source": "https://weibo.zhaoyizhe.com/date/20261004/",
           "screenshot": ""
         }
       ]
     }
   ],
-  "trend": "亚运电竞收官与KPL十周年年总开战无缝衔接，电竞流量完成交接棒：LoL韩国全胜卫冕为亚运画上句号，同日KPL首日即爆出AG负于Hero的冷门。AG金牌射辅归队+大师组强制轮换机制，让「轮换与一诺状态」成为假期舆论主线，首日三条相关词条登上微博热搜。王者荣耀本体、逆水寒手游、金铲铲之战假期进入运营平台期，今日均未核验到新公告节点。",
-  "action": "明日（10/4）盯KPL擂台赛Day3三场：KSG vs 深圳DYG、广州TTG vs 南通Hero（检验爆冷成色）、成都AG vs 济南RW侠（AG假期6、7号还将背靠背作战，关注轮换调整与一诺舆情走向）；继续核验微博热搜存档，并补检抖音/小红书/B站有无KPL或亚运二创爆款；留意王者荣耀国庆限免与充值活动（10/7截止）收官反馈，以及逆水寒、金铲铲收假前的节点预告。"
+  "trend": "KPL擂台赛两日连爆冷门：精英组Hero、TES.A先后掀翻大师组AG、狼队，「大师轮换」强制机制成为最大变量与话题制造机——Fly时隔1119天回归、AG轮换争议持续发酵，今日6条KPL相关词条登微博热搜。亚运会今晚闭幕，电竞流量完成向KPL周期的切换。王者荣耀本体、逆水寒手游、金铲铲之战假期中段仍处运营平台期，今日未核验到新公告节点。",
+  "action": "今晚20:00盯成都AG vs 济南RW侠（AG爆冷后首战，关注轮换安排与一诺舆情）及广州TTG vs 南通Hero（Hero冲击连胜）；明日（10/5）重点盯重庆狼队 vs 上海EDG.M——狼队连败压力下的调整。跟进亚运会闭幕式当晚电竞话题长尾（免兵役争议等）；留意王者荣耀10/7限免/充值活动收官反馈，逆水寒、金铲铲收假前节点预告。"
 }
