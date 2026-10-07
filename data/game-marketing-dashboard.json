@@ -1,144 +1,44 @@
 {
-  "date": "2026-10-06",
-  "updatedAt": "2026-10-06 10:46 北京时间",
-  "headline": "KPL擂台赛首周收官：Hero连克AG、TTG成最大黑马，KSG零封DYG送其小局18连败破KPL历史纪录；狼队、JDG取年总首胜，AG 3:0 RW侠一诺达成联赛3600击杀",
+  "date": "2026-10-07",
+  "updatedAt": "2026-10-07 10:52 北京时间",
+  "headline": "KPL擂台赛Day5大师组收复失地：JDG 3:0终结Hero黑马连胜、TTG换首发零封RW侠、AG让一追三胜DYG（一诺孙权决胜团三杀）；王者荣耀国庆限免与充值活动今日收官",
   "items": [
     {
-      "game": "KPL年度总决赛 · 擂台赛Day3-4",
+      "game": "KPL年度总决赛 · 擂台赛Day5",
       "heat": "高",
-      "event": "擂台赛第3-4日（10/4-10/5，广州体育馆2号馆）战罢。10/4：KSG 3:0 零封深圳DYG（对DYG大场十连胜，DYG小局18连败创KPL历史最长纪录）；广州TTG 2:3 南通Hero久竞——Hero继爆冷AG后再胜夏季赛冠军TTG豪取两连胜；成都AG 3:0 济南RW侠，一诺艾琳三连决胜、达成联赛3600击杀里程碑，赛后「一诺回应年总是终点」引热议。10/5：北京WB 3:2 长沙TES.A；北京JDG 3:0 杭州LGD.NBW（年总首胜，首发名单调整）；重庆狼队 3:1 上海EDG.M（年总首胜，Fly登场BP再成话题）。今日（10/6）Day5赛程：14:00 TTG vs RW侠、17:00 JDG vs Hero、20:00 AG vs DYG",
+      "event": "擂台赛第五日（10/6，广州体育馆2号馆）：广州TTG 3:0 济南RW侠（更换首发小泽/月月后零封）；北京JDG 3:0 南通Hero久竞——Hero黑马连胜被终结，JDG两连胜；成都AG 3:1 深圳DYG——DYG首局取胜终结小局18连败纪录，AG连扳三局，一诺孙权决胜团三杀。大师组单日三战全胜收复失地。今日（10/7）Day6赛程：14:00 KSG vs 长沙TES.A、17:00 北京WB vs 上海EDG.M、20:00 成都AG vs 杭州LGD.NBW；明日（10/8）为擂台赛休息日",
       "source": "https://wanplus.cn/kog/schedule",
-      "hotSearchCheckedAt": "2026-10-06 10:46 北京时间",
+      "hotSearchCheckedAt": "2026-10-07 10:52 北京时间",
       "hotSearches": [
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#王者年度总决赛#",
-          "foundAt": "2026-10-06 10:46 北京时间",
-          "source": "https://weibo.zhaoyizhe.com/date/20261006/",
+          "keyword": "#AG战胜DYG#",
+          "foundAt": "2026-10-07 10:52 北京时间",
+          "source": "https://weibo.zhaoyizhe.com/date/20261007/",
           "screenshot": ""
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#狼队年总首胜#",
-          "foundAt": "2026-10-06 10:46 北京时间",
-          "source": "https://weibo.zhaoyizhe.com/date/20261006/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#Fly bp#",
-          "foundAt": "2026-10-06 10:46 北京时间",
-          "source": "https://weibo.zhaoyizhe.com/date/20261006/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#一诺采访#",
-          "foundAt": "2026-10-06 10:46 北京时间",
-          "source": "https://weibo.zhaoyizhe.com/date/20261005/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#一诺达成联赛3600击杀#",
-          "foundAt": "2026-10-06 10:46 北京时间",
-          "source": "https://weibo.zhaoyizhe.com/date/20261005/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#一诺艾琳三连决胜#",
-          "foundAt": "2026-10-06 10:46 北京时间",
-          "source": "https://weibo.zhaoyizhe.com/date/20261005/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#一诺回应年总是终点#",
-          "foundAt": "2026-10-06 10:46 北京时间",
-          "source": "https://weibo.zhaoyizhe.com/date/20261005/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#JDG年总首胜#",
-          "foundAt": "2026-10-06 10:46 北京时间",
-          "source": "https://weibo.zhaoyizhe.com/date/20261005/",
+          "keyword": "#一诺孙权决胜团三杀#",
+          "foundAt": "2026-10-07 10:52 北京时间",
+          "source": "https://weibo.zhaoyizhe.com/date/20261007/",
           "screenshot": ""
         }
       ]
     },
     {
-      "game": "行业 · 亚运闭幕后电竞舆情长尾",
-      "heat": "中",
-      "event": "爱知·名古屋亚运会10/4晚闭幕，下届亚运会2030年重返卡塔尔多哈（闭幕式「多哈8分钟」），#中国代表团亚运闭幕式亮相#（在榜304分钟）等词条10/5登热搜。电竞舆情长尾延续：中国台北AD Doggo回应LoL决赛负韩国、韩国AD Gumayusi回应亚运夺金，两词条10/5登榜；无畏契约EDG选手康康词条（#康康 EDG#）在榜413分钟（具体事件上下文未核验）",
-      "source": "https://www.news.cn/sports/20261003/4d338eda76324ebc8c2ab760fe3b35fe/c.html",
-      "hotSearchCheckedAt": "2026-10-06 10:46 北京时间",
-      "hotSearches": [
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#中国代表团亚运闭幕式亮相#",
-          "foundAt": "2026-10-06 10:46 北京时间",
-          "source": "https://weibo.zhaoyizhe.com/date/20261005/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#下届亚运会将重返卡塔尔首都多哈#",
-          "foundAt": "2026-10-06 10:46 北京时间",
-          "source": "https://weibo.zhaoyizhe.com/date/20261005/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#Doggo回应LOL决赛输韩国队#",
-          "foundAt": "2026-10-06 10:46 北京时间",
-          "source": "https://weibo.zhaoyizhe.com/date/20261005/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#gumayusi回应亚运会夺金#",
-          "foundAt": "2026-10-06 10:46 北京时间",
-          "source": "https://weibo.zhaoyizhe.com/date/20261005/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#康康 EDG#",
-          "foundAt": "2026-10-06 10:46 北京时间",
-          "source": "https://weibo.zhaoyizhe.com/date/20261005/",
-          "screenshot": ""
-        }
-      ]
+      "game": "王者荣耀",
+      "heat": "低",
+      "event": "国庆假期运营节点今日（10/7）收官：全英雄及直售皮肤限免（10/1-10/7）、累计充值活动（10/1-10/7）双双到期结束；伽罗亚运纪念皮肤「月影弦鸣」许愿镜免费活动持续至10/12（10/13起转488点券/48碎片），孙膑-帕恰狗之风免费活动至10/11",
+      "source": "https://pvp.qq.com/web201605/newsDetail.shtml?G_Biz=18&tid=809860",
+      "hotSearchCheckedAt": "2026-10-07 10:52 北京时间",
+      "hotSearches": []
     }
   ],
-  "trend": "擂台赛首周呈「精英组躁动」格局：Hero两连胜（连克AG、TTG）、TES.A掀翻狼队，大师组仅KSG、WB保持强势；「大师轮换」持续制造话题——Fly登场BP、AG轮换争议不断，一诺3600杀里程碑与「年总是终点」言论成为假期后半段最大舆情点。亚运会10/4闭幕后电竞舆情转入长尾（Doggo/Gumayusi回应词条），流量焦点完全回归KPL。王者荣耀本体、逆水寒手游、金铲铲之战今日仍未核验到新公告节点。",
-  "action": "今日三场全盯：TTG vs RW侠（14:00）、JDG vs Hero（17:00，Hero冲击三连胜）、AG vs DYG（20:00，DYG能否终结小局18连败）。明日（10/7）AG背靠背第二场vs杭州LGD.NBW；王者荣耀全英雄限免与累计充值活动10/7截止，盯收官反馈与假期数据；10/8擂台赛休息日，适合补做假期UGC/二创爆款盘点（抖音/B站）。"
+  "trend": "擂台赛格局从「精英组爆冷周」回归秩序：大师组10/6三战全胜，TTG换首发立竿见影、JDG终结Hero连胜，但Hero与TES.A已证明「大师轮换」机制下大师组不再稳赢。AG舆情完成转向——从首周「轮换争议」变为「一诺carry叙事」（3600杀里程碑→孙权三杀连续承包热搜）。王者荣耀国庆活动周期今日收官，假期运营进入收尾，节后数据与三款游戏收假节点值得追踪。",
+  "action": "今日盯KPL Day6三场：KSG vs TES.A（精英组头名之争）、WB vs EDG.M、AG vs LGD.NBW（AG假期最后一战，关注一诺状态持续性）。明日（10/8）擂台赛休息日：盯王者荣耀国庆活动收官后的舆情与数据反馈，逆水寒手游、金铲铲之战收假后首个公告节点；补检B站/抖音假期KPL二创爆款（首周名场面剪辑、Fly回归、一诺集锦类）。"
 }
