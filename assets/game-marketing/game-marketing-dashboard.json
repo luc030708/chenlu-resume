@@ -1,45 +1,160 @@
 {
-  "date": "2026-10-08",
-  "updatedAt": "2026-10-08 10:50 北京时间",
-  "headline": "KPL擂台赛首周收官战AG再翻车：2:0领先被杭州LGD.NBW让二追三；KSG 3:0 TES.A三连胜、EDG.M 3:1攻擂WB成功；今日擂台赛休息日",
+  "date": "2026-10-10",
+  "updatedAt": "2026-10-10 11:01",
+  "headline": "周年庆×十周年双预热：王者11周年庆三词条在榜，KPL年总狼队3:2险胜Hero、JDG零封DYG，LOL S16主题曲《以我之名》刷屏全网。",
   "items": [
     {
-      "game": "KPL年度总决赛 · 擂台赛Day6（首周收官）",
+      "game": "王者荣耀",
       "heat": "高",
-      "event": "擂台赛第六日（10/7，广州体育馆2号馆）：KSG 3:0 长沙TES.A（大场三连胜）；北京WB 1:3 上海EDG.M（EDG.M攻擂成功）；成都AG 2:3 杭州LGD.NBW——AG先下两局仍被让二追三，假期收官战翻车，LGD.NBW拿下年总首个大场积分。首周战罢：大师组KSG三连胜领跑，AG 3胜2负状态起伏；精英组Hero、TES.A、EDG.M、LGD.NBW均有攻擂胜场。今日（10/8）为擂台赛休息日，10/9赛程：17:00 重庆狼队 vs 南通Hero久竞、20:00 北京JDG vs 深圳DYG",
-      "source": "https://wanplus.cn/kog/schedule",
-      "hotSearchCheckedAt": "2026-10-08 10:50 北京时间",
+      "event": "11周年庆预热持续升温：共创之夜定档10月25日、嘉年华暨KPL十周年奇妙日10月24-25日同城落地深圳；10月8日不停机更新上线卢雅那-烈焰狂欢皮肤（首周60点券）与「种个苹安果」活动（10月8日-14日），周年庆主线预计10月28日开启。",
+      "source": "https://pvp.qq.com/web201706/newsdetail.shtml?tid=810034",
+      "hotSearchCheckedAt": "2026-10-10 11:01",
       "hotSearches": [
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#王者荣耀#",
-          "foundAt": "2026-10-08 10:50 北京时间",
-          "source": "https://weibo.zhaoyizhe.com/date/20261008/",
+          "keyword": "#王者2026周年庆#（当日累计上榜103min）",
+          "foundAt": "2026-10-10 10:55",
+          "source": "https://weibo.zhaoyizhe.com/date/20261009/",
           "screenshot": ""
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#LGDNBW战胜AG#",
-          "foundAt": "2026-10-08 10:50 北京时间",
-          "source": "https://weibo.zhaoyizhe.com/date/20261008/",
+          "keyword": "#王者荣耀#（当日累计上榜87min）",
+          "foundAt": "2026-10-10 10:55",
+          "source": "https://weibo.zhaoyizhe.com/date/20261009/",
           "screenshot": ""
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#LGD让二追三#",
-          "foundAt": "2026-10-08 10:50 北京时间",
-          "source": "https://weibo.zhaoyizhe.com/date/20261008/",
+          "keyword": "#王者荣耀11周年庆#（当日累计上榜74min）",
+          "foundAt": "2026-10-10 10:55",
+          "source": "https://weibo.zhaoyizhe.com/date/20261009/",
           "screenshot": ""
         }
       ]
+    },
+    {
+      "game": "KPL年度总决赛",
+      "heat": "高",
+      "event": "擂台赛第8日：10月9日重庆狼队3:2险胜南通Hero久竞、北京JDG 3:0零封深圳DYG（JDG首发公布、清融未进引发讨论）；今日17:00广州TTG vs 杭州LGD.NBW、20:00重庆狼队 vs 济南RW侠；明日20:00成都AG超玩会 vs 长沙TES.A。擂台赛至10月18日在广州体育馆2号馆进行（10月13日休息）。",
+      "source": "https://wanplus.cn/kog/schedule",
+      "hotSearchCheckedAt": "2026-10-10 11:01",
+      "hotSearches": [
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#JDG战胜DYG#（当日累计上榜174min，今晨仍在榜）",
+          "foundAt": "2026-10-10 11:00",
+          "source": "https://weibo.zhaoyizhe.com/date/20261010/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#KPL#（当日累计上榜87min）",
+          "foundAt": "2026-10-10 10:55",
+          "source": "https://weibo.zhaoyizhe.com/date/20261009/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#KPL十周年#（当日累计上榜76min，今日在榜）",
+          "foundAt": "2026-10-10 11:00",
+          "source": "https://weibo.zhaoyizhe.com/date/20261010/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#狼队战胜Hero#（当日累计上榜62min）",
+          "foundAt": "2026-10-10 10:55",
+          "source": "https://weibo.zhaoyizhe.com/date/20261009/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#JDG公布首发清融未进#（当日累计上榜32min）",
+          "foundAt": "2026-10-10 10:55",
+          "source": "https://weibo.zhaoyizhe.com/date/20261009/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#狼队集体Fly化#（玩家整活词条，今晨闪现1min）",
+          "foundAt": "2026-10-10 11:00",
+          "source": "https://weibo.zhaoyizhe.com/date/20261010/",
+          "screenshot": ""
+        }
+      ]
+    },
+    {
+      "game": "英雄联盟S16（行业大事件）",
+      "heat": "高",
+      "event": "10月9日S16全球总决赛主题曲《Know My Name（以我之名）》及官方MV正式发布：虚拟嘻哈组合「真实伤害」时隔7年回归献唱，MV首次以六冠王Faker为绝对主角、回顾其率T1三连冠历程；S16正赛将于10月16日凌晨2:00开打，LPL四队AL/BLG/TES/IG出征。",
+      "source": "https://news.mydrivers.com/1/1156/1156090.htm",
+      "hotSearchCheckedAt": "2026-10-10 11:01",
+      "hotSearches": [
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#英雄联盟S16主题曲#（当日累计上榜65min）",
+          "foundAt": "2026-10-10 10:55",
+          "source": "https://weibo.zhaoyizhe.com/date/20261009/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#S16主题曲MV绝对主角是Faker#（当日累计上榜31min）",
+          "foundAt": "2026-10-10 10:55",
+          "source": "https://weibo.zhaoyizhe.com/date/20261009/",
+          "screenshot": ""
+        },
+        {
+          "platform": "抖音",
+          "board": "抖音视频（非官方二创，25.9万赞）",
+          "rank": null,
+          "keyword": "UP主「沙皇大师」9月30日发布S16主题曲MV《以我知名》预告，已获25.9万赞",
+          "foundAt": "2026-10-10 11:01",
+          "source": "https://www.douyin.com/video/7691054802326834475",
+          "screenshot": ""
+        }
+      ]
+    },
+    {
+      "game": "逆水寒手游",
+      "heat": "中",
+      "event": "今日无新公告（官网最新为9月23日4.1.4版本公告）；逆水寒×盗墓笔记「十年之约」联动进行中（9月24日-10月30日）：南派三叔执笔联动剧情、可化身张起灵闯荡江湖，黄金周版本白发加速300次、真金/奶茶/绑凿无限掉落同步在线。",
+      "source": "https://h.163.com/news/update/20260923/37232_1314908.html",
+      "hotSearchCheckedAt": "2026-10-10 11:01",
+      "hotSearches": []
+    },
+    {
+      "game": "金铲铲之战",
+      "heat": "低",
+      "event": "今日无新公告；「画之灵」赛季限时返场自9月29日18.3版本上线后进行中（全新绘境格机制、狂风奇遇，水墨丹青系列小小英雄在售）；「墨舞丹青10连礼包」拼团活动已于10月8日收官。",
+      "source": "http://news.17173.com/content/09302026/222535206.shtml",
+      "hotSearchCheckedAt": "2026-10-10 11:01",
+      "hotSearches": []
     }
   ],
-  "trend": "擂台赛首周AG成绝对话题轴心：首战爆冷负Hero→三连胜（含一诺3600杀、孙权三杀）→收官战被LGD让二追三，状态曲线大起大落，舆情随赛果反复反转。大师组头部KSG三连胜最稳，精英组四队均有攻擂胜场，「大师轮换」持续稀释大师组优势。国庆假期正式结束，王者国庆活动昨日收官，三款盯盘游戏进入节后节点空窗期，公告面今日仍无新动静。",
-  "action": "今日休息日无赛：重点盯AG被让二追三后的舆情发酵（官博评论区、一诺/钟意相关词条）与假期KPL二创爆款复盘（B站/抖音）。明日（10/9）擂台赛重启：狼队 vs Hero（Hero能否从被JDG零封中反弹）、JDG vs DYG（JDG冲三连胜）。节后首个工作日盯王者荣耀、逆水寒手游、金铲铲之战官方公告更新。"
+  "trend": "节后首个周末，营销重心从假期档切换到「周年庆+世界赛」双预热：王者荣耀11周年庆与KPL十周年奇妙日（10月24-25日深圳同城）词条连续在榜，玩家整活（#狼队集体Fly化#）开始冒头；英雄联盟S16主题曲凭Faker个人叙事实现跨圈传播，抖音非官方预告单条25.9万赞。逆水寒、金铲铲处于版本长草期，靠长线联动与返场赛季维持声量。",
+  "action": "盯今日17:00 TTG vs LGD.NBW、20:00狼队 vs RW侠赛后词条（狼队若连胜热度将叠加）；关注王者荣耀官方是否公布周年庆返场投票开启时间；S16于10月16日开赛前，LPL出征内容或再出爆款；逆水寒下个版本公告预计10月中下旬发布，注意官网更新。"
 }
