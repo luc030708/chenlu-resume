@@ -1,57 +1,105 @@
 {
   "date": "2026-10-11",
-  "updatedAt": "2026-10-11 06:25 北京时间",
-  "headline": "周末促活接棒周年庆预热：三国杀手游上线秋日登录礼与超级星期五，王者11周年庆、KPL十周年及S16主题曲继续承接声量。",
+  "updatedAt": "2026-10-11 10:53",
+  "headline": "王者2026共创之夜阵容官宣、10月12日10:28猫眼开票；KPL狼队连续两场3:2险胜；S16主题曲B站播放破324万、二创接棒发酵。",
   "items": [
     {
-      "game": "王者荣耀",
+      "game": "王者荣耀 · 2026共创之夜",
       "heat": "高",
-      "event": "11周年庆预热持续升温：共创之夜定档10月25日、嘉年华暨KPL十周年奇妙日10月24-25日同城落地深圳；10月8日不停机更新上线卢雅那-烈焰狂欢皮肤（首周60点券）与「种个苹安果」活动（10月8日-14日），周年庆主线预计10月28日开启。",
-      "source": "https://pvp.qq.com/web201706/newsdetail.shtml?tid=810034",
-      "hotSearchCheckedAt": "2026-10-11 06:25 北京时间",
+      "event": "10月10日官方正式官宣：共创之夜10月25日18:30在深圳市体育中心体育馆（主馆）举行、19:00线上直播，10月12日上午10:28猫眼独家开票（380-1280元五档，需绑定30级游戏账号）；杨幂连续第四年出席，林俊杰、周深、刘宇宁、黄霄雲、邓超（王者万象棋特邀）等加盟，梦泪、一诺、Cat、Fly、清融等电竞嘉宾齐聚；嘉年华暨KPL十周年奇妙日10月24-25日在深圳国际会展中心举办，两活动分开售票。",
+      "source": "https://www.sina.cn/news/detail/5352440830100303.html",
+      "hotSearchCheckedAt": "2026-10-11 10:53",
+      "hotSearches": [
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#2026王者嘉年华#（10月10日当日累计上榜96min）",
+          "foundAt": "2026-10-11 10:45",
+          "source": "https://weibo.zhaoyizhe.com/date/20261010/",
+          "screenshot": ""
+        }
+      ]
+    },
+    {
+      "game": "KPL年度总决赛",
+      "heat": "高",
+      "event": "擂台赛第9日（10月10日）两场全部打满五局：广州TTG 3:2 杭州LGD.NBW、重庆狼队 3:2 济南RW侠（狼队两连胜）；今日17:00 TTG背靠背 vs 上海EDG.M、20:00 成都AG超玩会 vs 长沙TES.A。擂台赛至10月18日在广州体育馆2号馆进行（10月13日休息）。",
+      "source": "https://wanplus.cn/kog/schedule",
+      "hotSearchCheckedAt": "2026-10-11 10:53",
+      "hotSearches": [
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#JDG战胜DYG#（10月10日累计上榜174min）",
+          "foundAt": "2026-10-11 10:45",
+          "source": "https://weibo.zhaoyizhe.com/date/20261010/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#KPL十周年#（10月10日累计上榜76min）",
+          "foundAt": "2026-10-11 10:45",
+          "source": "https://weibo.zhaoyizhe.com/date/20261010/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#LGDNBW对战TTG#（10月10日累计上榜21min）",
+          "foundAt": "2026-10-11 10:45",
+          "source": "https://weibo.zhaoyizhe.com/date/20261010/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#TTG战胜LGDNBW#（10月10日累计上榜3min）",
+          "foundAt": "2026-10-11 10:45",
+          "source": "https://weibo.zhaoyizhe.com/date/20261010/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#狼队集体Fly化#（玩家整活词条，10月10日闪现1min）",
+          "foundAt": "2026-10-11 10:45",
+          "source": "https://weibo.zhaoyizhe.com/date/20261010/",
+          "screenshot": ""
+        }
+      ]
+    },
+    {
+      "game": "英雄联盟S16（行业大事件）",
+      "heat": "中",
+      "event": "主题曲《Know My Name（以我之名）》发布次日热度延续：B站官方MV播放量超324万（英雄联盟官方号），非官方二创「今年S16主题曲MV把多少人看懵了？faker低谷与巅峰的不屈奋斗路」播放量超26万，解读/反应类二创接棒传播；S16正赛10月16日凌晨2:00开打，LPL四队AL/BLG/TES/IG出征。今日微博/抖音/小红书未检出达标热搜条目。",
+      "source": "https://www.bilibili.com/video/BV1uxp46SEz9/",
+      "hotSearchCheckedAt": "2026-10-11 10:53",
       "hotSearches": []
     },
     {
       "game": "逆水寒手游",
-      "heat": "中",
-      "event": "今日无新公告（官网最新为9月23日4.1.4版本公告）；逆水寒×盗墓笔记「十年之约」联动进行中（9月24日-10月30日）：南派三叔执笔联动剧情、可化身张起灵闯荡江湖，黄金周版本白发加速300次、真金/奶茶/绑凿无限掉落同步在线。",
+      "heat": "低",
+      "event": "连续两日无新公告（官网最新仍为9月23日4.1.4版本公告）；逆水寒×盗墓笔记「十年之约」联动进行中（9月24日-10月30日），黄金周版本福利活动在线。",
       "source": "https://h.163.com/news/update/20260923/37232_1314908.html",
-      "hotSearchCheckedAt": "2026-10-11 06:25 北京时间",
+      "hotSearchCheckedAt": "2026-10-11 10:53",
       "hotSearches": []
     },
     {
       "game": "金铲铲之战",
       "heat": "低",
-      "event": "过去24小时暂无经核验的新营销事件；画之灵赛季返场龙蛋活动将于今日结束，体验任务、山河入画旅程及水墨藏品继续运行。",
-      "source": "https://www.taptap.cn/moment/852521787559247892?group_id=213275",
-      "hotSearchCheckedAt": "2026-10-11 06:25 北京时间",
-      "hotSearches": []
-    },
-    {
-      "game": "三国杀手游",
-      "heat": "中",
-      "event": "官方于10月10日17:30发布‘10月11日秋日活动’：10月11日至16日上线每日登录礼、踏青礼盒返场，并以超级星期五整合武将限免、掉星保护、经验加成、商城折扣和限时活动场，形成周末促活与付费召回组合。",
-      "source": "https://www.sanguosha.cn/index.php/pc/news-detail-2401.html",
-      "hotSearchCheckedAt": "2026-10-11 06:25 北京时间",
-      "hotSearches": []
-    },
-    {
-      "game": "KPL年度总决赛",
-      "heat": "高",
-      "event": "擂台赛第8日：10月9日重庆狼队3:2险胜南通Hero久竞、北京JDG 3:0零封深圳DYG（JDG首发公布、清融未进引发讨论）；今日17:00广州TTG vs 杭州LGD.NBW、20:00重庆狼队 vs 济南RW侠；明日20:00成都AG超玩会 vs 长沙TES.A。擂台赛至10月18日在广州体育馆2号馆进行（10月13日休息）。",
-      "source": "https://wanplus.cn/kog/schedule",
-      "hotSearchCheckedAt": "2026-10-11 06:25 北京时间",
-      "hotSearches": []
-    },
-    {
-      "game": "英雄联盟S16（行业大事件）",
-      "heat": "高",
-      "event": "10月9日S16全球总决赛主题曲《Know My Name（以我之名）》及官方MV正式发布：虚拟嘻哈组合「真实伤害」时隔7年回归献唱，MV首次以六冠王Faker为绝对主角、回顾其率T1三连冠历程；S16正赛将于10月16日凌晨2:00开打，LPL四队AL/BLG/TES/IG出征。",
-      "source": "https://news.mydrivers.com/1/1156/1156090.htm",
-      "hotSearchCheckedAt": "2026-10-11 06:25 北京时间",
+      "event": "无版本级新公告；宝库限时返场（10月5日-11日）今日收官，「画之灵」返场赛季进行中；10月8日糖果铺子上新多星级小小英雄【深海明珠 小小拉克丝】，神话级【律界乐灵 剑胆琴心 小小永恩】【律界乐灵 翩若惊鸿 小小霞】官宣预告。",
+      "source": "https://www.sina.cn/media/7504806444",
+      "hotSearchCheckedAt": "2026-10-11 10:53",
       "hotSearches": []
     }
   ],
-  "trend": "周末营销形成两条主线：三国杀手游以登录礼、限免与折扣打包促活，王者周年庆、KPL十周年和S16主题曲则以节点预热维持高声量；本轮公开热榜未取得可验证命中。",
-  "action": "借鉴三国杀手游的周末权益打包方式，用一张福利总览图同时承接登录、限免、保护机制与商城折扣；并继续监测王者周年庆与KPL周末赛果的二次传播。"
+  "trend": "周年庆进入「官宣-开票」冲刺期：共创之夜全明星+电竞名宿阵容把话题从游戏圈推向泛娱乐，10月12日开票是下一个爆点。KPL擂台赛连续五局大战维持赛事热度，但单日词条时长偏短，话题集中在战队整活与十周年情怀。S16主题曲长尾在B站发酵，玩家解读类二创接棒官方MV。",
+  "action": "重点盯10月12日上午10:28共创之夜猫眼开票（去年秒罄、今年猫眼独家+30级账号门槛，关注售罄速度与黄牛舆情）；今日17:00 TTG背靠背战EDG.M、20:00 AG vs TES.A，AG出战词条概率高；逆水寒4.1.4后新公告仍未发布，继续蹲守官网。"
 }
