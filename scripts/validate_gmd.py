@@ -14,6 +14,8 @@ from urllib.parse import urlparse
 
 HEAT = {"高", "中", "低"}
 PLATFORM = {"微博", "抖音", "小红书"}
+POST_STATUS = {"已核验", "不可访问", "未发现"}
+OFFLINE_STATUS = {"已核验", "不可访问", "未发现", "未证实"}
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
 
@@ -54,7 +56,7 @@ def validate(data):
             check(isinstance(it, dict), errors, p, "必须是对象")
             if not isinstance(it, dict):
                 continue
-            for key in ("game", "heat", "event", "source", "hotSearchCheckedAt", "hotSearches"):
+            for key in ("game", "heat", "event", "source", "officialPosts", "offlineActions", "hotSearchCheckedAt", "hotSearches"):
                 check(key in it, errors, p, f"缺少必需字段 {key}")
             for key in ("game", "event", "hotSearchCheckedAt"):
                 if key in it:
@@ -63,6 +65,40 @@ def validate(data):
                 check(it["heat"] in HEAT, errors, f"{p}.heat", "必须是 高/中/低 之一")
             if "source" in it:
                 check(is_uri(it["source"]), errors, f"{p}.source", "必须是 http(s) URL")
+            posts = it.get("officialPosts")
+            check(isinstance(posts, list), errors, f"{p}.officialPosts", "必须是数组")
+            if isinstance(posts, list):
+                for j, post in enumerate(posts):
+                    q = f"{p}.officialPosts[{j}]"
+                    check(isinstance(post, dict), errors, q, "必须是对象")
+                    if not isinstance(post, dict):
+                        continue
+                    for key in ("platform", "title", "url", "publishedAt", "foundAt", "status"):
+                        check(key in post, errors, q, f"缺少必需字段 {key}")
+                        if key in post:
+                            check(isinstance(post[key], str), errors, f"{q}.{key}", "必须是字符串")
+                    if "status" in post:
+                        check(post["status"] in POST_STATUS, errors, f"{q}.status", "必须是 已核验/不可访问/未发现 之一")
+                    if post.get("status") == "已核验":
+                        check(is_uri(post.get("url")), errors, f"{q}.url", "已核验帖子必须提供 http(s) 原帖 URL")
+                    elif "url" in post:
+                        check(post["url"] == "", errors, f"{q}.url", "非已核验帖子 URL 必须留空")
+            offline = it.get("offlineActions")
+            check(isinstance(offline, list), errors, f"{p}.offlineActions", "必须是数组")
+            if isinstance(offline, list):
+                for j, action in enumerate(offline):
+                    q = f"{p}.offlineActions[{j}]"
+                    check(isinstance(action, dict), errors, q, "必须是对象")
+                    if not isinstance(action, dict):
+                        continue
+                    for key in ("title", "city", "venue", "startAt", "endAt", "status", "source"):
+                        check(key in action, errors, q, f"缺少必需字段 {key}")
+                        if key in action:
+                            check(isinstance(action[key], str), errors, f"{q}.{key}", "必须是字符串")
+                    if "status" in action:
+                        check(action["status"] in OFFLINE_STATUS, errors, f"{q}.status", "必须是 已核验/不可访问/未发现/未证实 之一")
+                    if action.get("source"):
+                        check(is_uri(action["source"]), errors, f"{q}.source", "非空来源必须是 http(s) URL")
             hs = it.get("hotSearches")
             check(isinstance(hs, list), errors, f"{p}.hotSearches", "必须是数组")
             if isinstance(hs, list):

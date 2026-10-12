@@ -9,7 +9,7 @@ template.innerHTML = `
     </header>
     <div class="events"></div>
     <div class="insights"></div>
-    <footer>自动读取 JSON · 点击营销事件展开热搜详情</footer>
+    <footer>自动读取 JSON · 点击营销事件展开官方帖子、线下动作与热搜证据</footer>
   </section>
 `;
 
@@ -72,22 +72,56 @@ class GameMarketingDashboard extends HTMLElement {
 
     root.querySelector('.events').innerHTML = (data.items || []).slice(0, 6).map((item) => {
       const hits = Array.isArray(item.hotSearches) ? item.hotSearches : [];
+      const posts = Array.isArray(item.officialPosts) ? item.officialPosts : [];
+      const offline = Array.isArray(item.offlineActions) ? item.offlineActions : [];
+      const verifiedPosts = posts.filter((post) => post.status === '已核验' && safeUrl(post.url));
+      const verifiedOffline = offline.filter((action) => action.status === '已核验');
       const source = safeUrl(item.source);
       return `<details class="card">
         <summary>
           <span class="heat heat-${escapeHtml(item.heat)}">${escapeHtml(item.heat || '待定')}</span>
           <strong>${escapeHtml(item.game)}</strong>
           <span class="event-copy">${escapeHtml(item.event)}</span>
-          <span class="hot ${hits.length ? 'has-hot' : ''}">${hits.length ? `${hits.length}条热搜` : '无热搜'}</span>
+          <span class="signals">
+            <span class="signal ${verifiedPosts.length ? 'has-post' : ''}">${verifiedPosts.length ? `${verifiedPosts.length}条官帖` : '官帖待核'}</span>
+            <span class="signal ${verifiedOffline.length ? 'has-offline' : ''}">${verifiedOffline.length ? `${verifiedOffline.length}项线下` : '无线下'}</span>
+            <span class="signal ${hits.length ? 'has-hot' : ''}">${hits.length ? `${hits.length}条热搜` : '无热搜'}</span>
+          </span>
         </summary>
         <div class="detail">
-          <div class="detail-title"><b>热搜监测详情</b>${source ? `<a href="${source}" target="_blank" rel="noopener noreferrer">事件来源 ↗</a>` : ''}</div>
+          <div class="detail-title"><b>官方帖子矩阵</b>${source ? `<a href="${source}" target="_blank" rel="noopener noreferrer">事件主来源 ↗</a>` : ''}</div>
+          <div class="evidence-list">${posts.length ? posts.map((post) => this.officialPost(post)).join('') : '<p class="empty">暂无已记录的官方渠道帖子。</p>'}</div>
+          <div class="detail-title"><b>线下动作</b></div>
+          <div class="evidence-list">${offline.length ? offline.map((action) => this.offlineAction(action)).join('') : '<p class="empty">未发现经核验的线下动作。</p>'}</div>
+          <div class="detail-title"><b>热搜监测详情</b></div>
           ${hits.length ? hits.map((hit) => this.hotSearch(hit, item.game)).join('') : `<p class="empty">截至 ${escapeHtml(item.hotSearchCheckedAt || data.updatedAt)}，暂无可验证的微博、抖音或小红书热榜命中。</p>`}
         </div>
       </details>`;
     }).join('');
 
     root.querySelector('.insights').innerHTML = `${data.trend ? `<p><b>趋势</b><span>${escapeHtml(data.trend)}</span></p>` : ''}${data.action ? `<p class="action"><b>建议</b><span>${escapeHtml(data.action)}</span></p>` : ''}`;
+  }
+
+  officialPost(post) {
+    const url = post.status === '已核验' ? safeUrl(post.url) : '';
+    const label = url ? `<a href="${url}" target="_blank" rel="noopener noreferrer">${escapeHtml(post.title || '打开官方原帖')} ↗</a>` : `<span>${escapeHtml(post.title || '未记录标题')}</span>`;
+    return `<article class="evidence-row">
+      <div class="evidence-meta"><b>${escapeHtml(post.platform || '官方渠道')}</b><span class="status status-${escapeHtml(post.status || '未发现')}">${escapeHtml(post.status || '未发现')}</span></div>
+      <p>${label}</p>
+      <small>${escapeHtml(post.publishedAt || '发布时间未知')}${post.foundAt ? ` · 发现于 ${escapeHtml(post.foundAt)}` : ''}</small>
+    </article>`;
+  }
+
+  offlineAction(action) {
+    const source = safeUrl(action.source);
+    const place = [action.city, action.venue].filter(Boolean).map(escapeHtml).join(' · ');
+    const period = [action.startAt, action.endAt].filter(Boolean).map(escapeHtml).join(' — ');
+    return `<article class="evidence-row offline-row">
+      <div class="evidence-meta"><b>${escapeHtml(action.title || '线下动作')}</b><span class="status status-${escapeHtml(action.status || '未发现')}">${escapeHtml(action.status || '未发现')}</span></div>
+      ${place ? `<p>${place}</p>` : ''}
+      ${period ? `<small>${period}</small>` : ''}
+      ${source ? `<a class="board-link" href="${source}" target="_blank" rel="noopener noreferrer">查看线下来源 ↗</a>` : ''}
+    </article>`;
   }
 
   hotSearch(hit, fallbackGame) {

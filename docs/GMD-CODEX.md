@@ -26,7 +26,11 @@
 
 ## 每日更新流程（必须按顺序）
 
-1. 按 `schema.json`（组件包）生成新 JSON。
+1. 生成新 JSON。每个事件除基础字段外，必须包含 `officialPosts`（官方帖子矩阵）和 `offlineActions`（线下动作）。
+   - `officialPosts[]`：`platform`、`title`、`url`、`publishedAt`、`foundAt`、`status`。`status` 只能为“已核验/不可访问/未发现”；仅“已核验”允许填写原帖 URL。
+   - `offlineActions[]`：`title`、`city`、`venue`、`startAt`、`endAt`、`status`、`source`。`status` 只能为“已核验/不可访问/未发现/未证实”。
+   - 官方微博、抖音、小红书、B站、公众号、TapTap、视频号或直播平台的普通原帖应写入 `officialPosts`，不能误写进 `hotSearches`；普通帖子不等于热榜命中。
+   - 线下快闪、展会、门店、商圈大屏、城市活动、赛事场馆、校园活动、发布会、品牌路演与文旅合作写入 `offlineActions`。没有可靠来源时必须明确“未发现”或“未证实”。
 2. 本地校验，必须通过：
    ```bash
    python3 scripts/validate_gmd.py path/to/new-dashboard.json
