@@ -1,138 +1,93 @@
 {
-  "date": "2026-10-13",
-  "updatedAt": "2026-10-13 10:52",
-  "headline": "王者十一周年庆皮肤「天下奇观」官宣+共创之夜开票次日；KPL休息日回看DYG爆冷终结12连败、KSG十二小局连胜；德杯BFX 3:2翻盘JDG，Gala八强梗刷屏。",
+  "date": "2026-10-14",
+  "updatedAt": "2026-10-14 10:43",
+  "headline": "王者周年庆返场票选开启：李小龙皮肤版权到期官宣绝版引爆热搜，山西古建海报翻车官方速改；德杯八强收官WE成LPL独苗，LPL四队发布S16出征海报。",
   "items": [
     {
-      "game": "王者荣耀（十一周年庆）",
+      "game": "王者荣耀·周年庆返场票选",
       "heat": "高",
-      "event": "11周年庆文创皮肤主题「天下奇观」10/12正式官宣：首款盾山·一塔千年联动山西应县木塔（省市文旅+古建院学术指导，传说品质做任务免费得，多皮肤企划后续解锁）；共创之夜10/25 18:30深圳市体育中心体育馆（杨幂/周深/林俊杰/刘宇宁/邓超+一诺、无畏等47位KPL选手），10/12 10:28猫眼开票（380-1280元），开票次日KPL超话转票/收票帖活跃，暂未见官方售罄公告；「闪光计划」加冕季单曲《听从裙摆》10/12上线。",
-      "source": "https://k.sina.com.cn/article_7096020433_1a6f4add106801pz9q.html?from=ent",
-      "hotSearchCheckedAt": "2026-10-13 10:52",
+      "event": "10/13官方答疑并开启2026周年庆返场皮肤票选：26款候选（2-10周年皮肤+蛇年限定等），新规则通用优惠券2张增至3张、第4-6名取消三选一（2027元旦奇幻商店返场），前3名10/24-10/30返场；公告小字确认裴擒虎·李小龙因版权到期不参与返场，成为继梅西、雅典娜后第三款绝版皮肤（裴擒虎独占两款），玩家唏嘘「五周年白嫖皮变收藏皮」；另有7款皮肤无缘本次返场。福利预告：10/24登录送积分夺宝11抽、蔷薇之心25颗、周年回城等，免费领盾山一塔千年。",
+      "source": "https://timeline.sohu.com/news/45lmrkE7Nc?from=news",
+      "hotSearchCheckedAt": "2026-10-14 10:43",
       "hotSearches": [
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#王者十一周年庆皮肤主题天下奇观#（当日累计上榜81分钟）",
-          "foundAt": "2026-10-13 10:52",
-          "source": "https://weibo.zhaoyizhe.com/date/20261012/",
+          "keyword": "#王者李小龙皮肤绝版#（当日累计上榜259分钟）",
+          "foundAt": "2026-10-14 10:43",
+          "source": "https://weibo.zhaoyizhe.com/date/20261013/",
           "screenshot": ""
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#王者荣耀#（当日累计上榜144分钟）",
-          "foundAt": "2026-10-13 10:52",
-          "source": "https://weibo.zhaoyizhe.com/date/20261012/",
+          "keyword": "#王者李小龙皮肤绝版#（当日累计上榜217分钟）",
+          "foundAt": "2026-10-14 10:43",
+          "source": "https://weibo.zhaoyizhe.com/date/20261014/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#王者无缘周年庆返场的七款皮肤#（当日累计上榜125分钟）",
+          "foundAt": "2026-10-14 10:43",
+          "source": "https://weibo.zhaoyizhe.com/date/20261013/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#王者周年庆福利来了#（当日累计上榜116分钟）",
+          "foundAt": "2026-10-14 10:43",
+          "source": "https://weibo.zhaoyizhe.com/date/20261013/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#王者2026周年庆返场皮肤票选#（当日累计上榜22分钟）",
+          "foundAt": "2026-10-14 10:43",
+          "source": "https://weibo.zhaoyizhe.com/date/20261013/",
           "screenshot": ""
         }
       ]
     },
     {
-      "game": "KPL年度总决赛·擂台赛（DYG 3:2 WB）",
-      "heat": "高",
-      "event": "10/12晚广州，精英组深圳DYG鏖战五局3:2掀翻大师组北京WB，终结大场12连败、时隔2200天再胜WB；钎城公孙离/敖隐二连MVP，赛后采访哽咽直言「太憋屈了」，解说席blue当场泪目。WB决胜局按大师轮换换暖阳/一笙登场仍未能救主。10/13为休赛期，下一场比赛日10/14（17:00 JDG vs RW侠、20:00 狼队 vs LGD.NBW）。",
-      "source": "https://post.smzdm.com/p/a3mx2v97/",
-      "hotSearchCheckedAt": "2026-10-13 10:52",
-      "hotSearches": [
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#DYG战胜WB#（当日累计上榜47分钟）",
-          "foundAt": "2026-10-13 10:52",
-          "source": "https://weibo.zhaoyizhe.com/date/20261012/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#DYG战胜WB#（当日累计上榜289分钟）",
-          "foundAt": "2026-10-13 10:52",
-          "source": "https://weibo.zhaoyizhe.com/date/20261013/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#钎城赛后采访哽咽#（当日累计上榜182分钟）",
-          "foundAt": "2026-10-13 10:52",
-          "source": "https://weibo.zhaoyizhe.com/date/20261013/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#钎城说太憋屈了#（当日累计上榜46分钟）",
-          "foundAt": "2026-10-13 10:52",
-          "source": "https://weibo.zhaoyizhe.com/date/20261013/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#钎城超神公孙离#（当日累计上榜33分钟）",
-          "foundAt": "2026-10-13 10:52",
-          "source": "https://weibo.zhaoyizhe.com/date/20261012/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#钎城二连mvp#（当日累计上榜19分钟）",
-          "foundAt": "2026-10-13 10:52",
-          "source": "https://weibo.zhaoyizhe.com/date/20261012/",
-          "screenshot": ""
-        }
-      ]
-    },
-    {
-      "game": "KPL年度总决赛·擂台赛（KSG 3:0 Hero）",
+      "game": "王者荣耀·周年庆海报争议",
       "heat": "中",
-      "event": "10/12 17:00，苏州KSG 3:0零封南通Hero久竞，年总四场大场全部3:0、十二小局不失一分，独自领跑大师组；句号三连MVP（赵云/元流之子/六耳），第三局轮换阵容项羽回顶反打成名场面。KSG剩余对手为LGD.NBW与EDG.M，大师组前四直通淘汰赛基本无悬念。",
-      "source": "https://post.smzdm.com/p/az8okv7r/",
-      "hotSearchCheckedAt": "2026-10-13 10:52",
+      "event": "10/13，十一周年庆山西古建联动海报被指多处硬伤：广胜寺飞虹塔实为13层只画10层且周边凭空多出建筑、晋祠圣母殿歇山顶误作庑殿顶、华严寺山门误用2008年新建景区大门，人物肢体扭曲被质疑AI生成痕迹明显（话题阅读175万+）；官方火速修改至少4处后结构趋于合理。文创联动「专业度」成为舆论双刃剑。",
+      "source": "https://k.sina.com.cn/article_7096020433_1a6f4add106801q1g0.html?from=travel",
+      "hotSearchCheckedAt": "2026-10-14 10:43",
       "hotSearches": [
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#KSG十二小局连胜#（当日累计上榜55分钟）",
-          "foundAt": "2026-10-13 10:52",
-          "source": "https://weibo.zhaoyizhe.com/date/20261012/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#KSG对战Hero#（当日累计上榜1分钟）",
-          "foundAt": "2026-10-13 10:52",
-          "source": "https://weibo.zhaoyizhe.com/date/20261012/",
+          "keyword": "#王者周年庆海报被指出现大量错误#（当日累计上榜19分钟）",
+          "foundAt": "2026-10-14 10:43",
+          "source": "https://weibo.zhaoyizhe.com/date/20261013/",
           "screenshot": ""
         }
       ]
     },
     {
-      "game": "英雄联盟·德玛西亚杯国际邀请赛（BFX 3:2 JDG）",
+      "game": "英雄联盟·德玛西亚杯国际邀请赛（八强收官）",
       "heat": "高",
-      "event": "10/12晚1/4决赛，LCK六号种子BNK FearX打满五局3:2逆转JDG晋级四强，JDG止步八强：第三局JDG 10:1领先被Raptor盲僧绕后翻盘，决胜局Angel阿卡丽6/0难救主；JDG中野为Angel/Xiaofang临时班底（HongQ、JunJia因亚运会缺席）。同日KT 3:2逆转VIT，LCK提前锁定上半区决赛席位；10/13下半区WE vs FLY、LGD vs BRO。米勒切片「gala怎么又是个八强」成出圈梗。",
-      "source": "https://post.smzdm.com/p/a5rxnqvl/",
-      "hotSearchCheckedAt": "2026-10-13 10:52",
+      "event": "10/13八强收官：WE鏖战五局3:2力克北美FLY（cube贾克斯、About库奇建功，About获MVP）；LGD先赢一局被LCK的BRO连扳三局1:3出局。四强诞生：KT、BFX、WE、BRO——三支LCK队伍围猎LPL独苗WE，被网友类比2021年EDG剧本。半决赛10/14 17:00 KT vs BFX、10/15 17:00 WE vs BRO（小组赛WE曾2:1胜BRO），总决赛10/17 17:00北京智慧电竞赛事中心。",
+      "source": "https://post.smzdm.com/p/a82p3q40/",
+      "hotSearchCheckedAt": "2026-10-14 10:43",
       "hotSearches": [
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#Gala又倒在八强#（当日累计上榜282分钟）",
-          "foundAt": "2026-10-13 10:52",
+          "keyword": "#BRO战胜LGD#（当日累计上榜67分钟）",
+          "foundAt": "2026-10-14 10:43",
           "source": "https://weibo.zhaoyizhe.com/date/20261013/",
           "screenshot": ""
         },
@@ -140,48 +95,84 @@
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#BFX对战JDG#（当日累计上榜140分钟）",
-          "foundAt": "2026-10-13 10:52",
+          "keyword": "#BRO战胜LGD#（当日累计上榜123分钟）",
+          "foundAt": "2026-10-14 10:43",
+          "source": "https://weibo.zhaoyizhe.com/date/20261014/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#BRO LGD#（当日累计上榜109分钟）",
+          "foundAt": "2026-10-14 10:43",
+          "source": "https://weibo.zhaoyizhe.com/date/20261014/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#WE战胜Fly#（当日累计上榜14分钟）",
+          "foundAt": "2026-10-14 10:43",
           "source": "https://weibo.zhaoyizhe.com/date/20261013/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#BFX翻盘JDG#（当日累计上榜5分钟）",
-          "foundAt": "2026-10-13 10:52",
-          "source": "https://weibo.zhaoyizhe.com/date/20261012/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#BFX对战JDG#（当日累计上榜1分钟）",
-          "foundAt": "2026-10-13 10:52",
-          "source": "https://weibo.zhaoyizhe.com/date/20261012/",
           "screenshot": ""
         }
       ]
     },
     {
-      "game": "金铲铲之战",
+      "game": "英雄联盟S16·LPL出征",
       "heat": "中",
-      "event": "宝库限时返场10/12-10/18开启（魄罗团团、柯基小小库奇、2025全球总决赛竞技场等）；全新模式【大橘大利】玩家测试10/15 19:00开启（至11/3），11/4随新赛季「英雄联盟传奇 伊泽瑞尔的寻宝之旅」正式上线（新增伊泽瑞尔、斯莫德等5位弈子）；10/11高校赛秋季赛总决赛落幕，上海理工诸宇昊夺冠晋级公开赛64强。",
-      "source": "https://www.sina.cn/media/7504806444",
-      "hotSearchCheckedAt": "2026-10-13 10:52",
+      "event": "10/13，LPL四支世界赛队伍（AL/BLG/TES/IG）集中发布S16出征海报与出征名单，BLG出征名单、iG出征照均登上热搜；S16入围赛10/16在洛杉矶开打，LPL四队直通瑞士轮。德杯与S16无缝衔接，10月中旬英雄联盟内容密度拉满。",
+      "source": "https://post.smzdm.com/p/a82p3w00/",
+      "hotSearchCheckedAt": "2026-10-14 10:43",
+      "hotSearches": [
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#LPL四支队的S16出征海报#（当日累计上榜157分钟）",
+          "foundAt": "2026-10-14 10:43",
+          "source": "https://weibo.zhaoyizhe.com/date/20261013/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#BLG英雄联盟S16出征名单#（当日累计上榜155分钟）",
+          "foundAt": "2026-10-14 10:43",
+          "source": "https://weibo.zhaoyizhe.com/date/20261013/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#iG的S16出征照#（当日累计上榜11分钟）",
+          "foundAt": "2026-10-14 10:43",
+          "source": "https://weibo.zhaoyizhe.com/date/20261013/",
+          "screenshot": ""
+        }
+      ]
+    },
+    {
+      "game": "KPL年度总决赛·擂台赛（10/14赛程）",
+      "heat": "中",
+      "event": "今日17:00北京JDG vs 济南RW侠、20:00重庆狼队 vs 杭州LGD.NBW（北京JDG官博10:00已公布首发名单）。积分态势：KSG四场3:0十二小局连胜领跑大师组，EDG.M 3胜1负居精英组头名；DYG爆冷胜WB后暂离淘汰红线，AG 3胜2负，10/15收官战对EDG.M。擂台赛10/18收官，突围赛10/20-22。",
+      "source": "https://www.dj99.com/saicheng/hok/next/1/",
+      "hotSearchCheckedAt": "2026-10-14 10:43",
       "hotSearches": []
     },
     {
       "game": "逆水寒手游",
       "heat": "低",
-      "event": "官网更新公告列表最新仍为9/23的4.1.4版本公告，今日无新公告；盗墓笔记联动（9/24-10/30）进入后半程，持续蹲守新版本预告。",
+      "event": "官网更新公告列表最新仍为9/23的4.1.4版本公告，今日无新公告；盗墓笔记联动（9/24-10/30）进入收尾倒计时，持续蹲守新版本预告。",
       "source": "https://h.163.com/news/update/",
-      "hotSearchCheckedAt": "2026-10-13 10:52",
+      "hotSearchCheckedAt": "2026-10-14 10:43",
       "hotSearches": []
     }
   ],
-  "trend": "电竞赛事仍是绝对流量引擎：KPL「精英组攻擂」剧本两周内第六次上演，DYG爆冷与钎城情绪向内容在微博形成隔夜续航（主词条次日再挂289分钟），选手个人叙事比比分本身更带货。英雄联盟侧由德杯国际赛接档S16空窗，「Gala八强」梗证明悲情叙事同样是热搜富矿。王者周年庆进入密集官宣期，文创皮肤+共创之夜+闪光计划三线并进，山西文旅联动延续「游戏×古建」的成熟打法。",
-  "action": "①盯共创之夜门票：猫眼余票状态与是否官宣售罄，超话黄牛溢价情况可截图存档；②10/14两场擂台赛（JDG vs RW侠、狼队 vs LGD.NBW）赛前预热物料；③德杯下半区10/13赛果（WE、LGD能否避免LPL八强团灭）；④金铲铲10/15大橘大利测试开启的社媒反响；⑤S16入围赛10/16凌晨开打，出征内容即将放量。"
+  "trend": "周年庆营销进入「福利+争议」双高热阶段：李小龙绝版是典型的稀缺性话题，两天累计上榜近8小时，官方零成本收获一波情怀传播；但古建海报AI痕迹翻车也说明文创联动的专业考据是硬门槛，好在官方响应速度够快。电竞侧热度向英雄联盟倾斜：德杯四强三韩围一中+S16出征双节点叠加，未来一周LPL内容密度极高。",
+  "action": "①今晚KPL两场赛果（JDG vs RW侠、狼队 vs LGD.NBW）及热搜词条；②德杯半决赛10/14 KT vs BFX赛果、10/15 WE vs BRO的LPL独苗舆情；③S16入围赛10/16洛杉矶开打，盯LPL队伍相关热搜与B站二路；④周年庆返场票选排名进展与共创之夜门票是否官宣售罄；⑤金铲铲大橘大利模式10/15 19:00开测的社媒反响。"
 }
