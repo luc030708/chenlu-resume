@@ -1,21 +1,48 @@
 {
-  "date": "2026-10-16",
-  "updatedAt": "2026-10-16 10:51",
-  "headline": "TES上单ZUIAN三签被拒、经理郭皓深夜长文回应引爆单日531分钟热搜；WE 3:2拒让二追三时隔4233天再进国际赛决赛；KPL直通四席落定：KSG/JDG/TTG/EDG.M。",
+  "date": "2026-10-17",
+  "updatedAt": "2026-10-17 10:51",
+  "headline": "AG正式锁定突围赛、大师组最后一席狼队WB二选一；S16入围赛KC两连胜差一步进瑞士轮、C9主场出局；今晚17:00德杯决赛WE vs BFX中韩争冠。",
   "items": [
     {
-      "game": "英雄联盟·TES战队（ZUIAN签证事件）",
+      "game": "KPL年度总决赛·擂台赛（AG落突围赛）",
       "heat": "高",
-      "event": "10/15上午TES首发上单ZUIAN第三次美国B签面签被拒，基本无缘S16瑞士轮；深夜经理郭皓发长文逐条回应：否认贪腐购房、称B签系赛事方统一要求（LPL所有俱乐部统一申请）、已转申P-1A运动员签证但如期参赛「只存在理论可能」。369临危受命顶上首发（休赛期超五个月未打正式比赛），教练Bobo同样被拒签。舆论焦点从「该怪谁」转向「为何一面被拒后没有预案」。ZUIAN为LPL三阵上单、冒泡赛对位TheShy多次单杀打出的世界赛名额，首次世界赛大概率全程缺席。",
-      "source": "https://post.smzdm.com/p/apqmxrwx/",
-      "hotSearchCheckedAt": "2026-10-16 10:51",
+      "event": "10/16生死战：重庆狼队3:1深圳DYG（四局总长61分钟，皖皖打野四杀翻盘），北京WB 3:0零封南通Hero——成都AG由此正式确认无缘大师组前四，3胜3负锁定突围赛（10/20-22广州，BO7单败），官博致歉后舆情持续发酵：一诺赛后舆论反转、经理姜亚斐回应偏袒质疑先后登热搜。大师组最后一席在狼队（4胜2负）与WB之间产生，10/18收官战见分晓；今日17:00 KSG vs LGD.NBW。突围赛门票已于10/16 12:00猫眼开售（128-318元）。",
+      "source": "https://post.smzdm.com/p/a9560007/",
+      "hotSearchCheckedAt": "2026-10-17 10:51",
       "hotSearches": [
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#TES经理回应ZUIAN签证问题#（当日累计上榜531分钟）",
-          "foundAt": "2026-10-16 10:51",
+          "keyword": "#狼队回应战胜DYG#（当日累计上榜209分钟）",
+          "foundAt": "2026-10-17 10:51",
+          "source": "https://weibo.zhaoyizhe.com/date/20261017/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#AG进入突围赛#（当日累计上榜86分钟）",
+          "foundAt": "2026-10-17 10:51",
+          "source": "https://weibo.zhaoyizhe.com/date/20261017/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#AG经理姜亚斐回应偏袒质疑#（当日累计上榜55分钟）",
+          "foundAt": "2026-10-17 10:51",
+          "source": "https://weibo.zhaoyizhe.com/date/20261017/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#一诺赛后舆论反转#（当日累计上榜40分钟）",
+          "foundAt": "2026-10-17 10:51",
           "source": "https://weibo.zhaoyizhe.com/date/20261016/",
           "screenshot": ""
         },
@@ -23,207 +50,45 @@
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#TES为ZUIAN办理P签#（当日累计上榜142分钟）",
-          "foundAt": "2026-10-16 10:51",
-          "source": "https://weibo.zhaoyizhe.com/date/20261015/",
+          "keyword": "#AG进入突围赛#（当日累计上榜4分钟）",
+          "foundAt": "2026-10-17 10:51",
+          "source": "https://weibo.zhaoyizhe.com/date/20261016/",
           "screenshot": ""
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#TES帮助ZUIAN申请P签#（当日累计上榜87分钟）",
-          "foundAt": "2026-10-16 10:51",
-          "source": "https://weibo.zhaoyizhe.com/date/20261015/",
+          "keyword": "#狼队对战DYG#（当日累计上榜3分钟）",
+          "foundAt": "2026-10-17 10:51",
+          "source": "https://weibo.zhaoyizhe.com/date/20261016/",
           "screenshot": ""
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#TES经理回应ZUIAN签证问题#（当日累计上榜7分钟）",
-          "foundAt": "2026-10-16 10:51",
-          "source": "https://weibo.zhaoyizhe.com/date/20261015/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#TES三次为ZUIAN办B签而非P签#（当日累计上榜1分钟）",
-          "foundAt": "2026-10-16 10:51",
-          "source": "https://weibo.zhaoyizhe.com/date/20261015/",
+          "keyword": "#AG超玩会队内责任争议#（当日累计上榜1分钟）",
+          "foundAt": "2026-10-17 10:51",
+          "source": "https://weibo.zhaoyizhe.com/date/20261016/",
           "screenshot": ""
         }
       ]
     },
     {
-      "game": "KPL年度总决赛·擂台赛（直通四席落定）",
+      "game": "英雄联盟·德玛西亚杯（决赛日：WE vs BFX）",
       "heat": "高",
-      "event": "10/15：上海EDG.M 3:2成都AG（决胜局17分半速推，小碎张飞MVP），EDG.M以4胜1负登顶精英组、锁定唯一精英组直通名额，与KSG、JDG、TTG会师淘汰赛；AG 2胜3负收官，官博致歉，能否直通需等10/18全部赛果（与狼队、WB争最后名额），一诺分均经济全场第一却陷状态争议。同晚广州TTG 3:2长沙TES.A锁定大师组前四——第二局小雪「苍」决胜团五连绝世破三高翻盘（#小雪苍决胜团五杀#），鹤辞达成KPL 1500助攻里程碑；TES.A 1胜4负落入突围赛。",
-      "source": "https://post.smzdm.com/p/ae6qnorz/",
-      "hotSearchCheckedAt": "2026-10-16 10:51",
+      "event": "今晚（10/17）17:00，北京智慧电竞赛事中心，2026德玛西亚杯国际邀请赛决赛：LPL独苗WE vs LCK劲旅BFX（BO5）。WE时隔4233天再进国际赛决赛，淘汰赛三轮全部打满五局（3:2 FLY、3:2 BRO）；BFX晋级之路连斩JDG、KT两位东道主与夺冠热门，打野Raptor包揽半决赛三局MVP。Cube赛前喊话Taeyoon「到此为止了」、WE教练称「BP做好应该3:0」，BFX则剑指国际赛两连冠。",
+      "source": "https://post.smzdm.com/p/a82p56q0/",
+      "hotSearchCheckedAt": "2026-10-17 10:51",
       "hotSearches": [
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#2026KPL年度总决赛#（当日累计上榜206分钟）",
-          "foundAt": "2026-10-16 10:51",
-          "source": "https://weibo.zhaoyizhe.com/date/20261015/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#TTG赛中语音五杀瞬间#（当日累计上榜200分钟）",
-          "foundAt": "2026-10-16 10:51",
-          "source": "https://weibo.zhaoyizhe.com/date/20261016/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#一诺状态#（当日累计上榜187分钟）",
-          "foundAt": "2026-10-16 10:51",
-          "source": "https://weibo.zhaoyizhe.com/date/20261015/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#TTG打法#（当日累计上榜135分钟）",
-          "foundAt": "2026-10-16 10:51",
-          "source": "https://weibo.zhaoyizhe.com/date/20261016/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#AG对战EDGM#（当日累计上榜123分钟）",
-          "foundAt": "2026-10-16 10:51",
-          "source": "https://weibo.zhaoyizhe.com/date/20261015/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#TTG战胜TES#（当日累计上榜100分钟）",
-          "foundAt": "2026-10-16 10:51",
-          "source": "https://weibo.zhaoyizhe.com/date/20261016/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#一诺状态#（当日累计上榜71分钟）",
-          "foundAt": "2026-10-16 10:51",
-          "source": "https://weibo.zhaoyizhe.com/date/20261016/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#TTG对战TES#（当日累计上榜53分钟）",
-          "foundAt": "2026-10-16 10:51",
-          "source": "https://weibo.zhaoyizhe.com/date/20261015/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#TTG打法#（当日累计上榜44分钟）",
-          "foundAt": "2026-10-16 10:51",
-          "source": "https://weibo.zhaoyizhe.com/date/20261015/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#AG BP#（当日累计上榜40分钟）",
-          "foundAt": "2026-10-16 10:51",
-          "source": "https://weibo.zhaoyizhe.com/date/20261015/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#EDGM战胜AG#（当日累计上榜26分钟）",
-          "foundAt": "2026-10-16 10:51",
-          "source": "https://weibo.zhaoyizhe.com/date/20261015/",
-          "screenshot": ""
-        }
-      ]
-    },
-    {
-      "game": "英雄联盟·德玛西亚杯（WE进决赛）",
-      "heat": "高",
-      "event": "10/15半决赛WE 3:2拒绝让二追三力克BRO：2:0领先被连追两局，决胜局Cube亚恒5-0-2拿POG、About小火龙叠满300层终结。这是WE时隔4233天（上次2015年IEM9卡托维兹）再进国际赛事决赛，也是LPL独苗保住主场决赛席位。Cube赛后喊话BFX射手Taeyoon「到此为止了」，WE教练称「BP做好打BFX应该3:0」。决赛10/17 17:00北京智慧电竞赛事中心，WE vs BFX。",
-      "source": "https://news.qq.com/rain/a/20261015A0DN5L00",
-      "hotSearchCheckedAt": "2026-10-16 10:51",
-      "hotSearches": [
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#WE BRO#（当日累计上榜144分钟）",
-          "foundAt": "2026-10-16 10:51",
-          "source": "https://weibo.zhaoyizhe.com/date/20261015/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#WE进决赛了#（当日累计上榜113分钟）",
-          "foundAt": "2026-10-16 10:51",
-          "source": "https://weibo.zhaoyizhe.com/date/20261015/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#WE对战BRO#（当日累计上榜74分钟）",
-          "foundAt": "2026-10-16 10:51",
-          "source": "https://weibo.zhaoyizhe.com/date/20261015/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#WE与BRO决胜局#（当日累计上榜60分钟）",
-          "foundAt": "2026-10-16 10:51",
-          "source": "https://weibo.zhaoyizhe.com/date/20261015/",
-          "screenshot": ""
-        },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
           "keyword": "#WE进决赛了#（当日累计上榜44分钟）",
-          "foundAt": "2026-10-16 10:51",
+          "foundAt": "2026-10-17 10:51",
           "source": "https://weibo.zhaoyizhe.com/date/20261016/",
-          "screenshot": ""
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#WE回应3比2胜BRO#（当日累计上榜8分钟）",
-          "foundAt": "2026-10-16 10:51",
-          "source": "https://weibo.zhaoyizhe.com/date/20261015/",
           "screenshot": ""
         },
         {
@@ -231,25 +96,43 @@
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
           "keyword": "#Cube希望用德杯安慰各位#（当日累计上榜5分钟）",
-          "foundAt": "2026-10-16 10:51",
+          "foundAt": "2026-10-17 10:51",
+          "source": "https://weibo.zhaoyizhe.com/date/20261016/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#WE回应3比2胜BRO#（当日累计上榜1分钟）",
+          "foundAt": "2026-10-17 10:51",
           "source": "https://weibo.zhaoyizhe.com/date/20261016/",
           "screenshot": ""
         }
       ]
     },
     {
-      "game": "英雄联盟S16全球总决赛（入围赛开打）",
+      "game": "英雄联盟S16全球总决赛（入围赛两日战罢）",
       "heat": "中",
-      "event": "S16于北京时间10/16凌晨2:00在美国正式开赛：入围赛10/16-19，C9、KC、MVK、FUR四队Bo5双败争夺最后一个瑞士轮名额，揭幕战KC对阵C9。瑞士轮10/24开打（LPL四队AL/BLG/TES/IG直进），首轮抽签10/19进行；B站官宣4K蓝光+独家二路转播。瑞士轮国内观赛时间为凌晨1点/4点档。",
-      "source": "https://post.smzdm.com/p/az8o3r3r/",
-      "hotSearchCheckedAt": "2026-10-16 10:51",
+      "event": "入围赛洛杉矶激战两日：首日KC 3:2逆转主场C9（C9首局20-1人机局、第四局赛点虐泉跳舞被翻盘成名场面）、SofM执教MVK 3:0横扫FUR（Chika AP大嘴4万+输出）；次日KC 3:0再胜MVK（Canna三局MVP全场最多）率先杀入入围决赛、距瑞士轮一胜之遥，C9则1:3不敌FUR成为本届世界赛首支出局队伍。10/18凌晨2:00 MVK vs FUR生死战，胜者与KC争夺唯一瑞士轮席位。瑞士轮10/24开打，LPL四队直进。",
+      "source": "https://news.zhibo8.com/game/2026-10-17/6ad2bf434f78anative.htm",
+      "hotSearchCheckedAt": "2026-10-17 10:51",
       "hotSearches": [
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#S16入围赛#（当日累计上榜54分钟）",
-          "foundAt": "2026-10-16 10:51",
+          "keyword": "#S16入围赛#（当日累计上榜61分钟）",
+          "foundAt": "2026-10-17 10:51",
+          "source": "https://weibo.zhaoyizhe.com/date/20261016/",
+          "screenshot": ""
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#S16入围赛首日赛果#（当日累计上榜24分钟）",
+          "foundAt": "2026-10-17 10:51",
           "source": "https://weibo.zhaoyizhe.com/date/20261016/",
           "screenshot": ""
         },
@@ -258,25 +141,25 @@
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
           "keyword": "#入围赛揭幕战KC对阵C9#（当日累计上榜7分钟）",
-          "foundAt": "2026-10-16 10:51",
+          "foundAt": "2026-10-17 10:51",
           "source": "https://weibo.zhaoyizhe.com/date/20261016/",
           "screenshot": ""
         }
       ]
     },
     {
-      "game": "王者荣耀·十一周年庆（返场票选高热）",
+      "game": "王者荣耀·十一周年庆（票选冲刺周）",
       "heat": "中",
-      "event": "周年庆返场皮肤票选进入白热化：#王者荣耀投票# 10/16单日累计上榜452分钟，貂蝉、孙尚香等候选皮肤衍生词条陆续登榜；前3名10/24-30返场、4-6名2027元旦奇幻商店。10/24登录福利（积分夺宝11抽+蔷薇之心25颗）与共创之夜（10/25深圳）进入倒计时，嘉年华暨KPL奇妙日10/24-25同周末举行。",
+      "event": "返场票选进入冲刺：#王者荣耀投票# 单日452分钟、#王昭君投票# 341分钟、#貂蝉投票# 13分钟，候选皮肤粉丝拉票大战白热化；前3名10/24-30返场。周年庆核心周临近：10/24登录送积分夺宝11抽+蔷薇之心25颗、盾山一塔千年免费领，共创之夜10/25 18:30深圳市体育中心（47位KPL选手+杨幂周深林俊杰等阵容），嘉年华暨KPL奇妙日10/24-25深圳国际会展中心——三大节点同周末叠加。",
       "source": "https://weibo.zhaoyizhe.com/date/20261016/",
-      "hotSearchCheckedAt": "2026-10-16 10:51",
+      "hotSearchCheckedAt": "2026-10-17 10:51",
       "hotSearches": [
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
           "keyword": "#王者荣耀投票#（当日累计上榜452分钟）",
-          "foundAt": "2026-10-16 10:51",
+          "foundAt": "2026-10-17 10:51",
           "source": "https://weibo.zhaoyizhe.com/date/20261016/",
           "screenshot": ""
         },
@@ -284,18 +167,18 @@
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#王者荣耀投票#（当日累计上榜92分钟）",
-          "foundAt": "2026-10-16 10:51",
-          "source": "https://weibo.zhaoyizhe.com/date/20261015/",
+          "keyword": "#王昭君投票#（当日累计上榜341分钟）",
+          "foundAt": "2026-10-17 10:51",
+          "source": "https://weibo.zhaoyizhe.com/date/20261016/",
           "screenshot": ""
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#王者荣耀貂蝉#（当日累计上榜2分钟）",
-          "foundAt": "2026-10-16 10:51",
-          "source": "https://weibo.zhaoyizhe.com/date/20261015/",
+          "keyword": "#貂蝉投票#（当日累计上榜13分钟）",
+          "foundAt": "2026-10-17 10:51",
+          "source": "https://weibo.zhaoyizhe.com/date/20261016/",
           "screenshot": ""
         },
         {
@@ -303,21 +186,29 @@
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
           "keyword": "#王者荣耀孙尚香#（当日累计上榜1分钟）",
-          "foundAt": "2026-10-16 10:51",
+          "foundAt": "2026-10-17 10:51",
           "source": "https://weibo.zhaoyizhe.com/date/20261016/",
           "screenshot": ""
         }
       ]
     },
     {
-      "game": "金铲铲之战（大橘大利测试中）",
+      "game": "金铲铲之战",
       "heat": "低",
-      "event": "新模式【大橘大利】玩家测试已于10/15 19:00开启（至11/3 23:00），卡片收集+策略构筑玩法进入实战检验期；宝库限时返场（至10/18）同步进行。新赛季「伊泽瑞尔的寻宝之旅」11/4正式上线。",
+      "event": "新模式【大橘大利】玩家测试进行中（10/15-11/3），卡片构筑玩法口碑发酵期；宝库限时返场10/18收官；新赛季「伊泽瑞尔的寻宝之旅」11/4上线（新增伊泽瑞尔、斯莫德等弈子）。",
       "source": "https://www.sina.cn/media/7504806444",
-      "hotSearchCheckedAt": "2026-10-16 10:51",
+      "hotSearchCheckedAt": "2026-10-17 10:51",
+      "hotSearches": []
+    },
+    {
+      "game": "逆水寒手游",
+      "heat": "低",
+      "event": "官网更新公告列表最新仍为9/23的4.1.4版本公告，今日无新公告；盗墓笔记联动（9/24-10/30）进入最后两周，新版本预告持续蹲守。",
+      "source": "https://h.163.com/news/update/",
+      "hotSearchCheckedAt": "2026-10-17 10:51",
       "hotSearches": []
     }
   ],
-  "trend": "S16未开打、签证先出圈：ZUIAN事件单日531分钟热搜说明「选手命运叙事」比赛程更能撬动大众情绪，LPL统一B签的行业做法被放到放大镜下，赛事方与联盟的保障机制将承受持续追问。KPL年总「精英组攻擂」剧本收官，EDG.M逆袭直通+一诺状态争议延续话题热度，AG的去向悬念被精确留到10/18。WE时隔4233天进决赛是老牌俱乐部情怀资产的一次集中兑现，决赛对BFX的中韩对抗叠加S16档期，本周末英雄联盟流量将达到年度峰值。",
-  "action": "①今日17:00 KPL擂台赛两场（狼队vs DYG、KSG vs Hero类收官卡位）与AG直通命运；②明早S16入围赛首日赛果（KC/C9等）；③10/17 17:00德杯决赛WE vs BFX的赛前口号战与赛果；④周年庆票选排名与共创之夜/嘉年华（10/24-25）最后的票务公告；⑤ZUIAN P签进展与TES出征动态；⑥逆水寒手游新公告继续蹲守。"
+  "trend": "KPL年总把「流量队的黄昏」剧本拉满：AG锁定突围赛叠加队内争议、经理回应，单日多条热搜说明老牌顶流的滑落比新王登基更具话题性；狼队与WB的最后一席之争把悬念精确保留到收官日。英雄联盟进入年度最密集周末：德杯决赛中韩对抗+S16入围赛欧美混战双线并行，C9虐泉被翻的名场面证明世界赛的话题产出从不依赖LPL队伍。王者周年庆票选演变为粉丝拉票持久战，王昭君词条341分钟显示中路顶流皮肤的动员力。",
+  "action": "①今晚17:00德杯决赛WE vs BFX赛果与赛后舆情（LPL能否主场捧杯）；②今晚KPL KSG vs LGD.NBW赛果、10/18收官战决定大师组最后席位；③10/18凌晨S16入围赛MVK vs FUR及入围决赛；④共创之夜/嘉年华下周末开幕前的最后一轮官宣与票务；⑤周年庆返场票选最终排名；⑥ZUIAN P签与TES出征瑞士轮（10/24）动态。"
 }
