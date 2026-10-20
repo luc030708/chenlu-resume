@@ -1,232 +1,142 @@
 {
-  "date": "2026-10-19",
-  "updatedAt": "2026-10-19 10:47",
-  "headline": "KPL收官夜EDG.M 3:1终结KSG十五小局连胜，KSG加赛1:0 JDG锁定大师组第一，突围赛对阵出炉（狼队-DYG/AG-TES.A/LGD.NBW-Hero）；S16入围赛KC 3:0 MVK夺最后门票，瑞士轮首轮抽签iG战GEN、TES遇HLE两组中韩大战引爆热搜；LOUD 3:1 VIT夺无畏契约上海全球冠军赛冠军。",
+  "date": "2026-10-20",
+  "updatedAt": "2026-10-20 10:47",
+  "headline": "S16瑞士轮首日赛程公布：10月24日凌晨1点iG揭幕战GEN、LPL四队承包前四场；王者周年庆返场票选定榜妲己6863万票断层第一、六款限定分两批返场；今晚18:00突围赛狼队vs DYG生死战；WBG官宣成为VCT CN唯一全新合作战队。",
   "items": [
-    {
-      "game": "王者荣耀KPL年度总决赛",
-      "heat": "高",
-      "event": "10月18日擂台赛收官日三场大戏：①上海EDG.M 3:1爆冷击败大师组头名KSG，终结其15小局连胜（小碎盾山G1 MVP、夏凌裴擒虎G4五连绝世，KSG无言关羽G3扳回一分），EDG.M以5胜1负精英组第一直通淘汰赛；②JDG 3:1战胜TES.A，与KSG积分、净胜局完全相同触发加赛；③BO1加赛KSG 1:0击败JDG（流浪海月MVP），锁定大师组第一、JDG二号种子。当晚突围赛选队仪式：狼队选DYG（10月20日18:00）、AG选TES.A（10月21日18:00）、LGD.NBW与Hero自动成对（10月22日18:00），BO7单败定生死；直通淘汰赛五队为KSG、JDG、TTG、WB、EDG.M。",
-      "source": "https://post.smzdm.com/p/arzrrxzz/",
-      "hotSearchCheckedAt": "2026-10-19 10:47",
-      "hotSearches": [
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#狼队选DYG#（当日累计上榜425分钟）",
-          "foundAt": "2026-10-19 10:47",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261019/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#2026KPL年总选队仪式#（当日累计上榜362分钟）",
-          "foundAt": "2026-10-19 10:47",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261019/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#KSG加赛战胜JDG#（当日累计上榜104分钟）",
-          "foundAt": "2026-10-19 10:47",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261019/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#KSG对战EDGM#（当日累计上榜85分钟）",
-          "foundAt": "2026-10-18 23:59",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261018/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#KSG和JDG加赛#（当日累计上榜81分钟）",
-          "foundAt": "2026-10-18 23:59",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261018/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#EDGM终结KSG连胜#（当日累计上榜46分钟）",
-          "foundAt": "2026-10-18 23:59",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261018/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#JDG KSG大师组加赛条件#（当日累计上榜31分钟）",
-          "foundAt": "2026-10-18 23:59",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261018/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#JDGKSG加赛#（当日累计上榜15分钟）",
-          "foundAt": "2026-10-18 23:59",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261018/"
-        }
-      ]
-    },
     {
       "game": "英雄联盟S16全球总决赛",
       "heat": "高",
-      "event": "10月19日凌晨入围赛决赛：LEC战队KC 3:0横扫LCP战队MVK，夺得最后一张瑞士轮门票。随后瑞士轮首轮抽签出炉：AL vs KC、BLG vs MKOI、TES vs HLE、iG vs GEN（后两场为中韩大战）、TL vs CFO、G2 vs DK、LOS vs T1、TSW vs LYON；瑞士轮将于北京时间10月24日凌晨1点开打。LPL四队已于10月18日出发赴美，TES出征照中ZUIAN现身（此前JackeyLove直播称其P签未过、赶不上首轮）；另有爆料称TES邀请JDG教练支援。",
-      "source": "https://www.163.com/dy/article/L9JCPTMS0511B8LM.html",
-      "hotSearchCheckedAt": "2026-10-19 10:47",
+      "event": "瑞士轮首日赛程公布（10月24日，北京时间）：01:00 GEN vs iG（揭幕战）、02:00 HLE vs TES、03:00 BLG vs MKOI、04:00 AL vs KC、05:00 G2 vs DK、06:00 TL vs CFO、07:00 LOS vs T1、08:00 TSW vs LYON——LPL四队承包前四场，首场凌晨1点开打被评价为「照顾LPL观众」。Ning认为iG打GEN「BO1真有机会」，刘青松调侃「LPL全胜」。另据Esports Charts，本届入围赛观众峰值102万，较2025年暴跌59.22%、为2019年后最低，缺少中韩队伍与北美时区是主因。",
+      "source": "https://www.163.com/dy/article/L9M06DTF0556DLOH.html",
+      "hotSearchCheckedAt": "2026-10-20 10:47",
       "hotSearches": [
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#S16抽签预测#（当日累计上榜295分钟）",
-          "foundAt": "2026-10-19 10:47",
+          "keyword": "#S16瑞士轮首日赛程#（当日累计上榜118分钟，仍在榜）",
+          "foundAt": "2026-10-20 10:47",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261020/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#LPL四队承包S16瑞士轮前四场#（当日累计上榜98分钟，仍在榜）",
+          "foundAt": "2026-10-20 10:47",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261020/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#S16瑞士轮赛程照顾LPL观众#（当日累计上榜78分钟，仍在榜）",
+          "foundAt": "2026-10-20 10:47",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261020/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#LPL四队抵达美国备战瑞士轮#（当日累计上榜1分钟）",
+          "foundAt": "2026-10-19 23:59",
           "screenshot": "",
           "source": "https://weibo.zhaoyizhe.com/date/20261019/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#iG抽到GEN#（当日累计上榜197分钟）",
-          "foundAt": "2026-10-19 10:47",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261019/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#S16瑞士轮首轮HLE抽到TES#（当日累计上榜154分钟）",
-          "foundAt": "2026-10-19 10:47",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261019/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#Zuian现身TES出征照#（当日累计上榜135分钟）",
-          "foundAt": "2026-10-18 23:59",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261018/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#米勒说iG和TES太难打了#（当日累计上榜114分钟）",
-          "foundAt": "2026-10-19 10:47",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261019/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#S16瑞士轮首轮AL复仇KC#（当日累计上榜107分钟）",
-          "foundAt": "2026-10-19 10:47",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261019/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#S16瑞士轮首轮两组中韩大战#（当日累计上榜88分钟）",
-          "foundAt": "2026-10-19 10:47",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261019/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#S16瑞士轮首轮抽签仪式#（当日累计上榜102分钟）",
-          "foundAt": "2026-10-18 23:59",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261018/"
         }
       ]
     },
     {
-      "game": "无畏契约上海全球冠军赛",
-      "heat": "中",
-      "event": "10月18日上海梅赛德斯-奔驰文化中心决赛：巴西战队LOUD 3:1击败Team Vitality，继2022伊斯坦布尔后时隔四年再度登顶，成为无畏契约全球冠军赛历史首支两度夺冠的俱乐部，独得100万美元冠军奖金。指挥Erde当选MVP——其母亲赛前因病去世，捧杯时全队高呼MVP，他将奖杯献给母亲；VIT屈居亚军，无缘成为首支CS Major+瓦双冠俱乐部。前一日（10月17日）王俊凯明星表演赛的破圈热度与本场决赛共同完成上海站收官。",
-      "source": "https://m.dongqiudi.com/article/6509308.html",
-      "hotSearchCheckedAt": "2026-10-19 10:47",
-      "hotSearches": [
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#LOUD战胜VIT夺冠#（当日累计上榜65分钟）",
-          "foundAt": "2026-10-18 23:59",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261018/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#Vitality#（当日累计上榜34分钟）",
-          "foundAt": "2026-10-18 23:59",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261018/"
-        }
-      ]
-    },
-    {
-      "game": "Team Vitality巴黎总部被洗劫",
-      "heat": "中",
-      "event": "10月17日法国多地骚乱期间，Vitality巴黎总部V.Hive遭蒙面人打砸洗劫：展示橱窗被砸，CS2分部9月刚夺得的StarLadder秋季赛冠军奖杯被抢走并在镜头前炫耀，电脑设备被盗、部分物品被当街焚毁；工作人员与粉丝均未受伤，V.Hive暂停营业。CEO Neo发文「眼睁睁看着自己的一部分化为灰烬」，强调抢劫与破坏不应成为抗争的一部分。从10月18日上海决赛失利到总部被抢，VIT在48小时内遭遇赛场与现实的连续重击。",
-      "source": "https://news.zhibo8.com/game/2026-10-18/6ad3c8c87d9ebnative.htm",
-      "hotSearchCheckedAt": "2026-10-19 10:47",
-      "hotSearches": [
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#电竞豪门巴黎总部被洗劫#（当日累计上榜21分钟）",
-          "foundAt": "2026-10-19 10:47",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261019/"
-        }
-      ]
+      "game": "王者荣耀KPL年度总决赛突围赛",
+      "heat": "高",
+      "event": "突围赛今晚开打，BO7单败定生死：10月20日18:00重庆狼队 vs 深圳DYG（狼队选队仪式首选DYG，DYG放话「鱼崽们突围赛加油」）；10月21日18:00成都AG超玩会 vs 长沙TES.A；10月22日18:00杭州LGD.NBW vs 南通Hero久竞。两届年总冠军AG与狼队同落突围赛，三场胜者晋级10月27日开打的淘汰赛。昨晚选队仪式词条#狼队选DYG#在榜425分钟、#2026KPL年总选队仪式#362分钟，今日赛前暂无可核验新上榜词条。",
+      "source": "https://bbs.hupu.com/643062195.html",
+      "hotSearchCheckedAt": "2026-10-20 10:47",
+      "hotSearches": []
     },
     {
       "game": "王者荣耀周年庆",
+      "heat": "中",
+      "event": "周年庆返场票选10月18日24点收官、10月19日定榜公布：妲己-愿照·众生和以68,629,002票断层第一，司空震-愿照·山河定43,168,510票第二、西施-续相思41,061,634票第三，三款将于10月24-30日直售返场；孙策-乘龙·淬吴钩（41,041,877票，与西施仅差约2万票）、云缨-鹤归松栖、澜-愿照·九州拓分列四至六名，进入2027年元旦奇幻商店返场。前六名中无射手与辅助英雄引发讨论。10月24日超级节点还将上线登录福利（积分夺宝11抽、盾山-一塔千年传说皮肤免费兑换等）。",
+      "source": "https://www.sina.cn/news/detail/5355685124768781.html",
+      "hotSearchCheckedAt": "2026-10-20 10:47",
+      "hotSearches": [
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#王者六款限定皮肤返场#（当日累计上榜11分钟）",
+          "foundAt": "2026-10-19 23:59",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261019/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#王者2026周年庆有奖征集活动#（当日累计上榜29分钟）",
+          "foundAt": "2026-10-19 23:59",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261019/"
+        }
+      ]
+    },
+    {
+      "game": "WBG官宣加入VCT CN联赛",
+      "heat": "中",
+      "event": "10月19日VCT CN 2027+赛季八支合作伙伴队伍官宣：EDG、BLG、JDG、AG、TE、XLG、TYLOO、WBG；微博电竞旗下WBG成为本轮唯一新增的全新合作战队，正式组建无畏契约分部。2027赛季起VCT CN合作席位缩减至8支，其余队伍需通过晋升赛争夺临时名额，联赛格局迎来洗牌。",
+      "source": "https://m.hupu.com/bbs/643071503.html",
+      "hotSearchCheckedAt": "2026-10-20 10:47",
+      "hotSearches": [
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#WBG官宣加入VCTCN联赛#（当日累计上榜33分钟）",
+          "foundAt": "2026-10-19 23:59",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261019/"
+        }
+      ]
+    },
+    {
+      "game": "未成年人游戏充值退款舆情",
       "heat": "低",
-      "event": "今日为年总休赛日，流量向明晚（10月20日）开打的BO7突围赛集中；周年庆超级节点周临近：10月24日登录福利+盾山一塔千年免费领，共创之夜10月25日18:30深圳，嘉年华暨KPL奇妙日10月24-25日深圳国际会展中心。返场票选结果预计本周公布，前3名10月24-30日返场。",
-      "source": "https://pvp.qq.com/cp/kpl2025/",
-      "hotSearchCheckedAt": "2026-10-19 10:47",
-      "hotSearches": []
+      "event": "10月19日两起未成年人充值退款话题同日上榜：①西安雁塔法院案例——游戏公司调解约定退款15,695.4元，操作失误实际转账49,323元（多退33,627.6元），家长拒不返还并在庭审中提交AI伪造通话录音被当庭训诫；②湖北农女士9岁儿子在网易《坦克世界闪击战》6天充值15,360元，网易以「账号为成年人账号、扣款有信息提醒、无法证明是孩子充值」为由只同意退80%，家长坚持全额后退款通道关闭。未成年人退费举证难、比例争议成为行业合规焦点。",
+      "source": "https://news.bjd.com.cn/2026/10/19/12000612.shtml",
+      "hotSearchCheckedAt": "2026-10-20 10:47",
+      "hotSearches": [
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#游戏平台退款多打3万家长拒不返还#（当日累计上榜100分钟）",
+          "foundAt": "2026-10-19 23:59",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261019/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#9岁孩子充网易游戏1.5万没法全额退#（当日累计上榜26分钟）",
+          "foundAt": "2026-10-19 23:59",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261019/"
+        }
+      ]
     },
     {
       "game": "逆水寒手游",
       "heat": "低",
-      "event": "官网公告列表最新仍为9月23日4.1.4版本公告，今日无新公告；盗墓笔记联动10月30日收官，新版本预热窗口临近。另：金铲铲之战宝库返场已于10月18日收官，「大橘大利」测试持续至11月3日。",
+      "event": "官网公告列表最新仍为9月23日4.1.4版本公告，今日无新公告；盗墓笔记联动10月30日收官，新版本预告窗口临近。另：金铲铲之战「大橘大利」测试持续至11月3日。",
       "source": "https://h.163.com/news/update/",
-      "hotSearchCheckedAt": "2026-10-19 10:47",
+      "hotSearchCheckedAt": "2026-10-20 10:47",
       "hotSearches": []
     }
   ],
-  "trend": "收官夜把「纪录终结+同分加赛+选队仪式」三重剧本叠满：EDG.M爆冷让KSG十五连胜作古，BO1加赛与狼队选DYG、AG选TES.A的挑对手环节连出梗，突围赛未打先热。S16抽签制造出iG vs GEN、TES vs HLE两组中韩大战，词条未开赛已累计数百分钟，AL vs KC还带着「复仇」叙事，24日凌晨揭幕战流量可期。VIT的48小时从决赛失利到巴黎总部被抢，为行业敲响俱乐部线下资产安全的警钟。",
-  "action": "①明晚（10月20日）18:00突围赛首战狼队 vs DYG，盯赛果与赛后词条；②10月21日AG vs TES.A、10月22日LGD.NBW vs Hero，两场BO7单败；③S16瑞士轮10月24日凌晨1点开打，重点AL vs KC、iG vs GEN、TES vs HLE；④周年庆10月24日登录福利落地、共创之夜（10/25）官宣节奏与返场票选结果；⑤Vitality事件后续（奖杯追回、俱乐部声明）；⑥继续蹲守逆水寒手游新版本公告。"
+  "trend": "S16进入赛前预热高峰：首日赛程把LPL四队排进前四场、凌晨1点开打，官方对中文流量的倾斜明显；但入围赛收视峰值暴跌59%也说明缺少赛区头部队伍的赛程难以聚拢观众。王者周年庆进入收割周：票选定榜、返场直售、登录福利将在10月24日集中落地，妲己6863万票印证国民度基本盘。未成年人充值退款一日两条热搜，举证难与比例争议仍是行业合规的长期痛点。",
+  "action": "①今晚18:00突围赛狼队 vs DYG赛果与赛后词条；②明晚18:00 AG vs TES.A；③10月24日凌晨1点起盯S16瑞士轮首日四场LPL比赛（iG-GEN、TES-HLE、BLG-MKOI、AL-KC）；④10月24日王者周年庆福利落地与返场直售开启、共创之夜（10/25）官宣；⑤突围赛第三场LGD.NBW vs Hero（10/22）；⑥继续蹲守逆水寒手游新版本公告。"
 }
