@@ -1,97 +1,89 @@
 {
   "date": "2026-10-21",
-  "updatedAt": "2026-10-21 06:27 北京时间",
-  "headline": "王者周年庆进入全阵容预热，KPL突围赛与三国杀SGL继续用赛程节点拉动直播关注。",
+  "updatedAt": "2026-10-21 10:46",
+  "headline": "突围赛首战重庆狼队4:1击败深圳DYG晋级年总淘汰赛、DYG止步，今晚18:00 AG vs TES.A第二场生死战；S16进入三天倒计时，iG发布全球总决赛出征片；王者周年庆超级节点周进入最后预热。",
   "items": [
     {
-      "game": "王者荣耀",
+      "game": "王者荣耀KPL年度总决赛突围赛",
       "heat": "高",
-      "event": "官方于10月20日发布2026周年庆共创之夜全阵容海报，并明确10月25日19:00锁定官方直播间、抽全英雄全皮肤；10月24日至25日深圳嘉年华暨KPL奇妙日同步承接线下到场。热度判定为高：明星阵容、直播福利和线下周年庆在最近24小时形成同一转化链路。",
-      "source": "https://www.sina.cn/news/detail/5352454654002999.html",
-      "officialPosts": [
-        {"platform":"微博","title":"2026共创之夜全阵容海报与直播福利","url":"https://www.sina.cn/news/detail/5352454654002999.html","publishedAt":"2026-10-20 14:00","foundAt":"2026-10-21 06:27 北京时间","status":"已核验"},
-        {"platform":"微博","title":"共创之夜官方账号公布杨幂等阵容及10月25日直播","url":"https://www.sina.cn/news/detail/5352454654002999.html","publishedAt":"2026-10-20 14:26","foundAt":"2026-10-21 06:27 北京时间","status":"已核验"},
-        {"platform":"抖音","title":"公开页面未取得可核验的对应官方单帖","url":"","publishedAt":"","foundAt":"2026-10-21 06:27 北京时间","status":"不可访问"},
-        {"platform":"小红书","title":"公开页面跳转登录，无法核验官方单帖","url":"","publishedAt":"","foundAt":"2026-10-21 06:27 北京时间","status":"不可访问"},
-        {"platform":"B站/公众号/TapTap/视频号","title":"过去24小时未发现可直接核验的同事件官方原帖","url":"","publishedAt":"","foundAt":"2026-10-21 06:27 北京时间","status":"未发现"}
-      ],
-      "offlineActions": [
-        {"title":"2026周年庆嘉年华暨KPL奇妙日","city":"深圳","venue":"深圳国际会展中心1号馆、2号馆及南广场","startAt":"2026-10-24","endAt":"2026-10-25","status":"已核验","source":"https://www.sina.cn/news/detail/5352454654002999.html"},
-        {"title":"2026周年庆共创之夜","city":"深圳","venue":"深圳市体育中心体育馆（主馆）","startAt":"2026-10-25 19:00","endAt":"2026-10-25","status":"已核验","source":"https://www.sina.cn/news/detail/5352454654002999.html"}
-      ],
-      "hotSearchCheckedAt": "2026-10-21 06:27 北京时间",
-      "hotSearches": []
+      "event": "10月20日晚突围赛首战（BO7单败）：重庆狼队4:1战胜深圳DYG，锁定10月27日长沙淘汰赛席位，DYG遗憾止步年总。DYG首局由钎城莱西奥拿下MVP先声夺人，狼队随后连下四局终结比赛，道崽上演一局双四杀；官方微博话题#狼队晋级年总淘汰赛##道崽一局双四杀##DYG年总遗憾止步#同步发酵。突围赛第二场今晚18:00成都AG超玩会 vs 长沙TES.A，10月22日18:00杭州LGD.NBW vs 南通Hero久竞。",
+      "source": "https://post.smzdm.com/p/a3mx00d5/",
+      "hotSearchCheckedAt": "2026-10-21 10:46",
+      "hotSearches": [
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#狼队对战DYG#（当日累计上榜103分钟）",
+          "foundAt": "2026-10-20 23:59",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261020/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#狼队年总突围赛首发名单#（当日累计上榜11分钟）",
+          "foundAt": "2026-10-20 23:59",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261020/"
+        }
+      ]
+    },
+    {
+      "game": "英雄联盟S16全球总决赛",
+      "heat": "中",
+      "event": "瑞士轮三天倒计时：LPL四队已抵达美国备战，iG于10月20日发布全球总决赛出征片。10月24日凌晨（北京时间）首日赛程：01:00 GEN vs iG、02:00 HLE vs TES、03:00 BLG vs MKOI、04:00 AL vs KC，LPL四队承包前四场。",
+      "source": "https://weibo.zhaoyizhe.com/date/20261020/",
+      "hotSearchCheckedAt": "2026-10-21 10:46",
+      "hotSearches": [
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#iG全球总决赛出征片#（当日累计上榜13分钟）",
+          "foundAt": "2026-10-20 23:59",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261020/"
+        }
+      ]
+    },
+    {
+      "game": "王者荣耀周年庆",
+      "heat": "中",
+      "event": "超级节点周进入最后预热：共创之夜已定档10月25日18:30深圳市体育中心体育馆（阵容10月10日官宣，线上直播19:00开启），嘉年华暨KPL十周年奇妙日10月24-25日深圳国际会展中心举行；游戏内10月24日开启登录福利（积分夺宝11抽、盾山-一塔千年传说皮肤免费兑换）、票选前三名限定皮肤直售返场。KPL官方推出一诺「KPL年度记忆人物」专题片为年总与周年庆双节点造势，昨日#王者荣耀#泛词条在榜109分钟。",
+      "source": "https://www.taptap.cn/moment/858520137077098019",
+      "hotSearchCheckedAt": "2026-10-21 10:46",
+      "hotSearches": [
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#王者荣耀#（泛词条，当日累计上榜109分钟）",
+          "foundAt": "2026-10-20 23:59",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261020/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#一诺KPL年度记忆人物专题片#（当日累计上榜7分钟）",
+          "foundAt": "2026-10-20 23:59",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261020/"
+        }
+      ]
     },
     {
       "game": "逆水寒手游",
       "heat": "低",
-      "event": "过去24小时暂无经核验的新营销事件；官网更新页、TapTap官方论坛及可访问微博页面未发现新版本、联动、福利或线下官宣。热度判定为低：未形成新的传播触点。",
+      "event": "官网公告列表最新仍为9月23日4.1.4版本公告，今日无新公告；盗墓笔记联动进入收官倒计时（10月30日结束），其后衔接新版本的窗口临近。另：金铲铲之战「大橘大利」测试持续至11月3日。",
       "source": "https://h.163.com/news/update/",
-      "officialPosts": [
-        {"platform":"官网","title":"逆水寒手游更新公告列表（本轮无新公告）","url":"https://h.163.com/news/update/","publishedAt":"","foundAt":"2026-10-21 06:27 北京时间","status":"已核验"},
-        {"platform":"TapTap","title":"官方论坛未发现最近24小时新营销内容","url":"https://www.taptap.cn/app/191385/topic?type=official","publishedAt":"","foundAt":"2026-10-21 06:27 北京时间","status":"已核验"},
-        {"platform":"微博/抖音/小红书/公众号/B站/视频号","title":"部分平台受登录或反爬限制，未取得可核验新原帖","url":"","publishedAt":"","foundAt":"2026-10-21 06:27 北京时间","status":"不可访问"}
-      ],
-      "offlineActions": [{"title":"未发现经核验的新线下动作","city":"","venue":"","startAt":"","endAt":"","status":"未发现","source":""}],
-      "hotSearchCheckedAt": "2026-10-21 06:27 北京时间",
-      "hotSearches": []
-    },
-    {
-      "game": "金铲铲之战",
-      "heat": "中",
-      "event": "公开赛秋季赛64进32阶段已于10月18日结束，官方直播间继续预告10月29日起32进16；过去24小时暂无经核验的新独立营销事件。热度判定为中：赛事仍处承接期，但当天新增传播信号有限。",
-      "source": "https://www.huya.com/660579",
-      "officialPosts": [
-        {"platform":"虎牙直播","title":"金铲铲之战赛事官方直播间及全国赛后续赛程","url":"https://www.huya.com/660579","publishedAt":"2026-10-15至2026-11-08","foundAt":"2026-10-21 06:27 北京时间","status":"已核验"},
-        {"platform":"微博","title":"公开赛秋季赛64进32预告与赛事承接","url":"https://www.sina.cn/news/detail/5345623408379561.html","publishedAt":"2026-09-21 16:30","foundAt":"2026-10-21 06:27 北京时间","status":"已核验"},
-        {"platform":"抖音/小红书/B站/TapTap/公众号/视频号","title":"过去24小时未取得可直接访问的新官方单帖；小红书受登录限制","url":"","publishedAt":"","foundAt":"2026-10-21 06:27 北京时间","status":"不可访问"}
-      ],
-      "offlineActions": [{"title":"全国赛线下半决赛预告","city":"","venue":"未公布","startAt":"2026-11-06","endAt":"2026-11-08","status":"已核验","source":"https://www.huya.com/660579"}],
-      "hotSearchCheckedAt": "2026-10-21 06:27 北京时间",
-      "hotSearches": []
-    },
-    {
-      "game": "三国杀手游",
-      "heat": "中",
-      "event": "SGL移动版第三赛段正赛与10月17日至23日霜降活动继续运行，覆盖赛事观看、每日登录、虎牢关、梦之回廊和返场池；过去24小时官网未出现新的独立公告。热度判定为中：赛事和节气活动仍在促活期，但新话题有限。",
-      "source": "https://www.sanguosha.cn/index.php/pc/news-detail-2405.html",
-      "officialPosts": [
-        {"platform":"官网","title":"2026 SGL移动版第三赛段正赛","url":"https://www.sanguosha.cn/index.php/pc/news-detail-2405.html","publishedAt":"2026-10-16 12:00","foundAt":"2026-10-21 06:27 北京时间","status":"已核验"},
-        {"platform":"官网","title":"10月17日至23日霜降活动","url":"https://www.sanguosha.cn/index.php/pc/news-detail-2406.html","publishedAt":"2026-10-16 17:30","foundAt":"2026-10-21 06:27 北京时间","status":"已核验"},
-        {"platform":"微博/抖音/小红书/B站/公众号/TapTap/视频号","title":"未取得可直接访问的对应官方新原帖；部分平台受登录或反爬限制","url":"","publishedAt":"","foundAt":"2026-10-21 06:27 北京时间","status":"不可访问"}
-      ],
-      "offlineActions": [{"title":"SGL第三赛段正赛；未发现经核验的线下场馆信息","city":"","venue":"","startAt":"2026-10-17","endAt":"","status":"未发现","source":"https://www.sanguosha.cn/index.php/pc/news-detail-2405.html"}],
-      "hotSearchCheckedAt": "2026-10-21 06:27 北京时间",
-      "hotSearches": []
-    },
-    {
-      "game": "KPL年度总决赛",
-      "heat": "高",
-      "event": "年度总决赛突围赛于10月20日至22日在广州进行，阶段采用生死战集中制造晋级话题，并与10月24日至25日深圳KPL奇妙日衔接。热度判定为高：线下赛事、票务与周年庆内容形成连续节点。",
-      "source": "https://sina.cn/news/detail/5345223271776753.html",
-      "officialPosts": [
-        {"platform":"微博","title":"KPL年度总决赛广州站突围赛售票指南","url":"https://sina.cn/news/detail/5345223271776753.html","publishedAt":"2026-09-20 14:00","foundAt":"2026-10-21 06:27 北京时间","status":"已核验"},
-        {"platform":"微博/抖音/小红书/B站/直播平台","title":"未取得可直接访问的10月20日赛果官方单帖","url":"","publishedAt":"","foundAt":"2026-10-21 06:27 北京时间","status":"不可访问"}
-      ],
-      "offlineActions": [{"title":"2026 KPL年度总决赛突围赛","city":"广州","venue":"广州体育馆2号馆","startAt":"2026-10-20","endAt":"2026-10-22","status":"已核验","source":"https://sina.cn/news/detail/5345223271776753.html"}],
-      "hotSearchCheckedAt": "2026-10-21 06:27 北京时间",
-      "hotSearches": []
-    },
-    {
-      "game": "英雄联盟S16（行业节点）",
-      "heat": "中",
-      "event": "全球总决赛入围赛结束后，传播重心转向10月24日开启的瑞士轮与LPL四队首轮对阵；最近24小时未核验到新的中国市场独立营销动作。热度判定为中：赛事进入阶段间歇，但抽签与首轮预热仍具关注度。",
-      "source": "https://weibo.com/2/detail/comos%3Aniviksc7981436",
-      "officialPosts": [
-        {"platform":"B站","title":"2026全球总决赛主题曲《以我之名》官方MV","url":"https://www.bilibili.com/video/BV1uxp46SEz9/","publishedAt":"2026-10-09","foundAt":"2026-10-21 06:27 北京时间","status":"已核验"},
-        {"platform":"微博","title":"S16全球总决赛赛程与场馆信息","url":"https://weibo.com/2/detail/comos%3Aniviksc7981436","publishedAt":"2026-10-16","foundAt":"2026-10-21 06:27 北京时间","status":"已核验"},
-        {"platform":"抖音/小红书/公众号/视频号","title":"过去24小时未取得可核验的新官方原帖","url":"","publishedAt":"","foundAt":"2026-10-21 06:27 北京时间","status":"未发现"}
-      ],
-      "offlineActions": [{"title":"S16瑞士轮及淘汰赛","city":"艾伦市（美国得州）","venue":"Credit Union of Texas Event Center","startAt":"2026-10-24","endAt":"2026-11-09","status":"已核验","source":"https://weibo.com/2/detail/comos%3Aniviksc7981436"}],
-      "hotSearchCheckedAt": "2026-10-21 06:27 北京时间",
+      "hotSearchCheckedAt": "2026-10-21 10:46",
       "hotSearches": []
     }
   ],
-  "trend": "今日主流营销继续围绕“周年庆阵容释出＋电竞赛程承接”：王者用明星海报、直播抽奖和深圳线下双场景集中转化，KPL与SGL维持赛事讨论，其余重点游戏新增信号偏弱。",
-  "action": "围绕王者全阵容海报拆出嘉宾、直播福利、到场攻略三组短内容，并连续追踪10月24日至25日深圳现场的排队、打卡、舞台和UGC扩散。"
+  "trend": "突围赛首日验证了「挑对手」策略的合理性：狼队4:1轻取DYG，但首局失守也提醒BO7单败没有真正的软柿子；今晚AG vs TES.A的关注度将超过首战——AG若出局将是年总史上最大冷门。S16营销节奏开始升温，iG出征片打头阵，24日凌晨揭幕战恰逢周六、叠加周年庆，是本周流量最密集的48小时。周年庆方面官方用一诺专题片等内容铺垫情绪，把KPL十周年与游戏周年庆的「双庆联动」做实。",
+  "action": "①今晚18:00 AG vs TES.A赛果与赛后词条（重点盯AG相关）；②明晚18:00 LGD.NBW vs Hero突围赛收官；③10月24日凌晨1点起S16瑞士轮首日四场LPL比赛；④10月24日王者周年庆福利落地、返场直售开启与嘉年华暨KPL奇妙日开幕；⑤10月25日18:30共创之夜直播及首曝新料；⑥继续蹲守逆水寒手游新版本公告。"
 }
