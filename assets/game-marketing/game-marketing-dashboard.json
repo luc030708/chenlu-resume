@@ -1,89 +1,133 @@
 {
-  "date": "2026-10-21",
-  "updatedAt": "2026-10-21 10:46",
-  "headline": "突围赛首战重庆狼队4:1击败深圳DYG晋级年总淘汰赛、DYG止步，今晚18:00 AG vs TES.A第二场生死战；S16进入三天倒计时，iG发布全球总决赛出征片；王者周年庆超级节点周进入最后预热。",
+  "date": "2026-10-22",
+  "updatedAt": "2026-10-22 10:50",
+  "headline": "KPL 年度总决赛突围赛爆冷：长沙TES.A 4:2 翻盘成都AG，两届年总冠军止步引爆全网（#AG 退役# 单日累计上榜630分钟）；今晚18:00 LGD.NBW vs Hero 决出最后一个淘汰赛席位；S16 瑞士轮两天后开打、HLE 婉拒 TES 换队服成梗；王者周年庆超级节点周明日开启。",
   "items": [
     {
-      "game": "王者荣耀KPL年度总决赛突围赛",
+      "game": "KPL 王者荣耀年度总决赛突围赛",
       "heat": "高",
-      "event": "10月20日晚突围赛首战（BO7单败）：重庆狼队4:1战胜深圳DYG，锁定10月27日长沙淘汰赛席位，DYG遗憾止步年总。DYG首局由钎城莱西奥拿下MVP先声夺人，狼队随后连下四局终结比赛，道崽上演一局双四杀；官方微博话题#狼队晋级年总淘汰赛##道崽一局双四杀##DYG年总遗憾止步#同步发酵。突围赛第二场今晚18:00成都AG超玩会 vs 长沙TES.A，10月22日18:00杭州LGD.NBW vs 南通Hero久竞。",
-      "source": "https://post.smzdm.com/p/a3mx00d5/",
-      "hotSearchCheckedAt": "2026-10-21 10:46",
+      "event": "10/21 晚突围赛第二场 BO7，长沙TES.A 4:2 翻盘成都AG超玩会，AG 止步突围赛、赛季结束。AG 轩染关羽 G4 一度扳成 2:2；TES.A 各局 MVP：G2 七安琪拉、G3 书源云缨、G5 无幻狂铁、G6 七不知火舞。七赛后放话「长沙滔搏就该去长沙」（淘汰赛 10/27 落地长沙）；钟意与长生赛后拥抱、帆帆下场抹眼泪等画面刷屏；一诺状态未稳、五人组解散传闻发酵，老板菲姐直播回应「五人组不可能（解散）」。今晚 10/22 18:00 突围赛收官战杭州LGD.NBW vs 南通Hero久竞（BO7 单败）决出最后席位；淘汰赛已确定狼队、TES.A 及直通五队（KSG/JDG/TTG/WB/EDG.M）。B站二路解说/集锦播放量持续上涨（数十万次级），未达爆款线不单独收录。",
+      "source": "https://post.smzdm.com/p/a6zpz88z/",
+      "hotSearchCheckedAt": "2026-10-22 10:50",
       "hotSearches": [
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#狼队对战DYG#（当日累计上榜103分钟）",
-          "foundAt": "2026-10-20 23:59",
+          "keyword": "#AG年总止步突围赛#（10/21 上榜143分钟、10/22 上午累计41分钟）",
+          "foundAt": "2026-10-22 10:50",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261020/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261021/"
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#狼队年总突围赛首发名单#（当日累计上榜11分钟）",
-          "foundAt": "2026-10-20 23:59",
+          "keyword": "#AG 退役#（10/21 上榜62分钟、10/22 上午累计630分钟）",
+          "foundAt": "2026-10-22 10:50",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261020/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261022/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#长生 AG#（10/22 上午累计598分钟）",
+          "foundAt": "2026-10-22 10:50",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261022/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#一诺状态#（10/21 上榜135分钟、10/22 上午累计220分钟）",
+          "foundAt": "2026-10-22 10:50",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261022/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#滔搏翻盘AG#（10/21 上榜50分钟）",
+          "foundAt": "2026-10-22 10:50",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261021/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#AG告别年总#（10/21 上榜44分钟）",
+          "foundAt": "2026-10-22 10:50",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261021/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#王者年度总决赛#（10/22 上午累计84分钟）",
+          "foundAt": "2026-10-22 10:50",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261022/"
         }
       ]
     },
     {
-      "game": "英雄联盟S16全球总决赛",
+      "game": "英雄联盟 S16 全球总决赛",
       "heat": "中",
-      "event": "瑞士轮三天倒计时：LPL四队已抵达美国备战，iG于10月20日发布全球总决赛出征片。10月24日凌晨（北京时间）首日赛程：01:00 GEN vs iG、02:00 HLE vs TES、03:00 BLG vs MKOI、04:00 AL vs KC，LPL四队承包前四场。",
-      "source": "https://weibo.zhaoyizhe.com/date/20261020/",
-      "hotSearchCheckedAt": "2026-10-21 10:46",
+      "event": "S16 瑞士轮 10/24 凌晨1点开打，倒计时 2 天，首日 LPL 四队出战：GEN vs iG、HLE vs TES、BLG vs MKOI、AL vs KC。赛前周边梗出圈：HLE 婉拒与 TES 交换队服（理由「没有带多余的」），网友玩梗 Zhuo 与 Zeus 未能同框，#HLE婉拒TES# 今晨登上热搜。TES 上单 ZUIAN 签证三拒无缘出征、369 火线回归，出征大名单仍列 ZUIAN。",
+      "source": "https://www.sina.cn/news/detail/5356572646841589.html",
+      "hotSearchCheckedAt": "2026-10-22 10:50",
       "hotSearches": [
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#iG全球总决赛出征片#（当日累计上榜13分钟）",
-          "foundAt": "2026-10-20 23:59",
+          "keyword": "#HLE婉拒TES#（10/22 上午累计126分钟）",
+          "foundAt": "2026-10-22 10:50",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261020/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261022/"
         }
       ]
     },
     {
-      "game": "王者荣耀周年庆",
+      "game": "王者荣耀（周年庆超级节点周）",
       "heat": "中",
-      "event": "超级节点周进入最后预热：共创之夜已定档10月25日18:30深圳市体育中心体育馆（阵容10月10日官宣，线上直播19:00开启），嘉年华暨KPL十周年奇妙日10月24-25日深圳国际会展中心举行；游戏内10月24日开启登录福利（积分夺宝11抽、盾山-一塔千年传说皮肤免费兑换）、票选前三名限定皮肤直售返场。KPL官方推出一诺「KPL年度记忆人物」专题片为年总与周年庆双节点造势，昨日#王者荣耀#泛词条在榜109分钟。",
+      "event": "周年庆超级节点周明日开启：10/24 游戏内福利落地（登录送积分夺宝11抽、盾山-一塔千年免费兑换、票选前三妲己/司空震/西施直售返场 10/24-30）；嘉年华暨 KPL 奇妙日 10/24-25 深圳国际会展中心；共创之夜 10/25 18:30 深圳市体育中心（19:00 直播）。今日暂无新官宣，词条热度由 KPL 突围赛承接。",
       "source": "https://www.taptap.cn/moment/858520137077098019",
-      "hotSearchCheckedAt": "2026-10-21 10:46",
+      "hotSearchCheckedAt": "2026-10-22 10:50",
+      "hotSearches": []
+    },
+    {
+      "game": "原神",
+      "heat": "低",
+      "event": "10/21 开启「无忧无虑大雪仗」活动（10/21 10:00–11/2 03:59，冒险等阶≥20）；7.2 版本「坏灭肇始之时」前瞻特别节目预告活动 10/21–10/27 进行中。#原神# 泛词条昨日上榜150分钟，属常态社区热度。",
+      "source": "https://weibo.com/p/100808fc439dedbb06ca5fd858848e521b8716",
+      "hotSearchCheckedAt": "2026-10-22 10:50",
       "hotSearches": [
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#王者荣耀#（泛词条，当日累计上榜109分钟）",
-          "foundAt": "2026-10-20 23:59",
+          "keyword": "#原神#（10/21 上榜150分钟，泛词条）",
+          "foundAt": "2026-10-22 10:50",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261020/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#一诺KPL年度记忆人物专题片#（当日累计上榜7分钟）",
-          "foundAt": "2026-10-20 23:59",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261020/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261021/"
         }
       ]
     },
     {
       "game": "逆水寒手游",
       "heat": "低",
-      "event": "官网公告列表最新仍为9月23日4.1.4版本公告，今日无新公告；盗墓笔记联动进入收官倒计时（10月30日结束），其后衔接新版本的窗口临近。另：金铲铲之战「大橘大利」测试持续至11月3日。",
+      "event": "官网公告列表最新仍为 9/23 的 4.1.4 版本公告，今日无新公告；盗墓笔记联动 10/30 收官倒计时。金铲铲之战「大橘大利」测试持续至 11/3，亦无新节点。",
       "source": "https://h.163.com/news/update/",
-      "hotSearchCheckedAt": "2026-10-21 10:46",
+      "hotSearchCheckedAt": "2026-10-22 10:50",
       "hotSearches": []
     }
   ],
-  "trend": "突围赛首日验证了「挑对手」策略的合理性：狼队4:1轻取DYG，但首局失守也提醒BO7单败没有真正的软柿子；今晚AG vs TES.A的关注度将超过首战——AG若出局将是年总史上最大冷门。S16营销节奏开始升温，iG出征片打头阵，24日凌晨揭幕战恰逢周六、叠加周年庆，是本周流量最密集的48小时。周年庆方面官方用一诺专题片等内容铺垫情绪，把KPL十周年与游戏周年庆的「双庆联动」做实。",
-  "action": "①今晚18:00 AG vs TES.A赛果与赛后词条（重点盯AG相关）；②明晚18:00 LGD.NBW vs Hero突围赛收官；③10月24日凌晨1点起S16瑞士轮首日四场LPL比赛；④10月24日王者周年庆福利落地、返场直售开启与嘉年华暨KPL奇妙日开幕；⑤10月25日18:30共创之夜直播及首曝新料；⑥继续蹲守逆水寒手游新版本公告。"
+  "trend": "AG 突围赛出局是 KPL 年总史上最大冷门之一，#AG 退役# 单日630分钟说明头部选手去留已成流量引爆点，俱乐部舆情管理持续承压。TES.A「被选中后反杀」叙事叠加回归冠名城市长沙，成为赛事方最喜欢的故事线。S16 与王者周年庆叠加的 48 小时（10/24-25）将是全年游戏流量最高峰之一。",
+  "action": "①今晚18:00 蹲 LGD.NBW vs Hero 赛果与相关词条；②跟踪 AG 后续发酵（菲姐回应扩散、五人组去留是否官宣）；③10/24 凌晨1点 S16 首日四场 LPL 出战表现与早间热搜；④10/24 王者周年庆福利落地+奇妙日、10/25 共创之夜直播热度；⑤逆水寒手游官网公告持续蹲守。"
 }
