@@ -140,3 +140,145 @@
   "trend": "KPL 热度焦点从「AG 出局」切换到「八强对阵」，但 AG 词条全天在榜超600分钟显示舆情长尾惊人，头部选手去留已成为赛事流量第二曲线。S16 未开赛先热，换队服梗连续两天霸占电竞热搜，HLE vs TES 首日对决被提前赋予复仇叙事。明日（10/24）王者周年庆福利+奇妙日与 S16 首日叠加，将是全年游戏流量峰值日之一。",
   "action": "①10/24 凌晨1点 S16 首日四场 LPL 出战（GEN vs iG、HLE vs TES、BLG vs MKOI、AL vs KC），早间收割赛果热搜；②王者周年庆福利落地玩家反响+奇妙日现场、10/25 共创之夜直播；③AG 舆情后续（是否官宣阵容调整）；④10/27 淘汰赛开打前各队备战物料与宣传片；⑤逆水寒手游官网公告继续蹲守。"
 }
+{
+  "date": "2026-10-23",
+  "updatedAt": "2026-10-23 10:57",
+  "headline": "KPL 突围赛收官：杭州LGD.NBW 4:0 零封南通Hero久竞拿下最后门票，淘汰赛抽签出炉（JDGvsTTG、狼队vsTES.A、KSGvsWB、EDG.MvsLGD.NBW）；AG 出局舆情延续（#AG 退役# 全天在榜630分钟）；S16 换队服连续剧反转——Zeus 称早与 TSW.Pun 有约、HLE 转头与 iG 互换返图，明日凌晨1点瑞士轮开打；王者周年庆福利明日落地。",
+  "items": [
+    {
+      "game": "KPL 王者荣耀年度总决赛（突围赛收官+淘汰赛抽签）",
+      "heat": "高",
+      "event": "10/22 晚突围赛收官战，杭州LGD.NBW 4:0 零封南通Hero久竞，拿下最后一张淘汰赛门票：九尾迎来个人联赛生涯第1000局，G4 小落司空震 3/0/6 获 MVP。赛后举行淘汰赛抽签，首轮对阵：10/27 北京JDG vs 广州TTG、10/28 重庆狼队 vs 长沙TES.A、10/29 KSG vs 北京WB、10/30 上海EDG.M vs 杭州LGD.NBW（长沙，BO7双败）。AG 出局舆情持续发酵：#AG 退役# 全天在榜630分钟、#长生 AG# 598分钟、#钟意长生拥抱# 228分钟。",
+      "source": "https://3g.sina.com.cn/news/detail/5356916063866432.html",
+      "hotSearchCheckedAt": "2026-10-23 10:57",
+      "hotSearches": [
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#AG 退役#（10/22 全天累计630分钟）",
+          "foundAt": "2026-10-23 10:57",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261022/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#长生 AG#（10/22 全天累计598分钟）",
+          "foundAt": "2026-10-23 10:57",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261022/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#钟意长生拥抱#（10/22 全天累计228分钟）",
+          "foundAt": "2026-10-23 10:57",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261022/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#一诺状态#（10/22 全天累计220分钟）",
+          "foundAt": "2026-10-23 10:57",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261022/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#KPL抽签#（10/22 全天累计141分钟）",
+          "foundAt": "2026-10-23 10:57",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261022/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#KPL抽签各队反应#（10/22 全天累计25分钟）",
+          "foundAt": "2026-10-23 10:57",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261022/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#lgdnbw成功晋级年总淘汰赛#（10/22 全天累计19分钟）",
+          "foundAt": "2026-10-23 10:57",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261022/"
+        }
+      ]
+    },
+    {
+      "game": "英雄联盟 S16 全球总决赛（瑞士轮明日凌晨开打）",
+      "heat": "中",
+      "event": "换队服连续剧迎反转：Kanavi 称 TES 未提前沟通导致无备用队服；Zeus 最新受访给出另一角度——HLE 已提前和 TSW 的 Pun 约好互换，所以婉拒 TES，本人也表示遗憾；同日 iG 官方晒出与 HLE/TSW/CFO 的换队服返图（Jiaqi×Gumayusi 等），节目效果拉满。S16 瑞士轮 10/24 凌晨1点开打，首日 LPL 四队出战：GEN vs iG、HLE vs TES、BLG vs MKOI、AL vs KC，HLE vs TES 火药味已被提前点燃。",
+      "source": "https://www.sina.cn/news/detail/5356970741072932.html",
+      "hotSearchCheckedAt": "2026-10-23 10:57",
+      "hotSearches": [
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#Zeus谈婉拒TES交换队服#（10/22 上榜5分钟、10/23 上午累计210分钟）",
+          "foundAt": "2026-10-23 10:57",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261023/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#HLE婉拒TES后与iG交换队服#（10/22 全天累计198分钟）",
+          "foundAt": "2026-10-23 10:57",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261022/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#HLE婉拒TES#（10/22 全天累计146分钟）",
+          "foundAt": "2026-10-23 10:57",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261022/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#Kanavi说TES没有提前沟通#（10/22 上榜18分钟、10/23 上午累计16分钟）",
+          "foundAt": "2026-10-23 10:57",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261023/"
+        }
+      ]
+    },
+    {
+      "game": "王者荣耀（周年庆超级节点周明日开启）",
+      "heat": "中",
+      "event": "明日 10/24 周年庆福利集中落地：登录领积分夺宝11抽、蔷薇之心25颗、时装-春归舞、背饰-岿然千秋、周年庆回城-时光定格；限定传说皮【盾山-一塔千年】开启兑换；票选前三【妲己-愿照·众生和】【司空震-愿照·山河定】【西施-续相思】直售返场；全英雄全直售及百款限定免费体验。线下：嘉年华暨 KPL 奇妙日 10/24-25 深圳国际会展中心；共创之夜 10/25 18:30 深圳市体育中心体育馆（19:00 直播）。",
+      "source": "https://www.sina.cn/news/detail/5356188185136385.html",
+      "hotSearchCheckedAt": "2026-10-23 10:57",
+      "hotSearches": []
+    },
+    {
+      "game": "逆水寒手游 / 金铲铲之战",
+      "heat": "低",
+      "event": "逆水寒手游官网公告列表最新仍为 4.1.4 版本（2026年9月），今日无新公告，盗墓笔记联动 10/30 收官倒计时。金铲铲之战今日无更新——网传「15.7版本10月23日更新公告」经核验为 2025 年同期旧闻，不予收录；「大橘大利」测试持续至 11/3。",
+      "source": "https://h.163.com/news/update/",
+      "hotSearchCheckedAt": "2026-10-23 10:57",
+      "hotSearches": []
+    }
+  ],
+  "trend": "KPL 热度焦点从「AG 出局」切换到「八强对阵」，但 AG 词条全天在榜超600分钟显示舆情长尾惊人，头部选手去留已成为赛事流量第二曲线。S16 未开赛先热，换队服梗连续两天霸占电竞热搜，HLE vs TES 首日对决被提前赋予复仇叙事。明日（10/24）王者周年庆福利+奇妙日与 S16 首日叠加，将是全年游戏流量峰值日之一。",
+  "action": "①10/24 凌晨1点 S16 首日四场 LPL 出战（GEN vs iG、HLE vs TES、BLG vs MKOI、AL vs KC），早间收割赛果热搜；②王者周年庆福利落地玩家反响+奇妙日现场、10/25 共创之夜直播；③AG 舆情后续（是否官宣阵容调整）；④10/27 淘汰赛开打前各队备战物料与宣传片；⑤逆水寒手游官网公告继续蹲守。"
+}
