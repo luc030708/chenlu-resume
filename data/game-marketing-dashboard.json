@@ -1,20 +1,28 @@
 {
-  "date": "2026-10-23",
-  "updatedAt": "2026-10-23 06:41 北京时间",
-  "headline": "金铲铲秋季赛开启32进16，三国杀霜降赠礼上线，王者周年庆进入线下活动前夜。",
+  "date": "2026-10-24",
+  "updatedAt": "2026-10-24 06:30 北京时间",
+  "headline": "王者深圳嘉年华今日开场，金铲铲秋季赛进入16进12，周末电竞与周年庆线下流量集中释放。",
   "items": [
     {
       "game": "王者荣耀",
       "heat": "高",
-      "event": "10月24日周年庆福利与深圳嘉年华即将开启，10月25日共创之夜直播承接全英雄全皮肤抽奖；最近24小时未核验到新的独立官宣。热度判定为高：大型线下活动进入开场前夜，福利、直播与到场链路已完成铺设。",
+      "event": "2026周年庆嘉年华暨KPL奇妙日于10月24日在深圳国际会展中心开场，设置游戏打卡、选手互动、现场巡游，并由10月25日共创之夜直播继续承接。热度判定为高：线下主活动正式落地，现场UGC与直播预约进入集中爆发期。",
       "source": "https://www.sina.cn/news/detail/5352454654002999.html",
       "officialPosts": [
+        {
+          "platform": "深圳政府在线",
+          "title": "王者荣耀2026嘉年华暨KPL奇妙日落地深圳",
+          "url": "https://www.sz.gov.cn/szzt2010/yhyshj/yszx/content/post_13017245.html",
+          "publishedAt": "2026-10-16",
+          "foundAt": "2026-10-24 06:30 北京时间",
+          "status": "已核验"
+        },
         {
           "platform": "微博",
           "title": "2026共创之夜全阵容海报与直播福利",
           "url": "https://www.sina.cn/news/detail/5352454654002999.html",
           "publishedAt": "2026-10-20 14:00",
-          "foundAt": "2026-10-23 06:41 北京时间",
+          "foundAt": "2026-10-24 06:30 北京时间",
           "status": "已核验"
         },
         {
@@ -22,7 +30,7 @@
           "title": "共创之夜官方账号公布杨幂等阵容及10月25日直播",
           "url": "https://www.sina.cn/news/detail/5352454654002999.html",
           "publishedAt": "2026-10-20 14:26",
-          "foundAt": "2026-10-23 06:41 北京时间",
+          "foundAt": "2026-10-24 06:30 北京时间",
           "status": "已核验"
         },
         {
@@ -30,7 +38,7 @@
           "title": "公开页面未取得可核验的对应官方单帖",
           "url": "",
           "publishedAt": "",
-          "foundAt": "2026-10-23 06:41 北京时间",
+          "foundAt": "2026-10-24 06:30 北京时间",
           "status": "不可访问"
         },
         {
@@ -38,7 +46,7 @@
           "title": "公开页面跳转登录，无法核验官方单帖",
           "url": "",
           "publishedAt": "",
-          "foundAt": "2026-10-23 06:41 北京时间",
+          "foundAt": "2026-10-24 06:30 北京时间",
           "status": "不可访问"
         },
         {
@@ -46,7 +54,7 @@
           "title": "过去24小时未发现可直接核验的同事件官方原帖",
           "url": "",
           "publishedAt": "",
-          "foundAt": "2026-10-23 06:41 北京时间",
+          "foundAt": "2026-10-24 06:30 北京时间",
           "status": "未发现"
         }
       ],
@@ -70,7 +78,7 @@
           "source": "https://www.sina.cn/news/detail/5352454654002999.html"
         }
       ],
-      "hotSearchCheckedAt": "2026-10-23 06:41 北京时间",
+      "hotSearchCheckedAt": "2026-10-24 06:30 北京时间",
       "hotSearches": []
     },
     {
@@ -84,7 +92,7 @@
           "title": "逆水寒手游更新公告列表（本轮无新公告）",
           "url": "https://h.163.com/news/update/",
           "publishedAt": "",
-          "foundAt": "2026-10-23 06:41 北京时间",
+          "foundAt": "2026-10-24 06:30 北京时间",
           "status": "已核验"
         },
         {
@@ -92,7 +100,7 @@
           "title": "官方论坛未发现最近24小时新营销内容",
           "url": "https://www.taptap.cn/app/191385/topic?type=official",
           "publishedAt": "",
-          "foundAt": "2026-10-23 06:41 北京时间",
+          "foundAt": "2026-10-24 06:30 北京时间",
           "status": "已核验"
         },
         {
@@ -100,7 +108,7 @@
           "title": "部分平台受登录或反爬限制，未取得可核验新原帖",
           "url": "",
           "publishedAt": "",
-          "foundAt": "2026-10-23 06:41 北京时间",
+          "foundAt": "2026-10-24 06:30 北京时间",
           "status": "不可访问"
         }
       ],
@@ -115,21 +123,21 @@
           "source": ""
         }
       ],
-      "hotSearchCheckedAt": "2026-10-23 06:41 北京时间",
+      "hotSearchCheckedAt": "2026-10-24 06:30 北京时间",
       "hotSearches": []
     },
     {
       "game": "金铲铲之战",
       "heat": "高",
-      "event": "官方虎牙直播间10月22日开启公开赛秋季赛32进16 Day1，10月23日继续Day2，并预告11月6日至8日线下半决赛与决赛。热度判定为高：赛事直播、粉丝投票和后续线下决赛形成连续承接。",
+      "event": "官方虎牙直播间10月23日完成秋季赛32进16 C/D组，10月24日进入16进12 Day1，10月25日继续Day2。热度判定为高：赛事连续两天推进，并以直播粉丝投票连接11月线下决赛。",
       "source": "https://www.huya.com/660579",
       "officialPosts": [
         {
           "platform": "虎牙直播",
-          "title": "公开赛秋季赛32进16 Day1及后续赛程",
+          "title": "公开赛秋季赛16进12 Day1及后续赛程",
           "url": "https://www.huya.com/660579",
-          "publishedAt": "2026-10-22",
-          "foundAt": "2026-10-23 06:41 北京时间",
+          "publishedAt": "2026-10-24",
+          "foundAt": "2026-10-24 06:30 北京时间",
           "status": "已核验"
         },
         {
@@ -137,7 +145,7 @@
           "title": "未取得可直接访问的同场赛事官方单帖；部分平台受登录限制",
           "url": "",
           "publishedAt": "",
-          "foundAt": "2026-10-23 06:41 北京时间",
+          "foundAt": "2026-10-24 06:30 北京时间",
           "status": "不可访问"
         }
       ],
@@ -152,13 +160,13 @@
           "source": "https://www.huya.com/660579"
         }
       ],
-      "hotSearchCheckedAt": "2026-10-23 06:41 北京时间",
+      "hotSearchCheckedAt": "2026-10-24 06:30 北京时间",
       "hotSearches": []
     },
     {
       "game": "三国杀手游",
-      "heat": "中",
-      "event": "霜降活动于10月23日进入节气赠礼节点，玩家登录可领周年礼盒、芙华礼盒和银币礼包；SGL第三赛段及梦之回廊同步运行。热度判定为中：节气福利明确拉动当日登录，但跨平台传播仍有限。",
+      "heat": "低",
+      "event": "霜降赠礼节点已于10月23日完成，过去24小时官网未发布新的移动版营销公告；SGL第三赛段与梦之回廊继续运行。热度判定为低：存量活动延续，新增传播信号有限。",
       "source": "https://www.sanguosha.cn/index.php/pc/news-detail-2406.html",
       "officialPosts": [
         {
@@ -166,7 +174,7 @@
           "title": "部分技能描述调整公告",
           "url": "https://www.sanguosha.cn/pc/index",
           "publishedAt": "2026-10-21",
-          "foundAt": "2026-10-23 06:41 北京时间",
+          "foundAt": "2026-10-24 06:30 北京时间",
           "status": "已核验"
         },
         {
@@ -174,7 +182,7 @@
           "title": "2026 SGL移动版第三赛段正赛",
           "url": "https://www.sanguosha.cn/index.php/pc/news-detail-2405.html",
           "publishedAt": "2026-10-16 12:00",
-          "foundAt": "2026-10-23 06:41 北京时间",
+          "foundAt": "2026-10-24 06:30 北京时间",
           "status": "已核验"
         },
         {
@@ -182,7 +190,7 @@
           "title": "10月17日至23日霜降活动",
           "url": "https://www.sanguosha.cn/index.php/pc/news-detail-2406.html",
           "publishedAt": "2026-10-16 17:30",
-          "foundAt": "2026-10-23 06:41 北京时间",
+          "foundAt": "2026-10-24 06:30 北京时间",
           "status": "已核验"
         },
         {
@@ -190,7 +198,7 @@
           "title": "未取得可直接访问的对应官方新原帖；部分平台受登录或反爬限制",
           "url": "",
           "publishedAt": "",
-          "foundAt": "2026-10-23 06:41 北京时间",
+          "foundAt": "2026-10-24 06:30 北京时间",
           "status": "不可访问"
         }
       ],
@@ -205,7 +213,7 @@
           "source": "https://www.sanguosha.cn/index.php/pc/news-detail-2405.html"
         }
       ],
-      "hotSearchCheckedAt": "2026-10-23 06:41 北京时间",
+      "hotSearchCheckedAt": "2026-10-24 06:30 北京时间",
       "hotSearches": []
     },
     {
@@ -219,7 +227,7 @@
           "title": "KPL年度总决赛广州站突围赛售票指南",
           "url": "https://sina.cn/news/detail/5345223271776753.html",
           "publishedAt": "2026-09-20 14:00",
-          "foundAt": "2026-10-23 06:41 北京时间",
+          "foundAt": "2026-10-24 06:30 北京时间",
           "status": "已核验"
         },
         {
@@ -227,7 +235,7 @@
           "title": "未取得可直接访问的10月20日赛果官方单帖",
           "url": "",
           "publishedAt": "",
-          "foundAt": "2026-10-23 06:41 北京时间",
+          "foundAt": "2026-10-24 06:30 北京时间",
           "status": "不可访问"
         }
       ],
@@ -242,7 +250,7 @@
           "source": "https://sina.cn/news/detail/5345223271776753.html"
         }
       ],
-      "hotSearchCheckedAt": "2026-10-23 06:41 北京时间",
+      "hotSearchCheckedAt": "2026-10-24 06:30 北京时间",
       "hotSearches": []
     },
     {
@@ -256,7 +264,7 @@
           "title": "2026全球总决赛主题曲《以我之名》官方MV",
           "url": "https://www.bilibili.com/video/BV1uxp46SEz9/",
           "publishedAt": "2026-10-09",
-          "foundAt": "2026-10-23 06:41 北京时间",
+          "foundAt": "2026-10-24 06:30 北京时间",
           "status": "已核验"
         },
         {
@@ -264,7 +272,7 @@
           "title": "S16全球总决赛赛程与场馆信息",
           "url": "https://weibo.com/2/detail/comos%3Aniviksc7981436",
           "publishedAt": "2026-10-16",
-          "foundAt": "2026-10-23 06:41 北京时间",
+          "foundAt": "2026-10-24 06:30 北京时间",
           "status": "已核验"
         },
         {
@@ -272,7 +280,7 @@
           "title": "过去24小时未取得可核验的新官方原帖",
           "url": "",
           "publishedAt": "",
-          "foundAt": "2026-10-23 06:41 北京时间",
+          "foundAt": "2026-10-24 06:30 北京时间",
           "status": "未发现"
         }
       ],
@@ -287,10 +295,10 @@
           "source": "https://weibo.com/2/detail/comos%3Aniviksc7981436"
         }
       ],
-      "hotSearchCheckedAt": "2026-10-23 06:41 北京时间",
+      "hotSearchCheckedAt": "2026-10-24 06:30 北京时间",
       "hotSearches": []
     }
   ],
-  "trend": "今日营销重心由预热转向节点兑现：金铲铲用32进16直播强化赛事参与，三国杀用霜降赠礼拉动登录，王者则等待周末深圳线下活动集中爆发。",
-  "action": "优先追踪金铲铲32进16赛果与粉丝投票变化，同时在10月24日王者深圳嘉年华开场后快速补齐现场动线、打卡装置、舞台与玩家UGC链接。"
+  "trend": "今日营销重心明显向线下与直播集中：王者周年庆在深圳开场，金铲铲进入16进12连续赛程，短视频与现场UGC将成为周末声量增量的主要来源。",
+  "action": "今天重点抓取王者嘉年华现场的打卡装置、选手互动、巡游和品牌展区原帖，并同步整理金铲铲16进12赛果与粉丝势力投票变化。"
 }
