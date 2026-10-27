@@ -1,304 +1,161 @@
 {
   "date": "2026-10-27",
-  "updatedAt": "2026-10-27 06:31 北京时间",
-  "headline": "KPL淘汰赛今晚开打，王者周年庆进入复盘扩散期，三国杀月末促活持续。",
+  "updatedAt": "2026-10-27 10:46",
+  "headline": "S16瑞士轮AL爆冷止步16强（LPL一号种子连续两年16强出局、官方致歉），第四轮抽签TES与BLG再演内战、iG战LYON；瑞幸×王者KPL十周年联名第一弹开售刷屏；KPL淘汰赛今晚18:00长沙开打。",
   "items": [
     {
-      "game": "王者荣耀",
+      "game": "英雄联盟 S16 全球总决赛",
+      "heat": "高",
+      "event": "10/27凌晨瑞士轮第三轮收官：BLG胜KC晋级2-1组、T1胜CFO，TLAW在BO3生死战淘汰AL——LPL一号种子连续两年止步16强，AL官方赛后致歉。赛后第四轮抽签出炉：2-1组TES vs BLG（LPL内战2.0）、iG vs LYON、MKOI vs T1；1-2组KC vs CFO、TLAW vs LOS、HLE vs G2，第四轮10/29凌晨4点开打。",
+      "source": "https://m.sohu.com/a/1093148697_537985",
+      "hotSearchCheckedAt": "2026-10-27 10:46",
+      "hotSearches": [
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#LPL大概率又要内战了#（当日累计上榜446分钟）",
+          "foundAt": "2026-10-27 10:46",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261027/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#CFO对战T1#（当日累计上榜404分钟）",
+          "foundAt": "2026-10-27 10:46",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261027/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#T1大概率抽到LPL#（当日累计上榜365分钟）",
+          "foundAt": "2026-10-27 10:46",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261027/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#AL淘汰#（当日累计上榜195分钟）",
+          "foundAt": "2026-10-27 10:46",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261027/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#AL一号种子16强#（当日累计上榜178分钟）",
+          "foundAt": "2026-10-27 10:46",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261027/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#iG抽签对阵LYON#（当日累计上榜132分钟）",
+          "foundAt": "2026-10-27 10:46",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261027/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#TES又在瑞士轮打BLG#（当日累计上榜126分钟）",
+          "foundAt": "2026-10-27 10:46",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261027/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#BLG战胜KC#（当日累计上榜123分钟）",
+          "foundAt": "2026-10-27 10:46",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261027/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#AL官方赛后致歉#（当日累计上榜122分钟）",
+          "foundAt": "2026-10-27 10:46",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261027/"
+        }
+      ]
+    },
+    {
+      "game": "瑞幸×王者荣耀KPL 十周年联名",
       "heat": "中",
-      "event": "2026周年庆共创之夜结束后继续释放舞台切片、明星内容和玩家共创复盘，游戏内预约观看抽全英雄全皮肤活动于10月27日24:00截止。热度判定为中：主活动峰值已过，但内容回收与限时福利仍能承接二次传播和回流。",
-      "source": "https://www.gameres.com/901203339.html",
-      "officialPosts": [
-        {
-          "platform": "深圳政府在线",
-          "title": "王者荣耀2026嘉年华暨KPL奇妙日落地深圳",
-          "url": "https://www.sz.gov.cn/szzt2010/yhyshj/yszx/content/post_13017245.html",
-          "publishedAt": "2026-10-16",
-          "foundAt": "2026-10-27 06:31 北京时间",
-          "status": "已核验"
-        },
+      "event": "瑞幸咖啡×王者荣耀KPL十周年联名「十年此刻，开瑞全场」第一弹10/26开售：梦泪/Fly/久诚/Cat/暖阳五款PP杯+水敏小卡等周边，梦泪「名刀司命」镭射小卡玩梗出圈；第二弹11/2上线，集结十大年度人物。",
+      "source": "https://www.sohu.com/a/1092087720_121124833",
+      "hotSearchCheckedAt": "2026-10-27 10:46",
+      "hotSearches": [
         {
           "platform": "微博",
-          "title": "共创之夜直播互动及全英雄全皮肤抽奖说明",
-          "url": "https://m.weibo.cn/2/detail/comos%3Aniwnqqm2743071",
-          "publishedAt": "2026-10-25",
-          "foundAt": "2026-10-27 06:31 北京时间",
-          "status": "已核验"
-        },
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#瑞幸联名王者KPL#（当日累计上榜319分钟）",
+          "foundAt": "2026-10-27 10:46",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261027/"
+        }
+      ]
+    },
+    {
+      "game": "王者荣耀 KPL 年度总决赛",
+      "heat": "中",
+      "event": "2026 KPL年度总决赛淘汰赛今晚10/27 18:00长沙开打，首战北京JDG vs 广州TTG（BO7双败赛制，总奖金池7000万）；后续10/28狼队 vs TES.A、10/29 KSG vs WB、10/30 EDG.M vs LGD.NBW。",
+      "source": "https://kpl.qq.com/",
+      "hotSearchCheckedAt": "2026-10-27 10:46",
+      "hotSearches": [
         {
           "platform": "微博",
-          "title": "王者荣耀2026共创之夜官宣及直播安排",
-          "url": "https://weibo.com/2/detail/5352473122571288",
-          "publishedAt": "2026-10-10 14:08",
-          "foundAt": "2026-10-27 06:31 北京时间",
-          "status": "已核验"
-        },
-        {
-          "platform": "抖音",
-          "title": "公开页面未取得可核验的对应官方单帖",
-          "url": "",
-          "publishedAt": "",
-          "foundAt": "2026-10-27 06:31 北京时间",
-          "status": "不可访问"
-        },
-        {
-          "platform": "小红书",
-          "title": "公开页面跳转登录，无法核验官方单帖",
-          "url": "",
-          "publishedAt": "",
-          "foundAt": "2026-10-27 06:31 北京时间",
-          "status": "不可访问"
-        },
-        {
-          "platform": "B站/公众号/TapTap/视频号",
-          "title": "过去24小时未发现可直接核验的同事件官方原帖",
-          "url": "",
-          "publishedAt": "",
-          "foundAt": "2026-10-27 06:31 北京时间",
-          "status": "未发现"
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#一诺祝福KPL#（当日累计上榜17分钟）",
+          "foundAt": "2026-10-26 22:30",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261026/"
         }
-      ],
-      "offlineActions": [
+      ]
+    },
+    {
+      "game": "影之刃零（行业）",
+      "heat": "低",
+      "event": "国产单机《影之刃零》媒体评分解禁，IGN给出9分，相关话题10/26登上微博热搜。",
+      "source": "https://weibo.zhaoyizhe.com/date/20261026/",
+      "hotSearchCheckedAt": "2026-10-27 10:46",
+      "hotSearches": [
         {
-          "title": "2026周年庆嘉年华暨KPL奇妙日",
-          "city": "深圳",
-          "venue": "深圳国际会展中心1号馆、2号馆及南广场",
-          "startAt": "2026-10-24",
-          "endAt": "2026-10-25",
-          "status": "已核验",
-          "source": "https://www.sina.cn/news/detail/5352454654002999.html"
-        },
-        {
-          "title": "2026周年庆共创之夜",
-          "city": "深圳",
-          "venue": "深圳市体育中心体育馆（主馆）",
-          "startAt": "2026-10-25 18:30",
-          "endAt": "2026-10-25",
-          "status": "已核验",
-          "source": "https://www.sina.cn/news/detail/5352474110071133.html"
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#影之刃零IGN评分9#（当日累计上榜57分钟）",
+          "foundAt": "2026-10-26 22:30",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261026/"
         }
-      ],
-      "hotSearchCheckedAt": "2026-10-27 06:31 北京时间",
-      "hotSearches": []
+      ]
     },
     {
       "game": "逆水寒手游",
       "heat": "低",
-      "event": "过去24小时暂无经核验的新营销事件；官网更新页、TapTap官方论坛及可访问公开页面未发现新版本、联动、福利或线下官宣。热度判定为低：未形成新的传播触点。",
+      "event": "官网最新公告仍为4.1.4版本（2026年9月）更新；盗墓笔记联动活动10/30收官，今日无新版本公告。",
       "source": "https://h.163.com/news/update/",
-      "officialPosts": [
-        {
-          "platform": "官网",
-          "title": "逆水寒手游更新公告列表（本轮无新公告）",
-          "url": "https://h.163.com/news/update/",
-          "publishedAt": "",
-          "foundAt": "2026-10-27 06:31 北京时间",
-          "status": "已核验"
-        },
-        {
-          "platform": "TapTap",
-          "title": "官方论坛未发现最近24小时新营销内容",
-          "url": "https://www.taptap.cn/app/191385/topic?type=official",
-          "publishedAt": "",
-          "foundAt": "2026-10-27 06:31 北京时间",
-          "status": "已核验"
-        },
-        {
-          "platform": "微博/抖音/小红书/公众号/B站/视频号",
-          "title": "部分平台受登录或反爬限制，未取得可核验新原帖",
-          "url": "",
-          "publishedAt": "",
-          "foundAt": "2026-10-27 06:31 北京时间",
-          "status": "不可访问"
-        }
-      ],
-      "offlineActions": [
-        {
-          "title": "未发现经核验的新线下动作",
-          "city": "",
-          "venue": "",
-          "startAt": "",
-          "endAt": "",
-          "status": "未发现",
-          "source": ""
-        }
-      ],
-      "hotSearchCheckedAt": "2026-10-27 06:31 北京时间",
-      "hotSearches": []
-    },
-    {
-      "game": "金铲铲之战",
-      "heat": "低",
-      "event": "过去24小时暂无经核验的新营销事件；秋季赛16进12赛果继续沉淀，官方直播页预告11月6日线下半决赛与11月8日决赛。热度判定为低：距离下一节点仍有间隔，当前以晋级选手内容和线下赛预约为主。",
-      "source": "https://www.huya.com/660579",
-      "officialPosts": [
-        {
-          "platform": "虎牙直播",
-          "title": "公开赛秋季赛16进12 Day2及后续赛程",
-          "url": "https://www.huya.com/660579",
-          "publishedAt": "2026-10-25",
-          "foundAt": "2026-10-27 06:31 北京时间",
-          "status": "已核验"
-        },
-        {
-          "platform": "微博/抖音/小红书/B站/公众号/视频号",
-          "title": "未取得可直接访问的同场赛事官方单帖；部分平台受登录限制",
-          "url": "",
-          "publishedAt": "",
-          "foundAt": "2026-10-27 06:31 北京时间",
-          "status": "不可访问"
-        }
-      ],
-      "offlineActions": [
-        {
-          "title": "全国赛线下半决赛预告",
-          "city": "",
-          "venue": "未公布",
-          "startAt": "2026-11-06",
-          "endAt": "2026-11-08",
-          "status": "已核验",
-          "source": "https://www.huya.com/660579"
-        }
-      ],
-      "hotSearchCheckedAt": "2026-10-27 06:31 北京时间",
-      "hotSearches": []
-    },
-    {
-      "game": "三国杀手游",
-      "heat": "中",
-      "event": "10月24日至30日月末冲刺持续运行，组合每日登录、礼盒返场、限时秒杀、消费奖励和月卡加码；赛博枪战主题玩法“枪鸣锈语”测试版及克隆大作战活动场同步承接活跃。热度判定为中：多层福利与新玩法形成促活组合，但未发现新的跨平台或线下扩散。",
-      "source": "https://www.sanguosha.cn/pc/news-detail-2411.html",
-      "officialPosts": [
-        {
-          "platform": "官网",
-          "title": "10月24日至30日月末冲刺活动",
-          "url": "https://www.sanguosha.cn/pc/news-detail-2411.html",
-          "publishedAt": "2026-10-23 17:30",
-          "foundAt": "2026-10-27 06:31 北京时间",
-          "status": "已核验"
-        },
-        {
-          "platform": "官网",
-          "title": "2026 SGL移动版第三赛段正赛",
-          "url": "https://www.sanguosha.cn/index.php/pc/news-detail-2405.html",
-          "publishedAt": "2026-10-16 12:00",
-          "foundAt": "2026-10-27 06:31 北京时间",
-          "status": "已核验"
-        },
-        {
-          "platform": "官网",
-          "title": "枪鸣锈语全新活动场官方视频入口",
-          "url": "https://www.sanguosha.cn/?appinstall=0",
-          "publishedAt": "2026-10-23",
-          "foundAt": "2026-10-27 06:31 北京时间",
-          "status": "已核验"
-        },
-        {
-          "platform": "微博/抖音/小红书/B站/公众号/TapTap/视频号",
-          "title": "未取得可直接访问的对应官方新原帖；部分平台受登录或反爬限制",
-          "url": "",
-          "publishedAt": "",
-          "foundAt": "2026-10-27 06:31 北京时间",
-          "status": "不可访问"
-        }
-      ],
-      "offlineActions": [
-        {
-          "title": "月末冲刺及枪鸣锈语均为线上活动，未发现经核验的线下动作",
-          "city": "",
-          "venue": "",
-          "startAt": "2026-10-24",
-          "endAt": "2026-10-30",
-          "status": "未发现",
-          "source": "https://www.sanguosha.cn/pc/news-detail-2411.html"
-        }
-      ],
-      "hotSearchCheckedAt": "2026-10-27 06:31 北京时间",
-      "hotSearches": []
-    },
-    {
-      "game": "KPL年度总决赛",
-      "heat": "高",
-      "event": "2026 KPL年度总决赛淘汰赛于10月27日18:00开启，首场北京JDG对阵广州TTG，虎牙直播同步设置观赛抽iQOO16、传说皮肤、选手签名照等福利。热度判定为高：BO7双败淘汰赛正式开打，赛程内容与直播抽奖共同拉动观看和讨论。",
-      "source": "https://hdpage.huya.com/live/webMainActivity/index?id=260197",
-      "officialPosts": [
-        {
-          "platform": "微博",
-          "title": "KPL年度总决赛完整赛程赛制与淘汰赛节点",
-          "url": "https://sina.cn/news/detail/5345222013223292.html",
-          "publishedAt": "2026-09-20 13:55",
-          "foundAt": "2026-10-27 06:31 北京时间",
-          "status": "已核验"
-        },
-        {
-          "platform": "微博/抖音/小红书/B站/直播平台",
-          "title": "未取得可直接访问的10月27日淘汰赛官方单帖",
-          "url": "",
-          "publishedAt": "",
-          "foundAt": "2026-10-27 06:31 北京时间",
-          "status": "不可访问"
-        }
-      ],
-      "offlineActions": [
-        {
-          "title": "2026 KPL年度总决赛淘汰赛",
-          "city": "广州",
-          "venue": "官方赛事场馆（公开页面未完整披露）",
-          "startAt": "2026-10-27 18:00",
-          "endAt": "2026-11-08",
-          "status": "已核验",
-          "source": "https://sina.cn/news/detail/5345222013223292.html"
-        }
-      ],
-      "hotSearchCheckedAt": "2026-10-27 06:31 北京时间",
-      "hotSearches": []
-    },
-    {
-      "game": "英雄联盟S16（行业节点）",
-      "heat": "中",
-      "event": "全球总决赛瑞士轮持续进行，赛果、后续对阵与LPL战队表现成为主要传播内容；最近24小时未核验到新的中国市场独立营销动作。热度判定为中：赛事内容保持关注度，但新增品牌营销信号有限。",
-      "source": "https://weibo.com/2/detail/comos%3Aniviksc7981436",
-      "officialPosts": [
-        {
-          "platform": "B站",
-          "title": "2026全球总决赛主题曲《以我之名》官方MV",
-          "url": "https://www.bilibili.com/video/BV1uxp46SEz9/",
-          "publishedAt": "2026-10-09",
-          "foundAt": "2026-10-27 06:31 北京时间",
-          "status": "已核验"
-        },
-        {
-          "platform": "微博",
-          "title": "S16全球总决赛赛程与场馆信息",
-          "url": "https://weibo.com/2/detail/comos%3Aniviksc7981436",
-          "publishedAt": "2026-10-16",
-          "foundAt": "2026-10-27 06:31 北京时间",
-          "status": "已核验"
-        },
-        {
-          "platform": "抖音/小红书/公众号/视频号",
-          "title": "过去24小时未取得可核验的新官方原帖",
-          "url": "",
-          "publishedAt": "",
-          "foundAt": "2026-10-27 06:31 北京时间",
-          "status": "未发现"
-        }
-      ],
-      "offlineActions": [
-        {
-          "title": "S16瑞士轮及淘汰赛",
-          "city": "艾伦市（美国得州）",
-          "venue": "Credit Union of Texas Event Center",
-          "startAt": "2026-10-24",
-          "endAt": "2026-11-09",
-          "status": "已核验",
-          "source": "https://weibo.com/2/detail/comos%3Aniviksc7981436"
-        }
-      ],
-      "hotSearchCheckedAt": "2026-10-27 06:31 北京时间",
+      "hotSearchCheckedAt": "2026-10-27 10:46",
       "hotSearches": []
     }
   ],
-  "trend": "今日营销重心从周年庆娱乐内容切换至电竞淘汰赛：KPL用高强度BO7和直播抽奖承接王者用户，三国杀以福利叠加新玩法维持促活，其余重点游戏进入节点间歇。",
-  "action": "今天围绕KPL首场淘汰赛同步抓取官方赛前海报、直播福利、赛后高光与选手采访，并在王者全英雄全皮肤福利截止前完成一次倒计时提醒与周年庆素材归档。"
+  "trend": "AL出局把LPL舆情从「反弹」打入「危机」，一号种子连续两年16强是赛区叙事重锤，善后与问责讨论会持续发酵；TES/BLG内战保送一个八强名额，是不幸中的最优解。瑞幸联名把KPL十周年从赛场延伸到消费场景，梦泪梗的二次传播证明情怀IP的带货力。今晚KPL淘汰赛与周四S16第四轮无缝衔接，赛事流量高位运转。",
+  "action": "①今晚18:00 JDG vs TTG赛果及相关词条；②10/29凌晨S16第四轮：TES vs BLG内战、iG vs LYON、MKOI vs T1；③瑞幸联名第二弹11/2前的售罄/二手溢价舆情；④逆水寒10/30联动收官前后公告；⑤AL事件后续（教练组/阵容变动官宣）。"
 }
