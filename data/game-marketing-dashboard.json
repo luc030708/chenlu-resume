@@ -1,123 +1,196 @@
 {
-  "date": "2026-10-28",
-  "updatedAt": "2026-10-28 10:55",
-  "headline": "AL出局舆情延续：Hope专访致歉并爆料教练井盖因签证缺席，词条今日累计上榜超400分钟；KPL淘汰赛JDG 4:2 TTG晋级胜者组半决赛，今晚18:00狼队 vs TES.A；瑞幸联名热度回落，王者荣耀11周年庆返场福利进入收尾周。",
+  "date": "2026-10-29",
+  "updatedAt": "2026-10-29 10:47",
+  "headline": "S16瑞士轮iG 2:1力克LYON时隔2565天重返八强、T1零封MKOI队史第11次晋级，八强锁定四席；KPL狼队4:3险胜TES.A拿下队史第1000个胜局、会师JDG；小浣熊×KPL联名上线掀起「集卡」情怀营销。",
   "items": [
     {
-      "game": "王者荣耀 KPL 年度总决赛",
+      "game": "英雄联盟 S16 全球总决赛",
       "heat": "高",
-      "event": "10/27淘汰赛首战北京JDG 4:2战胜广州TTG，拿下开门红晋级胜者组半决赛（BO7双败，总奖金池7000万）；今晚10/28 18:00重庆狼队 vs 长沙TES.A，10/29 KSG vs 北京WB，10/30 上海EDG.M vs 杭州LGD.NBW。",
-      "source": "https://kpl.qq.com/",
-      "hotSearchCheckedAt": "2026-10-28 10:55",
+      "event": "10/29凌晨瑞士轮第四轮首日：T1 2:0零封MKOI，队史第11次晋级全球总决赛八强；iG 2:1力克LYON（JiaQi女警二打三斩双杀），时隔2565天重返S赛淘汰赛，成为LPL首支晋级八强的队伍。至此八强锁定四席（DK、GEN、T1、iG）；TES vs BLG内战10/30约7点开打，胜者直通八强。",
+      "source": "https://m.sohu.com/a/1094176332_537985",
+      "hotSearchCheckedAt": "2026-10-29 10:47",
       "hotSearches": [
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#JDG晋级年总胜者组半决赛#（当日累计上榜346分钟）",
-          "foundAt": "2026-10-28 10:55",
+          "keyword": "#姆巴佩的道歉没发1.35亿粉的iG上#（当日累计上榜435分钟）",
+          "foundAt": "2026-10-29 10:47",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261028/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261029/"
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#JDG淘汰赛开门红#（当日累计上榜78分钟）",
-          "foundAt": "2026-10-28 10:55",
+          "keyword": "#LYON对战IG#（当日累计上榜177分钟）",
+          "foundAt": "2026-10-29 10:47",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261028/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261029/"
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#Cat TTG#（当日累计上榜70分钟）",
-          "foundAt": "2026-10-28 10:55",
+          "keyword": "#T1晋级S16八强#（当日累计上榜166分钟）",
+          "foundAt": "2026-10-29 10:47",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261028/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261029/"
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#清融带队进胜者组半决赛#（当日累计上榜22分钟）",
-          "foundAt": "2026-10-28 10:55",
+          "keyword": "#iG时隔2565天晋级淘汰赛#（当日累计上榜123分钟）",
+          "foundAt": "2026-10-29 10:47",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261028/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261029/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#iG可能八强遇到T1#（当日累计上榜122分钟）",
+          "foundAt": "2026-10-29 10:47",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261029/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#管泽元宁王看iG晋级S16八强#（当日累计上榜101分钟）",
+          "foundAt": "2026-10-29 10:47",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261029/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#iG从涅槃组冲到S16八强#（当日累计上榜96分钟）",
+          "foundAt": "2026-10-29 10:47",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261029/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#iG冠军相#（当日累计上榜83分钟）",
+          "foundAt": "2026-10-29 10:47",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261029/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#T1无压力拿下MKOI#（当日累计上榜58分钟）",
+          "foundAt": "2026-10-29 10:47",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261029/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#S16八强已锁定四席#（当日累计上榜12分钟）",
+          "foundAt": "2026-10-29 10:47",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261029/"
         }
       ]
     },
     {
-      "game": "英雄联盟 S16 全球总决赛",
+      "game": "王者荣耀 KPL 年度总决赛",
       "heat": "高",
-      "event": "AL出局舆情延续：Hope赛后专访致歉，并爆料负责下路BP的教练井盖（Despa1r）因签证问题未能随队出征；Doinb、管泽元、米勒等解说相继回应，#曝AL人员变动#发酵。瑞士轮第四轮10/29凌晨4点开打：TES vs BLG（LPL内战）、iG vs LYON、MKOI vs T1。",
-      "source": "https://www.163.com/dy/article/LA9LMRCT0553AJXT.html",
-      "hotSearchCheckedAt": "2026-10-28 10:55",
+      "event": "10/28淘汰赛第二日：重庆狼队与长沙TES.A打满七局，4:3险胜晋级胜者组半决赛，第七局是狼队KPL生涯第1000个胜局（联盟首支达成）；TES.A无幻独揽三局MVP难救主。狼队将与北京JDG会师胜者组半决赛；今晚10/29 18:00 KSG vs 北京WB。",
+      "source": "https://post.smzdm.com/p/a26xdpk7/",
+      "hotSearchCheckedAt": "2026-10-29 10:47",
       "hotSearches": [
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#Hope爆料AL井盖工作内容#（当日累计上榜401分钟）",
-          "foundAt": "2026-10-28 10:55",
+          "keyword": "#狼队战胜TES#（当日累计上榜239分钟）",
+          "foundAt": "2026-10-29 10:47",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261029/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#狼队晋级年总胜者组半决赛#（当日累计上榜237分钟）",
+          "foundAt": "2026-10-29 10:47",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261029/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#无畏直播#（当日累计上榜188分钟）",
+          "foundAt": "2026-10-29 10:47",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261029/"
+        }
+      ]
+    },
+    {
+      "game": "小浣熊×KPL 联名",
+      "heat": "中",
+      "event": "统一小浣熊×KPL于10/28正式官宣上线：九尾、清融、Fly、句号、流浪、无言、小落等9位选手登上9套联名包装，覆盖经典/迷你干脆面及麻酱素毛肚，10月起全渠道陆续上架；联名卡牌（真人/透卡/闪卡/漫画/Q版）与色纸、手幅、撕撕乐、抱枕等周边同步推出，复刻「拆面集卡」情怀玩法。",
+      "source": "https://bbs.hupu.com/643376784.html",
+      "hotSearchCheckedAt": "2026-10-29 10:47",
+      "hotSearches": [
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#小浣熊xKPL#（当日累计上榜160分钟）",
+          "foundAt": "2026-10-29 10:47",
           "screenshot": "",
           "source": "https://weibo.zhaoyizhe.com/date/20261028/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#管泽元回应AL十六强#（当日累计上榜255分钟）",
-          "foundAt": "2026-10-28 10:55",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261027/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#曝AL人员变动#（当日累计上榜216分钟）",
-          "foundAt": "2026-10-28 10:55",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261027/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#英雄联盟回应AL16强出局#（当日累计上榜54分钟）",
-          "foundAt": "2026-10-28 10:55",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261027/"
         }
       ]
     },
     {
       "game": "瑞幸×王者荣耀KPL 十周年联名",
       "heat": "低",
-      "event": "联名第一弹（10/26开售）进入第三天，微博词条热度回落（昨日累计上榜319分钟，今日未再上榜）；第二弹11/2上线，集结十大年度人物另五款。",
+      "event": "第一弹（10/26开售）热度进一步回落，连续两日未登微博热搜；第二弹11/2上线，十大年度人物另五款周边待发售。",
       "source": "https://www.sohu.com/a/1092087720_121124833",
-      "hotSearchCheckedAt": "2026-10-28 10:55",
+      "hotSearchCheckedAt": "2026-10-29 10:47",
       "hotSearches": []
     },
     {
-      "game": "王者荣耀 11周年庆",
+      "game": "影之刃零（行业）",
       "heat": "低",
-      "event": "共创之夜已于10/25在深圳落幕（林俊杰、周深、杨幂、邓超等出演，KPL选手走秀）；周年庆福利进入收尾周：票选返场皮肤直售10/30截止，盾山11周年限定皮肤兑换持续至11/7。",
-      "source": "https://k.sina.com.cn/article_7880068207_1d5b04c6f06801sc7q.html",
-      "hotSearchCheckedAt": "2026-10-28 10:55",
-      "hotSearches": []
+      "event": "媒体评分解禁后续：#影之刃零#今日再登微博热搜，IGN 9分带来的口碑讨论持续发酵。",
+      "source": "https://weibo.zhaoyizhe.com/date/20261029/",
+      "hotSearchCheckedAt": "2026-10-29 10:47",
+      "hotSearches": [
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#影之刃零#（当日累计上榜73分钟）",
+          "foundAt": "2026-10-29 10:47",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261029/"
+        }
+      ]
     },
     {
       "game": "逆水寒手游",
       "heat": "低",
-      "event": "官网最新公告仍为4.1.4版本（2026年9月）更新；盗墓笔记联动活动10/30收官在即，今日无新版本公告。",
+      "event": "官网最新公告仍为4.1.4版本（2026年9月）更新；盗墓笔记联动活动明日10/30收官，今日无新版本公告。",
       "source": "https://h.163.com/news/update/",
-      "hotSearchCheckedAt": "2026-10-28 10:55",
+      "hotSearchCheckedAt": "2026-10-29 10:47",
       "hotSearches": []
     }
   ],
-  "trend": "AL事件的讨论从赛果转向问责与内幕（签证缺阵、教练组分工、人员变动），舆情长尾明显且仍在发酵。KPL借淘汰赛与十周年双节点承接流量，JDG晋级让电商战队话题升温。周年庆与联名同步进入兑现期，官方运营重心转向福利收尾与第二弹预热。",
-  "action": "①今晚18:00狼队 vs TES.A赛果及词条；②10/29凌晨4点S16第四轮：TES vs BLG内战、iG vs LYON、MKOI vs T1；③瑞幸联名第二弹11/2预热与第一弹二手溢价；④10/30逆水寒联动收官+王者荣耀返场截止双节点；⑤AL人员变动是否官宣。"
+  "trend": "iG晋级把LPL舆情从AL出局的阴霾中拉回正面，「情怀+黑马」叙事叠加姆巴佩梗出圈，是赛区流量修复的关键节点。KPL赛场内外双热：狼队千胜里程碑与小浣熊集卡联名同日发酵，赛事IP向大众消费品变现的路径越走越顺。明日TES vs BLG内战决定LPL第三张八强门票归属，流量预定高位。",
+  "action": "①今晚18:00 KSG vs 北京WB赛果；②10/30约7点TES vs BLG内战及1-2组生死战（HLE vs G2等）；③小浣熊联名铺货与集卡二手市场热度；④10/30双节点：逆水寒联动收官+王者荣耀返场截止；⑤瑞幸第二弹11/2预热物料。"
 }
