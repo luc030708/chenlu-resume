@@ -1,21 +1,102 @@
 {
-  "date": "2026-10-29",
-  "updatedAt": "2026-10-29 10:47",
-  "headline": "S16瑞士轮iG 2:1力克LYON时隔2565天重返八强、T1零封MKOI队史第11次晋级，八强锁定四席；KPL狼队4:3险胜TES.A拿下队史第1000个胜局、会师JDG；小浣熊×KPL联名上线掀起「集卡」情怀营销。",
+  "date": "2026-10-30",
+  "updatedAt": "2026-10-30 10:48",
+  "headline": "S16瑞士轮TES让一追二2:1战胜BLG晋级八强（LPL第二席），CFO出局、八强定五席；国产3A《影之刃零》10/29全球发售，玩家热议「甄子丹太难打」；10月版号发放183款国产+12款进口；三丽鸥舆情波及王者荣耀等联名游戏。",
   "items": [
     {
       "game": "英雄联盟 S16 全球总决赛",
       "heat": "高",
-      "event": "10/29凌晨瑞士轮第四轮首日：T1 2:0零封MKOI，队史第11次晋级全球总决赛八强；iG 2:1力克LYON（JiaQi女警二打三斩双杀），时隔2565天重返S赛淘汰赛，成为LPL首支晋级八强的队伍。至此八强锁定四席（DK、GEN、T1、iG）；TES vs BLG内战10/30约7点开打，胜者直通八强。",
-      "source": "https://m.sohu.com/a/1094176332_537985",
-      "hotSearchCheckedAt": "2026-10-29 10:47",
+      "event": "10/30凌晨瑞士轮第四轮第二日：TES让一追二2:1战胜BLG（决胜局落后5千经济翻盘、369剑魔建功），成为LPL第二支晋级八强的队伍；KC 2:0淘汰CFO。八强已定五席（DK、GEN、T1、iG、TES），BLG跌入2-2组，11/1第五轮生死战；10/31收官日TL vs LOS、G2 vs HLE再淘汰两队。",
+      "source": "https://m.sohu.com/a/1094758261_537985",
+      "hotSearchCheckedAt": "2026-10-30 10:48",
       "hotSearches": [
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#姆巴佩的道歉没发1.35亿粉的iG上#（当日累计上榜435分钟）",
-          "foundAt": "2026-10-29 10:47",
+          "keyword": "#BLG对战TES#（当日累计上榜205分钟）",
+          "foundAt": "2026-10-30 10:48",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261030/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#BLG对阵TES胜者直通八强#（当日累计上榜183分钟）",
+          "foundAt": "2026-10-30 10:48",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261030/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#TES战胜BLG#（当日累计上榜92分钟）",
+          "foundAt": "2026-10-30 10:48",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261030/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#TES落后5千经济翻盘BLG#（当日累计上榜91分钟）",
+          "foundAt": "2026-10-30 10:48",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261030/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#TES晋级S16淘汰赛#（当日累计上榜75分钟）",
+          "foundAt": "2026-10-30 10:48",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261030/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#BLG瑞士轮生死战现状#（当日累计上榜45分钟）",
+          "foundAt": "2026-10-30 10:48",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261030/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#KC战胜CFO#（当日累计上榜43分钟）",
+          "foundAt": "2026-10-30 10:48",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261030/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#BLG还有最后一次机会#（当日累计上榜22分钟）",
+          "foundAt": "2026-10-30 10:48",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261030/"
+        }
+      ]
+    },
+    {
+      "game": "影之刃零（行业）",
+      "heat": "中",
+      "event": "国产3A武侠动作游戏《影之刃零》10/29全球同步发售（PC Steam/Epic/TapTap/WeGame+PS5，标准版268元、豪华版328元），IGN 9分；甄子丹任监制并面捕动捕出演BOSS「魔渊」，发售首日玩家热议「甄子丹太难打」，与黑神话并提成为国产3A新话题。",
+      "source": "https://m.bjnews.com.cn/detail/1786603531129281.html",
+      "hotSearchCheckedAt": "2026-10-30 10:48",
+      "hotSearches": [
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#影之刃零 黑神话#（当日累计上榜229分钟）",
+          "foundAt": "2026-10-30 10:48",
           "screenshot": "",
           "source": "https://weibo.zhaoyizhe.com/date/20261029/"
         },
@@ -23,8 +104,8 @@
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#LYON对战IG#（当日累计上榜177分钟）",
-          "foundAt": "2026-10-29 10:47",
+          "keyword": "#影之刃零#（当日累计上榜226分钟）",
+          "foundAt": "2026-10-30 10:48",
           "screenshot": "",
           "source": "https://weibo.zhaoyizhe.com/date/20261029/"
         },
@@ -32,151 +113,79 @@
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#T1晋级S16八强#（当日累计上榜166分钟）",
-          "foundAt": "2026-10-29 10:47",
+          "keyword": "#影之刃零甄子丹太难打#（当日累计上榜17分钟）",
+          "foundAt": "2026-10-30 10:48",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261029/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#iG时隔2565天晋级淘汰赛#（当日累计上榜123分钟）",
-          "foundAt": "2026-10-29 10:47",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261029/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#iG可能八强遇到T1#（当日累计上榜122分钟）",
-          "foundAt": "2026-10-29 10:47",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261029/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#管泽元宁王看iG晋级S16八强#（当日累计上榜101分钟）",
-          "foundAt": "2026-10-29 10:47",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261029/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#iG从涅槃组冲到S16八强#（当日累计上榜96分钟）",
-          "foundAt": "2026-10-29 10:47",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261029/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#iG冠军相#（当日累计上榜83分钟）",
-          "foundAt": "2026-10-29 10:47",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261029/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#T1无压力拿下MKOI#（当日累计上榜58分钟）",
-          "foundAt": "2026-10-29 10:47",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261029/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#S16八强已锁定四席#（当日累计上榜12分钟）",
-          "foundAt": "2026-10-29 10:47",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261029/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261030/"
         }
       ]
     },
     {
       "game": "王者荣耀 KPL 年度总决赛",
-      "heat": "高",
-      "event": "10/28淘汰赛第二日：重庆狼队与长沙TES.A打满七局，4:3险胜晋级胜者组半决赛，第七局是狼队KPL生涯第1000个胜局（联盟首支达成）；TES.A无幻独揽三局MVP难救主。狼队将与北京JDG会师胜者组半决赛；今晚10/29 18:00 KSG vs 北京WB。",
-      "source": "https://post.smzdm.com/p/a26xdpk7/",
-      "hotSearchCheckedAt": "2026-10-29 10:47",
-      "hotSearches": [
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#狼队战胜TES#（当日累计上榜239分钟）",
-          "foundAt": "2026-10-29 10:47",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261029/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#狼队晋级年总胜者组半决赛#（当日累计上榜237分钟）",
-          "foundAt": "2026-10-29 10:47",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261029/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#无畏直播#（当日累计上榜188分钟）",
-          "foundAt": "2026-10-29 10:47",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261029/"
-        }
-      ]
-    },
-    {
-      "game": "小浣熊×KPL 联名",
       "heat": "中",
-      "event": "统一小浣熊×KPL于10/28正式官宣上线：九尾、清融、Fly、句号、流浪、无言、小落等9位选手登上9套联名包装，覆盖经典/迷你干脆面及麻酱素毛肚，10月起全渠道陆续上架；联名卡牌（真人/透卡/闪卡/漫画/Q版）与色纸、手幅、撕撕乐、抱枕等周边同步推出，复刻「拆面集卡」情怀玩法。",
-      "source": "https://bbs.hupu.com/643376784.html",
-      "hotSearchCheckedAt": "2026-10-29 10:47",
+      "event": "10/29淘汰赛第三日：北京WB与KSG再度打满七局，WB 4:3险胜晋级胜者组半决赛，KSG掉入败者组（粉丝对队伍运营表达不满）。今晚10/30 18:00上海EDG.M vs 杭州LGD.NBW；胜者组半决赛对阵：北京JDG vs 重庆狼队（11/2）。",
+      "source": "https://kpl.qq.com/",
+      "hotSearchCheckedAt": "2026-10-30 10:48",
       "hotSearches": [
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#小浣熊xKPL#（当日累计上榜160分钟）",
-          "foundAt": "2026-10-29 10:47",
+          "keyword": "#KSG 运营#（当日累计上榜87分钟）",
+          "foundAt": "2026-10-30 10:48",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261028/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261030/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#WB战胜KSG#（当日累计上榜46分钟）",
+          "foundAt": "2026-10-30 10:48",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261029/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#北京WB晋级胜者组半决赛#（当日累计上榜3分钟）",
+          "foundAt": "2026-10-30 10:48",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261029/"
         }
       ]
     },
     {
-      "game": "瑞幸×王者荣耀KPL 十周年联名",
-      "heat": "低",
-      "event": "第一弹（10/26开售）热度进一步回落，连续两日未登微博热搜；第二弹11/2上线，十大年度人物另五款周边待发售。",
-      "source": "https://www.sohu.com/a/1092087720_121124833",
-      "hotSearchCheckedAt": "2026-10-29 10:47",
+      "game": "游戏版号（行业）",
+      "heat": "中",
+      "event": "国家新闻出版署10/29公布2026年10月审批信息：国产网络游戏183款获批，另有12款进口网络游戏获批，版号发放节奏保持稳定。",
+      "source": "https://www.cls.cn/detail/2519432",
+      "hotSearchCheckedAt": "2026-10-30 10:48",
       "hotSearches": []
     },
     {
-      "game": "影之刃零（行业）",
-      "heat": "低",
-      "event": "媒体评分解禁后续：#影之刃零#今日再登微博热搜，IGN 9分带来的口碑讨论持续发酵。",
-      "source": "https://weibo.zhaoyizhe.com/date/20261029/",
-      "hotSearchCheckedAt": "2026-10-29 10:47",
+      "game": "三丽鸥联名舆情（王者荣耀/逆水寒等）",
+      "heat": "中",
+      "event": "三丽鸥因与争议日剧《VIVANT》联名引发中国网友抵制，10/28晚宣布终止全部合作并致歉（声明被指仅内地平台可见、未同步海外）；舆论梳理出王者荣耀、逆水寒手游、蛋仔派对、明日方舟、永劫无间、梦幻西游等均有三丽鸥中国区授权联动，游戏联动业务面临舆情外溢风险。",
+      "source": "https://cj.sina.com.cn/articles/view/5952915720/v162d24908067052veo",
+      "hotSearchCheckedAt": "2026-10-30 10:48",
       "hotSearches": [
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#影之刃零#（当日累计上榜73分钟）",
-          "foundAt": "2026-10-29 10:47",
+          "keyword": "#王者荣耀等游戏与三丽鸥联名#（当日累计上榜276分钟）",
+          "foundAt": "2026-10-30 10:48",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261029/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#三丽鸥游戏联动或受影响#（当日累计上榜19分钟）",
+          "foundAt": "2026-10-30 10:48",
           "screenshot": "",
           "source": "https://weibo.zhaoyizhe.com/date/20261029/"
         }
@@ -185,12 +194,12 @@
     {
       "game": "逆水寒手游",
       "heat": "低",
-      "event": "官网最新公告仍为4.1.4版本（2026年9月）更新；盗墓笔记联动活动明日10/30收官，今日无新版本公告。",
+      "event": "官网公告头条更新为4.2.1版本（2026年10月）更新公告（多日来首次换新）；盗墓笔记联动活动今日10/30收官。",
       "source": "https://h.163.com/news/update/",
-      "hotSearchCheckedAt": "2026-10-29 10:47",
+      "hotSearchCheckedAt": "2026-10-30 10:48",
       "hotSearches": []
     }
   ],
-  "trend": "iG晋级把LPL舆情从AL出局的阴霾中拉回正面，「情怀+黑马」叙事叠加姆巴佩梗出圈，是赛区流量修复的关键节点。KPL赛场内外双热：狼队千胜里程碑与小浣熊集卡联名同日发酵，赛事IP向大众消费品变现的路径越走越顺。明日TES vs BLG内战决定LPL第三张八强门票归属，流量预定高位。",
-  "action": "①今晚18:00 KSG vs 北京WB赛果；②10/30约7点TES vs BLG内战及1-2组生死战（HLE vs G2等）；③小浣熊联名铺货与集卡二手市场热度；④10/30双节点：逆水寒联动收官+王者荣耀返场截止；⑤瑞幸第二弹11/2预热物料。"
+  "trend": "LPL内战以TES翻盘收场，赛区叙事从「保二争三」转向「BLG最后机会」，11/1生死战将再造流量峰值。《影之刃零》发售接棒黑神话的国产3A叙事，「功夫巨星深度共创」的明星制作模式跑通。三丽鸥事件敲响IP联名的地缘舆情警钟，国服运营的切割预案能力成为新考题。",
+  "action": "①今晚18:00 EDG.M vs LGD.NBW赛果；②10/31 S16收官日TL vs LOS、G2 vs HLE及11/1 BLG第五轮生死战对阵；③影之刃零首周销量与Steam在线峰值；④三丽鸥事件后续：游戏内联动内容是否调整；⑤瑞幸×KPL第二弹11/2上线反响。"
 }
