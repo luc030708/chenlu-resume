@@ -1,93 +1,138 @@
 {
-  "date": "2026-11-03",
-  "updatedAt": "2026-11-03 10:44",
-  "headline": "影之刃零官宣发售72小时全平台销量破400万，黑神话制作人冯骥发文祝贺；瑞幸×KPL第二弹「真人上杯」被吐槽单日上榜630分钟成营销争议焦点；KPL北京JDG零封重庆狼队首进年总胜决；S16八强赛明晨开打。",
+  "date": "2026-11-04",
+  "updatedAt": "2026-11-04 10:51",
+  "headline": "S16八强赛揭幕战TES vs iG今晨6点开打，iG先下一城并拿到赛点、TES极限翻盘续命，截至发稿鏖战至后半程；期间出现S16首个长暂停（疑服务器故障），LOL官方已回应。KPL北京WB 4:2逆转上海EDG.M，与北京JDG会师胜者组决赛。",
   "items": [
     {
-      "game": "影之刃零（销量里程碑）",
+      "game": "英雄联盟 S16 八强赛：TES vs iG",
       "heat": "高",
-      "event": "11/2官方宣布发售72小时全平台销量突破400万份；《黑神话：悟空》制作人冯骥发文祝贺「比销量更让人欣喜的是好评率连续三天的变化」，并自曝已游玩30.7小时。本作M站媒体均分88，Steam好评率由77%升至90%；官方称已记录玩家反馈、近期优先修复明显BUG。",
-      "source": "https://www.gamersky.com/news/202611/2239088.shtml",
-      "hotSearchCheckedAt": "2026-11-03 10:44",
+      "event": "11/4早6点LPL内战揭幕战：iG先下一城并一度拿到赛点，TES极限翻盘扳回（369鳄鱼第二局1V3救主、拿下个人世界赛第四个MVP；369与TheShy互相单杀），截至发稿比赛仍在后半程，最终结果待确认。期间出现S16首个长暂停（疑因服务器故障），LOL官方已回应。本场恰逢「仁川3C」（JackeyLove/TheShy/Rookie）世界赛重逢与iG夺冠八周年。",
+      "source": "https://k.sina.com.cn/article_7096020433_1a6f4add106801ret4.html",
+      "hotSearchCheckedAt": "2026-11-04 10:51",
       "hotSearches": [
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#影之刃零销量破400万#（当日累计上榜129分钟）",
-          "foundAt": "2026-11-03 10:44",
+          "keyword": "#S16淘汰赛#（当日累计上榜356分钟）",
+          "foundAt": "2026-11-04 10:51",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261102/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261104/"
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#冯骥回应影之刃零销量破400万#（当日累计上榜56分钟）",
-          "foundAt": "2026-11-03 10:44",
+          "keyword": "#TES对战IG#（当日累计上榜248分钟）",
+          "foundAt": "2026-11-04 10:51",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261102/"
-        }
-      ]
-    },
-    {
-      "game": "瑞幸×王者荣耀×KPL 联名第二弹",
-      "heat": "高",
-      "event": "第二弹11/2上线（一诺、清融、花海、长生、小胖五款PP杯+盲盒小卡），因杯身直接使用选手真人照片引发大规模吐槽，#瑞幸新联名放真人被吐槽#单日累计上榜630分钟，成为本次三方联名最大的舆情节点；此前第一弹（10/26）「全员集合」画风已被指「AI感」，但情怀党依旧抢购，呈现「嘴上吐槽、门店抢空」的反差。",
-      "source": "https://www.sohu.com/a/1091240835_122004016",
-      "hotSearchCheckedAt": "2026-11-03 10:44",
-      "hotSearches": [
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#瑞幸新联名放真人被吐槽#（当日累计上榜630分钟）",
-          "foundAt": "2026-11-03 10:44",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261103/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261104/"
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#瑞幸新联名放真人被吐槽#（当日累计上榜51分钟）",
-          "foundAt": "2026-11-03 10:44",
+          "keyword": "#TES极限翻盘iG#（当日累计上榜138分钟）",
+          "foundAt": "2026-11-04 10:51",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261102/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261104/"
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#瑞幸联名王者KPL#（当日累计上榜52分钟）",
-          "foundAt": "2026-11-03 10:44",
+          "keyword": "#iG VN#（当日累计上榜134分钟）",
+          "foundAt": "2026-11-04 10:51",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261102/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261104/"
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#花海 是小胖我们有救了#（当日累计上榜17分钟）",
-          "foundAt": "2026-11-03 10:44",
+          "keyword": "#369也单杀TheShy了#（当日累计上榜119分钟）",
+          "foundAt": "2026-11-04 10:51",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261102/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261104/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#TheShy单杀369#（当日累计上榜118分钟）",
+          "foundAt": "2026-11-04 10:51",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261104/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#iG打TES拿到赛点#（当日累计上榜83分钟）",
+          "foundAt": "2026-11-04 10:51",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261104/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#TES对战IG比赛暂停#（当日累计上榜55分钟）",
+          "foundAt": "2026-11-04 10:51",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261104/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#S16首个长暂停#（当日累计上榜31分钟）",
+          "foundAt": "2026-11-04 10:51",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261104/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#LOL官方回应S16长暂停#（当日累计上榜27分钟）",
+          "foundAt": "2026-11-04 10:51",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261104/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#369世界赛第四个MVP#（当日累计上榜23分钟）",
+          "foundAt": "2026-11-04 10:51",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261104/"
         }
       ]
     },
     {
       "game": "王者荣耀 KPL 年度总决赛",
       "heat": "高",
-      "event": "11/2胜者组半决赛：北京JDG零封（4:0）重庆狼队，队史首次晋级年总胜者组决赛；狼队掉入败者组。解说瓶子关于JDG与AG的言论引发争议（今日上榜313分钟）。今日11/3 18:00另一场胜者组半决赛北京WB vs 上海EDG.M；今年正值KPL十周年。",
-      "source": "https://kpl.qq.com/",
-      "hotSearchCheckedAt": "2026-11-03 10:44",
+      "event": "11/3胜者组半决赛：北京WB在1:2落后下连追三局，4:2逆转上海EDG.M（昭珏两局MVP、四局总账20杀0死19助），与北京JDG会师11/6胜者组决赛；EDG.M掉入败者组11/5对阵杭州LGD.NBW。今日11/4 18:00败者组广州TTG vs 重庆狼队。KPL十周年话题持续发酵（昨日上榜363分钟），#王者荣耀#今日已累计上榜超600分钟。",
+      "source": "https://post.smzdm.com/p/al3926g0/",
+      "hotSearchCheckedAt": "2026-11-04 10:51",
       "hotSearches": [
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#瓶子解说言论涉及JDG与AG#（当日累计上榜313分钟）",
-          "foundAt": "2026-11-03 10:44",
+          "keyword": "#王者荣耀#（当日累计上榜616分钟）",
+          "foundAt": "2026-11-04 10:51",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261104/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#KPL十周年#（当日累计上榜363分钟）",
+          "foundAt": "2026-11-04 10:51",
           "screenshot": "",
           "source": "https://weibo.zhaoyizhe.com/date/20261103/"
         },
@@ -95,44 +140,8 @@
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#瓶子解说言论涉及JDG与AG#（当日累计上榜117分钟）",
-          "foundAt": "2026-11-03 10:44",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261102/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#JDG战胜狼队#（当日累计上榜159分钟）",
-          "foundAt": "2026-11-03 10:44",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261102/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#JDG对战狼队#（当日累计上榜75分钟）",
-          "foundAt": "2026-11-03 10:44",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261102/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#JDG首次晋级年总胜决#（当日累计上榜69分钟）",
-          "foundAt": "2026-11-03 10:44",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261102/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#狼队回应不敌JDG#（当日累计上榜58分钟）",
-          "foundAt": "2026-11-03 10:44",
+          "keyword": "#WB战胜EDGM#（当日累计上榜25分钟）",
+          "foundAt": "2026-11-04 10:51",
           "screenshot": "",
           "source": "https://weibo.zhaoyizhe.com/date/20261103/"
         },
@@ -140,85 +149,38 @@
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#JDG零封狼队#（当日累计上榜44分钟）",
-          "foundAt": "2026-11-03 10:44",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261102/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#JDG战胜狼队晋级胜者组决赛#（当日累计上榜34分钟）",
-          "foundAt": "2026-11-03 10:44",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261102/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#KPL十周年#（当日累计上榜10分钟）",
-          "foundAt": "2026-11-03 10:44",
+          "keyword": "#WB对战EDGM#（当日累计上榜15分钟）",
+          "foundAt": "2026-11-04 10:51",
           "screenshot": "",
           "source": "https://weibo.zhaoyizhe.com/date/20261103/"
         }
       ]
     },
     {
-      "game": "英雄联盟 S16 全球总决赛（八强赛前夜）",
-      "heat": "中",
-      "event": "1/4决赛明晨开打：11/4-11/7每日北京时间早6点，首场TES vs iG（LPL内战）。休赛期内T1转会传闻发酵：「爆T1没有与多兰续约意向」「Zeus有回归T1的可能」先后登热搜（均为爆料/传闻，未经官方证实）；孙亚龙回应T1签运、Doinb谈HLE十六强等二创内容持续上榜。",
-      "source": "https://m.163.com/dy/article/LAKR72U90549BAP0.html",
-      "hotSearchCheckedAt": "2026-11-03 10:44",
-      "hotSearches": [
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#爆T1没有与多兰续约意向#（当日累计上榜119分钟）",
-          "foundAt": "2026-11-03 10:44",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261103/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#孙亚龙回应T1签运#（当日累计上榜42分钟）",
-          "foundAt": "2026-11-03 10:44",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261103/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#Zeus有回归T1的可能#（当日累计上榜109分钟）",
-          "foundAt": "2026-11-03 10:44",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261102/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#Doinb谈HLE十六强#（当日累计上榜61分钟）",
-          "foundAt": "2026-11-03 10:44",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261102/"
-        }
-      ]
-    },
-    {
-      "game": "金铲铲之战",
+      "game": "金铲铲之战（S18 赛季收官）",
       "heat": "低",
-      "event": "S18「自然之力」赛季预计明日11/4收官并进入18.6版本，S19预计12/1上线（最终以官方停机维护公告为准）。今日无新增热搜词条。",
-      "source": "https://app.ali213.net/gl/1801549.html",
-      "hotSearchCheckedAt": "2026-11-03 10:44",
+      "event": "S18「自然之力」赛季预计今日11/4收官、次日进入S19季前赛（据端游Set18排期推算，最终以官方停机维护公告为准，截至发稿未见官方公告推送）；S19预计12/1正式上线。",
+      "source": "https://m.ali213.net/news/gl2608/1801549.html",
+      "hotSearchCheckedAt": "2026-11-04 10:51",
+      "hotSearches": []
+    },
+    {
+      "game": "瑞幸×KPL 联名（舆情跟踪）",
+      "heat": "低",
+      "event": "第二弹「真人上杯」争议呈单日爆发、次日回落形态：#瑞幸新联名放真人被吐槽#昨日累计上榜630分钟后，今日未再登榜；截至发稿瑞幸官方未就设计争议作出回应，第二弹周边（一诺、清融、花海、长生、小胖款）销售期持续至11/8。",
+      "source": "https://www.sohu.com/a/1091240835_122004016",
+      "hotSearchCheckedAt": "2026-11-04 10:51",
+      "hotSearches": []
+    },
+    {
+      "game": "影之刃零（发售第二周）",
+      "heat": "低",
+      "event": "72小时400万销量官宣后进入口碑运营期：官方称已逐一记录玩家反馈、近期优先修复一批明显BUG；今日无新增热搜词条，下一个观察节点为500万销量官宣与首个更新补丁。",
+      "source": "https://www.gamersky.com/news/202611/2239088.shtml",
+      "hotSearchCheckedAt": "2026-11-04 10:51",
       "hotSearches": []
     }
   ],
-  "trend": "影之刃零72小时400万+冯骥背书，标志着国产单机从「一超（黑神话）」走向「双星」格局，销量官宣本身已成营销事件。瑞幸第二弹的「真人上杯」争议是典型的联名设计与核心粉丝预期错位：吐槽声量越大、门店越抢空，负面舆情短期反而放大曝光，但630分钟的上榜时长值得品牌方复盘设计决策。KPL年总话题重心从赛果外溢到解说言论与十周年情怀，赛事内容生态的「场外话题」占比明显升高。",
-  "action": "①今晚18:00盯WB vs 上海EDG.M（胜者组半决赛）赛果；②明早6:00 S16八强赛首场TES vs iG内战，盯赛前赛后热搜词条；③瑞幸第二弹吐槽舆情是否倒逼官方回应或调整后续物料；④金铲铲S18收官公告（预计11/4）；⑤影之刃零后续销量节点（500万）与BUG修复公告。"
+  "trend": "S16淘汰赛首日即拉满戏剧浓度：内战+赛点翻盘+首个长暂停+「仁川3C」重逢叙事同场叠加，单日热搜密度创本届新高，赛事内容营销价值处于全年峰值。KPL这边WB的让二追三与十周情绪共振，年总话题从赛果向情怀叙事延展。瑞幸争议「一日游」式回落说明粉丝向联名的吐槽更多是玩梗而非抵制，品牌暂无回应必要。",
+  "action": "①确认TES vs iG最终结果并补录（若在傍晚前出结果可更新看板）；②明早6点GEN vs LYON、11/6 DK vs BLG、11/7 T1 vs KC；③今晚18:00 KPL广州TTG vs 重庆狼队败者组；④金铲铲S18官方收官/停机公告是否发布；⑤瑞幸销售期11/8截止前的二次传播。"
 }
