@@ -1,268 +1,270 @@
 {
-  "date": "2026-11-08",
-  "updatedAt": "2026-11-08 10:45",
-  "headline": "S16半决赛首日：GEN 3:0横扫iG率先晋级决赛，Chovy连续8年参赛首进S赛决赛，iG止步四强（队史首次世界赛BO5不敌韩国队）；LPL最后希望落在明晨6点BLG vs T1。KPL北京JDG七连胜队史首进年总决赛，广州TTG零封杭州LGD.NBW晋级败者组决赛。",
+  "date": "2026-11-09",
+  "updatedAt": "2026-11-09 11:02",
+  "headline": "BLG 3:1 击破 T1 世界赛BO5十三连胜金身晋级 S16 决赛，微博超30词条刷屏；KPL 年总锁定「京城德比」，11/14 成都凤凰山 JDG vs WB 争冠。",
   "items": [
     {
-      "game": "英雄联盟 S16 半决赛：GEN 3:0 iG",
+      "game": "英雄联盟 S16 全球总决赛",
       "heat": "高",
-      "event": "11/8早半决赛首日：GEN 3:0横扫iG率先晋级11/15纽约决赛——Canyon奇亚娜首局杀穿全场，Chovy连续8年参加世界赛首次打进S赛决赛（GEN易主后队史首次）；iG止步四强，系队史首次在世界赛BO5不敌韩国队，赛后选手互相安慰、Ning点评BP思路引热议。补录八强赛果：11/4 iG 3:1 TES、11/5 GEN 3:0 LYON、11/6 BLG 3:0 DK、11/7 T1 3:1 KC。",
-      "source": "https://www.ithome.com/1/023/856.htm",
-      "hotSearchCheckedAt": "2026-11-08 10:45",
+      "event": "11月9日凌晨半决赛，BLG 3:1 战胜卫冕冠军 T1 晋级决赛，成为 LPL 史上首支在 S 赛 BO5 击败 T1 的战队，终结 T1 对 LPL 的 13 连胜；Bin、Xun、ON、Knight 多名选手词条霸榜，Faker 无缘四连冠。",
+      "source": "https://www.163.com/dy/article/LB9K65NP0549BAP0.html",
+      "hotSearchCheckedAt": "2026-11-09 11:02",
       "hotSearches": [
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#iG对战GEN#（当日累计上榜306分钟）",
-          "foundAt": "2026-11-08 10:45",
+          "keyword": "#BLG对战T1#（当日累计上榜226分钟）",
+          "foundAt": "2026-11-09 11:02",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261108/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261109/"
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#S16半决赛宣传片#（当日累计上榜265分钟）",
-          "foundAt": "2026-11-08 10:45",
+          "keyword": "#T1的bp#（当日累计上榜189分钟）",
+          "foundAt": "2026-11-09 11:02",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261108/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261109/"
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#iG开局爆炸#（当日累计上榜123分钟）",
-          "foundAt": "2026-11-08 10:45",
+          "keyword": "#Faker太夸张了#（当日累计上榜115分钟）",
+          "foundAt": "2026-11-09 11:02",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261108/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261109/"
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#GEN战胜iG#（当日累计上榜113分钟）",
-          "foundAt": "2026-11-08 10:45",
+          "keyword": "#BLG翻盘T1#（当日累计上榜88分钟）",
+          "foundAt": "2026-11-09 11:02",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261108/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261109/"
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#Chovy刷新S赛最好成绩#（当日累计上榜96分钟）",
-          "foundAt": "2026-11-08 10:45",
+          "keyword": "#BLG战胜T1#（当日累计上榜77分钟）",
+          "foundAt": "2026-11-09 11:02",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261108/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261109/"
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#Ning说iG的BP思路有大问题#（当日累计上榜96分钟）",
-          "foundAt": "2026-11-08 10:45",
+          "keyword": "#BLG成首支S赛BO5战胜T1的LPL战队#（当日累计上榜66分钟）",
+          "foundAt": "2026-11-09 11:02",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261108/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261109/"
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#Canyon琪亚娜杀穿iG#（当日累计上榜93分钟）",
-          "foundAt": "2026-11-08 10:45",
+          "keyword": "#Faker尽力了#（当日累计上榜66分钟）",
+          "foundAt": "2026-11-09 11:02",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261108/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261109/"
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#iG选手赛后互相安慰#（当日累计上榜84分钟）",
-          "foundAt": "2026-11-08 10:45",
+          "keyword": "#众解说回应BLG晋级决赛#（当日累计上榜61分钟）",
+          "foundAt": "2026-11-09 11:02",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261108/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261109/"
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#TheShy评分#（当日累计上榜71分钟）",
-          "foundAt": "2026-11-08 10:45",
+          "keyword": "#Bin 世一上#（当日累计上榜61分钟）",
+          "foundAt": "2026-11-09 11:02",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261108/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261109/"
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#iG队史首次在世界赛BO5不敌韩国队#（当日累计上榜68分钟）",
-          "foundAt": "2026-11-08 10:45",
+          "keyword": "#Bin哥大龙战神#（当日累计上榜60分钟）",
+          "foundAt": "2026-11-09 11:02",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261108/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261109/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#ON萨勒芬妮大招控到T1四人#（当日累计上榜56分钟）",
+          "foundAt": "2026-11-09 11:02",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261109/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#半决赛神Bin天降#（当日累计上榜26分钟）",
+          "foundAt": "2026-11-09 11:02",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261109/"
         }
       ]
     },
     {
-      "game": "英雄联盟 S16 半决赛前瞻：BLG vs T1",
-      "heat": "高",
-      "event": "11/9早6点半决赛第二场：BLG vs T1（BO5），胜者11/15决赛挑战GEN——本届决赛已确定诞生新的世界赛两冠王（GEN曾夺S7、T1六冠、BLG无冠，若BLG夺冠则为首冠；注「两冠王」词条指GEN/T1线）。Faker称「很可惜BLG在半决赛遇到T1」昨日上榜284分钟，Oner表示打BLG没太大问题；BLG对T1世界赛已三连败，#BLG LPL最后的希望#今日登榜。",
-      "source": "https://m.mydrivers.com/newsview/1163915.html",
-      "hotSearchCheckedAt": "2026-11-08 10:45",
+      "game": "英雄联盟 S16 决赛前瞻",
+      "heat": "中",
+      "event": "S16 决赛定于北京时间11月15日3:00在纽约布鲁克林巴克莱中心打响，BLG 对阵 GEN（GEN 于11月8日3:0淘汰 iG 率先晋级）；赛前预测、Bin 喊话 Kiin 等话题已开始发酵，进入决赛宣传周。",
+      "source": "https://www.sohu.com/a/1098989505_114760",
+      "hotSearchCheckedAt": "2026-11-09 11:02",
       "hotSearches": [
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#BLG LPL最后的希望#（当日累计上榜50分钟）",
-          "foundAt": "2026-11-08 10:45",
+          "keyword": "#Faker告别S16#（当日累计上榜48分钟）",
+          "foundAt": "2026-11-09 11:02",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261108/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261109/"
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#Crisp谈BLG对阵T1和iG对阵GEN#（当日累计上榜181分钟）",
-          "foundAt": "2026-11-08 10:45",
+          "keyword": "#BLG晋级S16决赛#（当日累计上榜43分钟）",
+          "foundAt": "2026-11-09 11:02",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261108/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261109/"
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#Faker说很可惜BLG在半决赛遇到T1#（当日累计上榜284分钟）",
-          "foundAt": "2026-11-08 10:45",
+          "keyword": "#LPL终结T1不败纪录#（当日累计上榜36分钟）",
+          "foundAt": "2026-11-09 11:02",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261107/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261109/"
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#S16将诞生新的世界赛两冠王#（当日累计上榜265分钟）",
-          "foundAt": "2026-11-08 10:45",
+          "keyword": "#BLG对战GEN预测#（当日累计上榜33分钟）",
+          "foundAt": "2026-11-09 11:02",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261107/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261109/"
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#T1下手太重了#（当日累计上榜182分钟）",
-          "foundAt": "2026-11-08 10:45",
+          "keyword": "#BLG翻过了那座山#（当日累计上榜25分钟）",
+          "foundAt": "2026-11-09 11:02",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261107/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261109/"
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#BLG与T1历次交手战绩盘点#（当日累计上榜100分钟）",
-          "foundAt": "2026-11-08 10:45",
+          "keyword": "#Bin喊话Kiin#（当日累计上榜2分钟）",
+          "foundAt": "2026-11-09 11:02",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261107/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#oner说打BLG没太大问题#（当日累计上榜86分钟）",
-          "foundAt": "2026-11-08 10:45",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261107/"
-        },
-        {
-          "platform": "微博",
-          "board": "微博热搜（zhaoyizhe历史存档）",
-          "rank": null,
-          "keyword": "#BLG与T1世界赛三连败#（当日累计上榜19分钟）",
-          "foundAt": "2026-11-08 10:45",
-          "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261107/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261109/"
         }
       ]
     },
     {
       "game": "王者荣耀 KPL 年度总决赛",
       "heat": "中",
-      "event": "11/6胜者组决赛：北京JDG战胜北京WB，七连胜队史首次晋级年总总决赛（11/14 17:30）；11/7败者组：广州TTG 3:0零封杭州LGD.NBW晋级败者组决赛，LGD.NBW止步四强（九尾赛后回应登榜）。北京WB与广州TTG会师败者组决赛，胜者将在总决赛挑战JDG（具体赛程以KPL官网为准）。",
-      "source": "https://kpl.qq.com/",
-      "hotSearchCheckedAt": "2026-11-08 10:45",
+      "event": "11月8日晚败者组决赛，北京WB 与广州TTG 鏖战至巅峰对决（BO7打满）胜出，拿到最后一张决赛门票；11月14日17:30 成都凤凰山体育公园，北京JDG vs 北京WB 上演「京城德比」，KPL十周年收官战总奖金池7000万。",
+      "source": "https://www.sina.cn/news/detail/5363140499868319.html",
+      "hotSearchCheckedAt": "2026-11-09 11:02",
       "hotSearches": [
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#九尾回应LGD年总止步四强#（当日累计上榜40分钟）",
-          "foundAt": "2026-11-08 10:45",
+          "keyword": "#KPL#（11/8累计上榜179分钟）",
+          "foundAt": "2026-11-09 11:02",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261107/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261108/"
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#北京JDG七连胜首进决赛#（当日累计上榜33分钟）",
-          "foundAt": "2026-11-08 10:45",
+          "keyword": "#WB凤凰山见#（11/8累计上榜76分钟）",
+          "foundAt": "2026-11-09 11:02",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261107/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261108/"
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#JDG战胜WB#（当日累计上榜32分钟）",
-          "foundAt": "2026-11-08 10:45",
+          "keyword": "#WB和JDG会师凤凰山#（11/8累计上榜52分钟）",
+          "foundAt": "2026-11-09 11:02",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261107/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261108/"
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#TTG零封LGDNBW晋级年总败决#（当日累计上榜31分钟）",
-          "foundAt": "2026-11-08 10:45",
+          "keyword": "#WB挺进年总决赛#（11/8累计上榜42分钟）",
+          "foundAt": "2026-11-09 11:02",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261107/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261108/"
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#KPL十周年#（当日累计上榜48分钟）",
-          "foundAt": "2026-11-08 10:45",
+          "keyword": "#暖阳说JDG你给我等着#（11/8上榜28分钟，11/9再上榜30分钟）",
+          "foundAt": "2026-11-09 11:02",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261107/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261109/"
         },
         {
           "platform": "微博",
           "board": "微博热搜（zhaoyizhe历史存档）",
           "rank": null,
-          "keyword": "#清融三队决赛#（当日累计上榜11分钟）",
-          "foundAt": "2026-11-08 10:45",
+          "keyword": "#WB对战TTG#（11/8累计上榜15分钟）",
+          "foundAt": "2026-11-09 11:02",
           "screenshot": "",
-          "source": "https://weibo.zhaoyizhe.com/date/20261107/"
+          "source": "https://weibo.zhaoyizhe.com/date/20261108/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#TTG遗憾止步年总败决#（11/8累计上榜8分钟）",
+          "foundAt": "2026-11-09 11:02",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261108/"
+        },
+        {
+          "platform": "微博",
+          "board": "微博热搜（zhaoyizhe历史存档）",
+          "rank": null,
+          "keyword": "#WB和TTG巅峰对决#（11/8累计上榜6分钟）",
+          "foundAt": "2026-11-09 11:02",
+          "screenshot": "",
+          "source": "https://weibo.zhaoyizhe.com/date/20261108/"
         }
       ]
-    },
-    {
-      "game": "瑞幸×KPL 联名第二弹（今日收官）",
-      "heat": "低",
-      "event": "第二弹（一诺、清融、花海、长生、小胖款PP杯及周边）销售期今日11/8截止；「真人上杯」争议（11/3单日上榜630分钟）后官方始终未回应，活动按原计划跑完两弹周期。今日无相关上榜词条。",
-      "source": "https://post.smzdm.com/p/a03xw7d0/",
-      "hotSearchCheckedAt": "2026-11-08 10:45",
-      "hotSearches": []
-    },
-    {
-      "game": "金铲铲之战（S19 季前赛）",
-      "heat": "低",
-      "event": "S18「自然之力」赛季已于11/4前后收官，按端游排期推算11/5起进入S19季前赛（截至发稿未检索到官方停机/更新公告，以游戏内公告为准）；S19正式版预计12/1上线。",
-      "source": "https://m.ali213.net/news/gl2608/1801549.html",
-      "hotSearchCheckedAt": "2026-11-08 10:45",
-      "hotSearches": []
     }
   ],
-  "trend": "iG被GEN横扫再次印证LPL与LCK头部战队的BO5运营差距，「赛前拉满、赛后安慰」的情绪曲线已成为每轮中韩对决的固定热搜模板；明晨BLG vs T1是LPL最后的决赛通道，Faker「可惜论」与BLG三连败历史把话题张力推到顶点。KPL进入「一超多强」收尾期，JDG七连胜首进决赛是年总最大黑马叙事，十周年情怀与决赛门票争夺叠加，总决赛周热度可期。",
-  "action": "①明早6点盯BLG vs T1赛果及赛后热搜（若BLG晋级，11/15决赛周将迎流量峰值）；②确认KPL败者组决赛WB vs TTG具体赛程并盯赛果；③11/14 KPL年总总决赛预热物料；④金铲铲S19季前赛官方公告补核；⑤影之刃零500万销量节点。"
+  "trend": "今日游戏营销场被电竞赛事全面主导：S16 半决赛 BLG 破 T1 金身单场带动超30个微博热搜词条，创年内单日电竞热度峰值；KPL 年总进入「京城德比」决赛周。王者荣耀、逆水寒手游、金铲铲之战今日均无可核验的重大官方节点，常规运营注意力被赛事显著虹吸。",
+  "action": "明日盯盘：① S16 决赛 GEN vs BLG（11/15 3:00）进入宣传周，盯官方物料、解说二创与雷鸟等赞助商联动动作；② KPL 总决赛 JDG vs WB（11/14 17:30）盯赛前预热、FMVP 定制皮肤与十周年企划；③ 继续扫微博/B站决赛相关二创爆款；④ 留意王者荣耀、逆水寒手游周中是否恢复常规更新公告节奏。"
 }
